@@ -190,7 +190,7 @@ textarea {
 	font-size: 100%;
 	margin: 0;
 	vertical-align: baseline;
-	*vertical-align: middle;
+	/* *vertical-align: middle; */
 }
 
 .no-margin {
@@ -330,14 +330,14 @@ section {
 html {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	font-smoothing: antialiased;
+	/* font-smoothing: antialiased; */
 	text-rendering: optimizeLegibility;
 }
 
 body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	font-smoothing: antialiased;
+	/* font-smoothing: antialiased; */
 	-webkit-text-size-adjust: 100%;
 	-webkit-overflow-scrolling: touch;
 	text-rendering: optimizeLegibility;
@@ -589,7 +589,7 @@ a,
 .port-item-htext-v2 .port-categ-masonry-v2,
 .port-item-htext-v2 .port-img:after,
 .port-item-htext-v2 .port-img-v2 img {
-	-webkit-backface-visibility: hidden;
+	/* -webkit-backface-visibility: hidden; */
 	-webkit-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-moz-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-o-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
@@ -646,7 +646,7 @@ a,
     width: 0;
     border-top: 1px solid var(--menu-normal-color);
     content: '';
-    -webkit-backface-visibility: hidden;
+    /* -webkit-backface-visibility: hidden; */
     -webkit-transition: all .5s cubic-bezier(.25,1,.35,1) 0s;
     -moz-transition: all .5s cubic-bezier(.25,1,.35,1) 0s;
     -o-transition: all .5s cubic-bezier(.25,1,.35,1) 0s;
@@ -700,7 +700,7 @@ a,
 	-webkit-transform: translateX(0px);
 	-ms-transform: translateX(0px);
 	transform: translateX(0px);
-	-webkit-backface-visibility: hidden;
+	/* -webkit-backface-visibility: hidden; */
 	-webkit-transition: all 0.5s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-moz-transition: all 0.5s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-o-transition: all 0.5s cubic-bezier(0.25, 1, 0.35, 1) 0s;
@@ -946,7 +946,7 @@ body.has-active-menu {
 	-webkit-transform: translateX(400px);
 	-ms-transform: translateX(400px);
 	transform: translateX(400px);
-	-webkit-backface-visibility: hidden;
+	/* -webkit-backface-visibility: hidden; */
 	-webkit-transition: all 0.7s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-moz-transition: all 0.7s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-o-transition: all 0.7s cubic-bezier(0.25, 1, 0.35, 1) 0s;
@@ -1174,7 +1174,7 @@ a.social-skype:hover {
 	background: #fff;
 	margin-top: 0;
 	
-	-webkit-backface-visibility: hidden;
+	/* -webkit-backface-visibility: hidden; */
 -webkit-transition: all .3s cubic-bezier(.25,1,.35,1) 0s;
 -moz-transition: all .3s cubic-bezier(.25,1,.35,1) 0s;
 -o-transition: all .3s cubic-bezier(.25,1,.35,1) 0s;
@@ -1742,7 +1742,7 @@ aside p {
 .album-arrow,
 .album-arrow:before,
 .album-arrow-grid {
-	-webkit-backface-visibility: hidden;
+	/* -webkit-backface-visibility: hidden; */
 	-webkit-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-moz-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-o-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
@@ -2355,7 +2355,7 @@ h2.port-title-masonry-v2{
 .portfolio-slider-item .portfolio-slider-img,
 .portfolio-slider-item .portfolio-slider-img:after,
 .portfolio-slider-item .portfolio-slider-caption{
-	-webkit-backface-visibility: hidden;
+	/* -webkit-backface-visibility: hidden; */
 	-webkit-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-moz-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-o-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
@@ -2418,7 +2418,7 @@ padding-bottom: 400px;
 -o-transform: scale(1);
 transform: scale(1);
 
--webkit-backface-visibility: hidden;
+/* -webkit-backface-visibility: hidden; */
 	-webkit-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-moz-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-o-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
@@ -2701,9 +2701,9 @@ font-size: 16px;}
 * 
 */
 
-.posts-holder {
+/* .posts-holder {
 	
-}
+} */
 
 .page-holder-sidebar,
 .post-sidebar .single-post-holder {
@@ -3920,7 +3920,7 @@ color: #151515;
 	display: block;
 	border-radius: 99em;
 	opacity: 0.7;
-	-webkit-backface-visibility: visible;
+	/* -webkit-backface-visibility: visible; */
 	-webkit-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-moz-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
 	-o-transition: all 1s cubic-bezier(0.25, 1, 0.35, 1) 0s;
