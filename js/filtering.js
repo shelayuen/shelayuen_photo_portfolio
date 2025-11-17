@@ -1,8 +1,8 @@
 function filterItems(category) {
     const items = document.querySelectorAll('.p-items');
     items.forEach(item => {
-        // item.style.display = 'none';
-        item.removeAttribute('data-aos');
+        item.style.display = 'none';
+        // item.removeAttribute('data-aos');
     });
 
     // Reset the text color of all <a> elements to the default
