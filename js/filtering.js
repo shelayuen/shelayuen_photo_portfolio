@@ -14,7 +14,7 @@ function filterItems(category) {
     if (category === 'All') {
         items.forEach(item => item.style.display = 'grid');
         // Highlight the 'All projects' link
-        document.querySelector('.filter-colour.active-filter').style.color = '#b51761ff'; 
+        document.querySelector('.filter-colour.active-filter').style.color = '#87bfbd'; 
     } else {
         const filteredItems = document.querySelectorAll(`.p-items[data-category~="${category}"]`);
         filteredItems.forEach(item => {
@@ -26,7 +26,7 @@ function filterItems(category) {
         });
 
         // Highlight the selected category link
-        document.querySelector(`.filter-colour[onclick="filterItems('${category}')"]`).style.color = '#b1368dff'; // Change color as needed
+        document.querySelector(`.filter-colour[onclick="filterItems('${category}')"]`).style.color = '#87bfbd'; // Change color as needed
 
     }
     
