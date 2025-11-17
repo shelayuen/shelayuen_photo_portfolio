@@ -1462,7 +1462,8 @@ transform: translateY(-50%);
 }
 
 .section-home42{
-	background: #8ac0be;
+	/* background: #8ac0be; */
+	background: #becfcf;
 	padding: 108px 0;
 	margin-top: -108px;
 }
