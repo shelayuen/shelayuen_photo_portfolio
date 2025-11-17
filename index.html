@@ -232,12 +232,20 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div id="port-home4" class="short-portfolio-grid-holder">
-								<ul class="portfolio-filter">
+								<!-- <ul class="portfolio-filter">
 									<li><a class="view-more current" href="#" data-filter="*">Show All</a></li>
 									<li><a class="view-more" href="#" data-filter=".photography">Photography</a></li>
 									<li><a class="view-more" href="#" data-filter=".videography">Video & 3D</a></li>
 									<li><a class="view-more" href="#" data-filter=".marketing">Marketing</a></li>
+								</ul> -->
+								<!-- New filtering code -->
+								<ul class="filter">
+									<li><a onclick="filterItems('All')" class="filter-colour active-filter">All</a></li>
+									<li><a onclick="filterItems('photography')" class="filter-colour">Photography</a></li>
+									<li><a  onclick="filterItems('videography')" class="filter-colour">Video & 3D</a> </li>
+									<li><a onclick="filterItems('marketing')" class="filter-colour">Marketing</a> </li> </li>
 								</ul>
+						<!-- New filtering code -->
 								<div class="port-grid port-grid-4cols">
 									<div class="row layout-masonry">
 										<div class="col-sm-6 col-lg-3 blog-item-masonry photography">
@@ -480,8 +488,13 @@
 		<script src='js/simple-lightbox.js'></script>
 		<!-- MAIN JS -->
 		<script src='js/init.js'></script>
-		<!-- CONTAT FORM JS -->
+
+		<!-- for filtering -->
+    	<script src="js/filtering.js"></script>
+
+		<!-- CONTACT FORM JS -->
 		<script src='js/jquery.form.min.js'></script>
 		<script src='js/contactform.js'></script>
+		
 	</body>
 </html>
