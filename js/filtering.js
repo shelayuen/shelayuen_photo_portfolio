@@ -19,8 +19,8 @@ function filterItems(category) {
         const filteredItems = document.querySelectorAll(`.p-items[data-category~="${category}"]`);
         filteredItems.forEach(item => {
             // - or change to grid
-            item.style.display = 'grid';
-            // // item.style.display = 'flex';
+            // item.style.display = 'grid';
+            item.style.display = 'flex';
             // item.style.gridColumn = 'auto';
             // item.style.gridRow = 'auto';
         });
