@@ -1714,6 +1714,10 @@ aside p {
 
 .port-grid{
 	margin-bottom: -30px;
+	align-items: flex-start;
+    /* Ensure vertical alignment */
+    align-content: flex-start;
+    /* Align grid items to the top */
 }
 
 .port-item-htext {
