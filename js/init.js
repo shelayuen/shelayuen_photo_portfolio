@@ -139,17 +139,17 @@ $(window).on('load', function() {
 	
 	
 	// filter items when filter link is clicked
-// if ($('.portfolio-filter a').length){	
-//  $('.portfolio-filter a').on('click', function(){
-//  $('.portfolio-filter .current').removeClass('current');
-//  $(this).addClass('current');
+if ($('.portfolio-filter a').length){	
+ $('.portfolio-filter a').on('click', function(){
+ $('.portfolio-filter .current').removeClass('current');
+ $(this).addClass('current');
 		
-//   var selector = $(this).attr('data-filter');
-//   portfolioItems.isotope({ filter: selector });
-//   portfolioItems2.isotope({ filter: selector });
-//   return false;
-// });
-// }
+  var selector = $(this).attr('data-filter');
+  portfolioItems.isotope({ filter: selector });
+  portfolioItems2.isotope({ filter: selector });
+  return false;
+});
+}
 
 });	//window.load
 
