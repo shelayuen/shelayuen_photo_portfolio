@@ -1842,6 +1842,15 @@ aside p {
 .portfolio-filter li a:hover {
 	color: var(--primary-color);
 }
+/* add new styles for filtering.js */
+.p-items.hidden {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    width: 0;
+    height: 0;
+}
+/* end of new styles for filtering.js */
 
 /* GRID v2 */
 
