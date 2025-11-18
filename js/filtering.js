@@ -21,8 +21,8 @@ function filterItems(category) {
             // - or change to grid
             item.style.display = 'grid';
             // item.style.display = 'flex';
-            item.style.gridColumn = 'auto';
-            item.style.gridRow = 'auto';
+            // item.style.gridColumn = 'auto';
+            // item.style.gridRow = 'auto';
         });
 
         // Highlight the selected category link
