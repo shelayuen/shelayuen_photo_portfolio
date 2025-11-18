@@ -1,9 +1,22 @@
 function filterItems(category) {
+    // const items = document.querySelectorAll('.p-items');
+    // items.forEach(item => {
+    //     item.style.display = 'none';
+    //     // item.removeAttribute('data-aos');
+    // });
+
     const items = document.querySelectorAll('.p-items');
     items.forEach(item => {
-        item.style.display = 'none';
-        // item.removeAttribute('data-aos');
+        item.classList.remove('hidden');
     });
+
+    if (category !== 'All') {
+        items.forEach(item => {
+            if (!item.dataset.category.includes(category)) {
+                item.classList.add('hidden');
+            }
+        });
+    }
 
     // Reset the text color of all <a> elements to the default
     document.querySelectorAll('.filter-colour').forEach(link => {
