@@ -1710,14 +1710,23 @@ aside p {
 	padding: 0 30px;
 }
 
-/* GRID */
+/* filtering */
 
-.port-grid{
-	margin-bottom: -30px;
+.filter-masonry {
 	align-items: flex-start;
     /* Ensure vertical alignment */
     align-content: flex-start;
     /* Align grid items to the top */
+}
+
+
+/* end of filtering */
+
+
+/* GRID */
+
+.port-grid{
+	margin-bottom: -30px;
 }
 
 .port-item-htext {
