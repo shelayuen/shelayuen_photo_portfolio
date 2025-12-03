@@ -21,6 +21,50 @@
 		<link rel="icon" href="images/icons/favicon-192x192.png" sizes="192x192" />
 		<link rel="apple-touch-icon-precomposed" href="images/icons/favicon-180x180.png" />
 		<!-- swiper -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+			<style>
+				body {
+					font-family: sans-serif;
+					background-color: #f0f0f0;
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					height: 100vh;
+					margin: 0;
+				}
+
+				/* 2. Set the size of the slider container */
+				.swiper {
+					width: 80%;
+					max-width: 800px;
+					height: 400px;
+					border-radius: 15px;
+					box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+				}
+
+				/* 3. Style the slide content */
+				.swiper-slide {
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					background: #fff;
+				}
+
+				/* Ensure images fill the slide without stretching */
+				.swiper-slide img {
+					display: block;
+					width: 100%;
+					height: 100%;
+					object-fit: cover;
+				}
+				
+				/* Optional: Change navigation arrow colors */
+				.swiper-button-next, .swiper-button-prev {
+					color: #ffffff; 
+					text-shadow: 0 0 5px rgba(0,0,0,0.5);
+				}
+			</style>
 		<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 		<script>
 			var swiper = new Swiper(".mySwiper", {
