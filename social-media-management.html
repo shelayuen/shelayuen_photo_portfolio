@@ -20,6 +20,8 @@
 		<link rel="icon" href="images/icons/favicon-32x32.png" sizes="32x32" />
 		<link rel="icon" href="images/icons/favicon-192x192.png" sizes="192x192" />
 		<link rel="apple-touch-icon-precomposed" href="images/icons/favicon-180x180.png" />
+		<!-- swiper -->
+		<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 	</head>
 	<body>
 		<div class="menu-mask"></div>
@@ -259,16 +261,53 @@
 								<div class="gallery-container">
 									<div class="fullscreen-container fs-gallery">
 										<div class="row layout-masonry gallery-holder gallery-masonry3cols">
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\BreakfastMenu.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\BreakfastMenu.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-1.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\DinnerMenu-1.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-2.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\DinnerMenu-2.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\smash.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\smash.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\kids2.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\kids2.jpg" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\weekend-special.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\weekend-special.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\pages\social\reels\gettingready.png" class="lightbox" title=""> 
+												<img class="img-fluid" src="images\albums\menu-design\BreakfastMenu.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-1.png" class="lightbox" title=""> 
+												<img class="img-fluid" src="images\albums\menu-design\DinnerMenu-1.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-2.png" class="lightbox" title=""> 
+												<img class="img-fluid" src="images\albums\menu-design\DinnerMenu-2.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\smash.png" class="lightbox" title=""> 
+												<img class="img-fluid" src="images\albums\menu-design\smash.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\kids2.jpg" class="lightbox" title=""> 
+												<img class="img-fluid" src="images\albums\menu-design\kids2.jpg" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\weekend-special.png" class="lightbox" title=""> 
+												<img class="img-fluid" src="images\albums\menu-design\weekend-special.png" alt=""> </a></div>
 										</div>
 									</div>
 								</div>	
 								
+								<div class="swiper mySwiper">
+									<div class="swiper-wrapper">
+										
+										<div class="swiper-slide">
+											<img src="https://picsum.photos/800/400?random=1" alt="Image 1">
+										</div>
+										<div class="swiper-slide">
+											<img src="https://picsum.photos/800/400?random=2" alt="Image 2">
+										</div>
+										<div class="swiper-slide">
+											<img src="https://picsum.photos/800/400?random=3" alt="Image 3">
+										</div>
+										<div class="swiper-slide">
+											<img src="https://picsum.photos/800/400?random=4" alt="Image 4">
+										</div>
+										<div class="swiper-slide">
+											<img src="https://picsum.photos/800/400?random=5" alt="Image 5">
+										</div>
+
+									</div>
+									
+									<div class="swiper-pagination"></div>
+									
+									<div class="swiper-button-next"></div>
+									<div class="swiper-button-prev"></div>
+								</div>
+
+								
+
+
+
 							</div>
 							<div class="tags-single-page"> <a href="#" rel="tag">Print Media</a> <a href="#" rel="tag">Menu Design</a> <a href="#" rel="tag">Branding</a></div>
 							<div class="author-single-page">
@@ -473,8 +512,28 @@
 		<script src='js/simple-lightbox.js'></script>
 		<!-- MAIN JS -->
 		<script src='js/init.js'></script>
-		<!-- CONTAT FORM JS -->
+		<!-- CONTACT FORM JS -->
 		<script src='js/jquery.form.min.js'></script>
 		<script src='js/contactform.js'></script>
+		<!-- swiper -->
+		<script>
+									var swiper = new Swiper(".mySwiper", {
+										loop: true,               // Allows infinite looping
+										spaceBetween: 30,         // Space between slides in px
+										effect: 'slide',          // Transition effect
+										
+										// Navigation arrows
+										navigation: {
+											nextEl: ".swiper-button-next",
+											prevEl: ".swiper-button-prev",
+										},
+
+										// Pagination dots
+										pagination: {
+											el: ".swiper-pagination",
+											clickable: true,
+										},
+									});
+								</script>
 	</body>
 </html>
