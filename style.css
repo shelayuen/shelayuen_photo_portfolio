@@ -1643,6 +1643,8 @@ font-weight: 600;
 .topnoimg{
 	height: 400px;
 	background: #becfcf;
+	background-image:url('images/albums/up.jpg');
+	background-size: cover;
 }
 .topnoimg.top-single-bkg:before {
 	display: none;
