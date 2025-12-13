@@ -27,11 +27,11 @@
 		<!-- PAGE CONTENT -->
 		<div class="page-holder custom-page-template page-full fullscreen-page home-page-content clearfix">
 			<!-- SECTION 1-->
-			<section class="parallax section-holder section-home41" style="background-image:url('images/albums/up.jpg');">
+			<section class="parallax section-home41" style="background-image:url('images/albums/indoor-whitewedding/IMG_7687.jpg');">
 				<div class="container parallax-content alignc">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
-							<h1 class="display-3 white">Digital storytelling for premium hotels.</h1>
+							<h1 class="display-3 white">Interior</h1>
 						</div>
 					</div>
 					<!-- /row -->			
@@ -41,11 +41,11 @@
 			<!-- /SECTION 1-->
 
 			<!-- SECTION 2-->
-			<section class="parallax section-holder section-home41" style="background-image:url('images/albums/up.jpg');">
+			<section class="parallax section-home41" style="background-image:url('images/albums/food/20250514-IMG_8242.jpg');">
 				<div class="container parallax-content alignc">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
-							<h1 class="display-3 white">Digital storytelling for premium hotels.</h1>
+							<h1 class="display-3 white">Food photography</h1>
 						</div>
 					</div>
 					<!-- /row -->			
@@ -55,18 +55,34 @@
 			<!-- /SECTION 2-->
 
 			<!-- SECTION 3-->
-			<section class="parallax section-holder section-home41" style="background-image:url('images/albums/up.jpg');">
+			<section class="parallax section-home41" style="background-image:url('images/albums/patiowedding-indian/IMG_8593.jpg');">
 				<div class="container parallax-content alignc">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
-							<h1 class="display-3 white">Digital storytelling for premium hotels.</h1>
+							<h1 class="display-3 white">Wedding photography</h1>
 						</div>
 					</div>
 					<!-- /row -->			
 				</div>
 				<!-- /container -->
 			</section>
-			<!-- /SECTION 3-->
+			<!-- /SECTION 3	-->
+
+			<!-- SECTION 4-->
+			<section class="parallax section-home41" style="background-image:url('images/albums/lifestyles/IMG_0980.jpg');">
+				<div class="container parallax-content alignc">
+					<div class="row">
+						<div class="col-lg-8 offset-lg-2">
+							<h1 class="display-3 white">Lifestyle photography</h1>
+						</div>
+					</div>
+					<!-- /row -->			
+				</div>
+				<!-- /container -->
+			</section>
+			<!-- /SECTION 4	-->
+
+
 		</div>
 		<!-- home-page-content -->
 		<!-- /PAGE CONTENT -->
