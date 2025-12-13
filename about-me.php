@@ -75,7 +75,15 @@
 						<div class="award-item">
 							<div class="award-year">2025</div>
 							<div class="award-name">
-								<h4>Marriott-approved photography and video assets</h4>
+								<h4>Producer of Marriott-approved photography and video assets.</h4>
+							</div>
+						</div>
+						<!-- /award-item -->
+						
+						<div class="award-item">
+							<div class="award-year">2025</div>
+							<div class="award-name">
+								<h4>Marketing Manager and Digital Designer, Sheraton Vancouver Guildford Hotel. </h4>
 							</div>
 						</div>
 						<!-- /award-item -->
@@ -118,7 +126,7 @@
 		<!-- /PAGE CONTENT -->
 
 		<?php include 'footer.php'; ?>
-		
+
 		<!-- JS --> 
 		<script src='js/jquery.js'></script>
 		<script src='js/jquery-migrate.min.js'></script>
