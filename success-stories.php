@@ -39,85 +39,85 @@
 			<div class="row layout-masonry">
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="mothersdayreservation.html"> <img src="images\blog\mothersdayreserve\mothersdayreserve.png" class="img-fluid" alt="Marketing Funnel" title="Marketing funnel"> </a></div>
+						<div class="post-image"> <a href="mothersdayreservation.php"> <img src="images\blog\mothersdayreserve\mothersdayreserve.png" class="img-fluid" alt="Marketing Funnel" title="Marketing funnel"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="mothersdayreservation.html">Marketing funnels for Mother's Day Lunch</a></h2>
+							<h2 class="article-title"><a href="mothersdayreservation.php">Marketing funnels for Mother's Day Lunch</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">December 20, 2025</li>
 								<!-- <li class="meta-categ"><a href="#" >News</a> <a href="#" >Portraits</a></li> -->
 							</ul>
 							<div class="article-excerpt">Social media remains one of the most cost-effective marketing channels available—but only when it's used strategically. Simply posting isn't enough. The real magic happens when ...</div>
-							<a class="read-more" href="mothersdayreservation.html">Read More </a>
+							<a class="read-more" href="mothersdayreservation.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<!-- <div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="blog-single-post.html"> <img src="images/blog/blog-8.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
+						<div class="post-image"> <a href="blog-single-post.php"> <img src="images/blog/blog-8.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="blog-single-post.html">New Dress Collection</a></h2>
+							<h2 class="article-title"><a href="blog-single-post.php">New Dress Collection</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">August 18, 2021</li>
 								<li class="meta-categ"><a href="#" >Fashion</a> <a href="#" >News</a></li>
 							</ul>
 							<div class="article-excerpt"> Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et gravida. Maecenas id enim pharetra, ...</div>
-							<a class="read-more" href="blog-single-post.html">Read More </a>
+							<a class="read-more" href="blog-single-post.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="blog-single-post.html"> <img src="images/blog/blog-2.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
+						<div class="post-image"> <a href="blog-single-post.php"> <img src="images/blog/blog-2.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="blog-single-post.html">Family Moments</a></h2>
+							<h2 class="article-title"><a href="blog-single-post.php">Family Moments</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">August 16, 2021</li>
 								<li class="meta-categ"><a href="#" >News</a></li>
 							</ul>
 							<div class="article-excerpt"> Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et gravida. Maecenas id enim pharetra, ...</div>
-							<a class="read-more" href="blog-single-post.html">Read More </a>
+							<a class="read-more" href="blog-single-post.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="blog-single-post.html"> <img src="images/blog/blog-6.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
+						<div class="post-image"> <a href="blog-single-post.php"> <img src="images/blog/blog-6.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="blog-single-post.html">Red Project</a></h2>
+							<h2 class="article-title"><a href="blog-single-post.php">Red Project</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">August 14, 2021</li>
 								<li class="meta-categ"><a href="#" >News</a> <a href="#" >Street</a></li>
 							</ul>
 							<div class="article-excerpt"> Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et gravida. Maecenas id enim pharetra, ...</div>
-							<a class="read-more" href="blog-single-post.html">Read More </a>
+							<a class="read-more" href="blog-single-post.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="blog-single-post.html"> <img src="images/blog/blog-5.jpg" class="img-fluid" alt="Night Neon Mood" title="Night Neon Mood"> </a></div>
+						<div class="post-image"> <a href="blog-single-post.php"> <img src="images/blog/blog-5.jpg" class="img-fluid" alt="Night Neon Mood" title="Night Neon Mood"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="blog-single-post.html">Night Neon Mood</a></h2>
+							<h2 class="article-title"><a href="blog-single-post.php">Night Neon Mood</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">August 11, 2021</li>
 								<li class="meta-categ"><a href="#" >Portraits</a></li>
 							</ul>
 							<div class="article-excerpt"> Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et gravida. Maecenas id enim pharetra, ...</div>
-							<a class="read-more" href="blog-single-post.html">Read More </a>
+							<a class="read-more" href="blog-single-post.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="blog-single-post.html"> <img src="images/blog/blog-4.jpg" class="img-fluid" alt="Erica Street Portrait" title="Erica Street Portrait"> </a></div>
+						<div class="post-image"> <a href="blog-single-post.php"> <img src="images/blog/blog-4.jpg" class="img-fluid" alt="Erica Street Portrait" title="Erica Street Portrait"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="blog-single-post.html">Erica Street Portrait</a></h2>
+							<h2 class="article-title"><a href="blog-single-post.php">Erica Street Portrait</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">August 9, 2021</li>
 								<li class="meta-categ"><a href="#" >Portraits</a> <a href="#" >Street</a></li>
 							</ul>
 							<div class="article-excerpt"> Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et gravida. Maecenas id enim pharetra, ...</div>
-							<a class="read-more" href="blog-single-post.html">Read More </a>
+							<a class="read-more" href="blog-single-post.php">Read More </a>
 						</div>
 					</article>
 				</div> -->

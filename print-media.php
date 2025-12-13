@@ -86,10 +86,10 @@
 					<div class="row meta-nav-holder port-meta-nav">
 						<div class="col-md-6 meta-nav">
 							<div class="pn-holder">
-								<div class="pn-img"> <a href="email-marketing.html"> <img class="img-fluid" src="images/home/featured-projects/life.png" alt="Prev Gallery"> </a></div>
+								<div class="pn-img"> <a href="email-marketing.php"> <img class="img-fluid" src="images/home/featured-projects/life.png" alt="Prev Gallery"> </a></div>
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="email-marketing.html">← Email Marketing</a></h3>
+										<h3><a href="email-marketing.php">← Email Marketing</a></h3>
 									</div>
 								</div>
 							</div>
@@ -98,10 +98,10 @@
 							<div class="pn-holder">
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="3D-virtual-tour.html">3D Virtual Tour →</a></h3>
+										<h3><a href="3D-virtual-tour.php">3D Virtual Tour →</a></h3>
 									</div>
 								</div>
-								<div class="pn-img"> <a href="3D-virtual-tour.html"> <img class="img-fluid" src="images\home\featured-projects\virtual.png" alt="Next Gallery"> </a></div>
+								<div class="pn-img"> <a href="3D-virtual-tour.php"> <img class="img-fluid" src="images\home\featured-projects\virtual.png" alt="Next Gallery"> </a></div>
 							</div>
 						</div>
 					</div>

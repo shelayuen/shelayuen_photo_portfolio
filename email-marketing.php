@@ -72,10 +72,10 @@
 					<div class="row meta-nav-holder port-meta-nav">
 						<div class="col-md-6 meta-nav">
 							<div class="pn-holder">
-								<div class="pn-img"> <a href="social-media-management.html"> <img class="img-fluid" src="images/home/featured-projects/social.png" alt="Prev Gallery"> </a></div>
+								<div class="pn-img"> <a href="social-media-management.php"> <img class="img-fluid" src="images/home/featured-projects/social.png" alt="Prev Gallery"> </a></div>
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="social-media-management.html">← Social Media Management</a></h3>
+										<h3><a href="social-media-management.php">← Social Media Management</a></h3>
 									</div>
 								</div>
 							</div>
@@ -84,10 +84,10 @@
 							<div class="pn-holder">
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="print-media.html">Print Media →</a></h3>
+										<h3><a href="print-media.php">Print Media →</a></h3>
 									</div>
 								</div>
-								<div class="pn-img"> <a href="print-media.html"> <img class="img-fluid" src="images\home\featured-projects\print.png" alt="Next Gallery"> </a></div>
+								<div class="pn-img"> <a href="print-media.php"> <img class="img-fluid" src="images\home\featured-projects\print.png" alt="Next Gallery"> </a></div>
 							</div>
 						</div>
 					</div>

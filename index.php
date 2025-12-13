@@ -68,9 +68,9 @@
 						<div class="col-lg-4">
 							<div class="box-holder margin-bm54">
 								<div class="box-icon margin-b24">
-									<a href="3D-virtual-tour.html"><img src="images/home/home4-f2.jpg" alt=""></a>
+									<a href="3D-virtual-tour.php"><img src="images/home/home4-f2.jpg" alt=""></a>
 								</div>
-								<a href="3D-virtual-tour.html"><h3 class="box-title">3D Virtual Tour</h3></a>
+								<a href="3D-virtual-tour.php"><h3 class="box-title">3D Virtual Tour</h3></a>
 								<p>I produce immersive 3D tours and cinematic videos that let potential guests experience your property remotely and emotionally connect with your brand.</p>
 							</div>
 						</div>
@@ -78,9 +78,9 @@
 						<div class="col-lg-4">
 							<div class="box-holder">
 								<div class="box-icon margin-b24">
-									<a href="marketing-branding.html"><img src="images/home/home4-f3.jpg" alt=""></a>
+									<a href="marketing-branding.php"><img src="images/home/home4-f3.jpg" alt=""></a>
 								</div>
-								<a href="marketing-branding.html"><h3 class="box-title">Social Media & Marketing</h3></a>
+								<a href="marketing-branding.php"><h3 class="box-title">Social Media & Marketing</h3></a>
 								<p>I develop and execute strategic social campaigns that engage your ideal guests, amplify your unique positioning, and drive measurable bookings.</p>
 							</div>
 						</div>
@@ -110,7 +110,7 @@
 									<div class="row">
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="photography">
 											<div class="port-item-htext">
-												<a href="interior-photography.html">
+												<a href="interior-photography.php">
 													<div class="port-img"><img src="images/home/featured-projects/interior.png" class="img-fluid" alt="interior-photography"></div>
 													<div class="port-caption">
 														<h3>Interior photography</h3>
@@ -124,7 +124,7 @@
 										</div>
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="photography">
 											<div class="port-item-htext">
-												<a href="food-photography.html">
+												<a href="food-photography.php">
 													<div class="port-img"><img src="images/home/featured-projects/food.png" class="img-fluid" alt="Food photography"></div>
 													<div class="port-caption">
 														<h3>Food photography</h3>
@@ -138,7 +138,7 @@
 										</div>
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="photography">
 											<div class="port-item-htext">
-												<a href="lifestyle-photography.html">
+												<a href="lifestyle-photography.php">
 													<div class="port-img"><img src="images/home/featured-projects/life.png" class="img-fluid" alt="lifestyle-photography"></div>
 													<div class="port-caption">
 														<h3>Lifestyle Photography</h3>
@@ -152,7 +152,7 @@
 										</div>
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="photography">
 											<div class="port-item-htext">
-												<a href="restaurant-photography.html">
+												<a href="restaurant-photography.php">
 													<div class="port-img"><img src="images\home\featured-projects\rest.png" class="img-fluid" alt="restaurant-photography"></div>
 													<div class="port-caption">
 														<h3>Restaurant & Kiosk Photography</h3>
@@ -166,7 +166,7 @@
 										</div>
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="videography">
 											<div class="port-item-htext">
-												<a href="3D-virtual-tour.html">
+												<a href="3D-virtual-tour.php">
 													<div class="port-img"><img src="images\home\featured-projects\virtual.png" class="img-fluid" alt="Virtual Tour"></div>
 													<div class="port-caption">
 														<h3>3D Virtual Tour</h3>
@@ -180,7 +180,7 @@
 										</div>
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="videography">
 											<div class="port-item-htext">
-												<a href="hotel-promo-video.html">
+												<a href="hotel-promo-video.php">
 													<div class="port-img"><img src="images\home\featured-projects\video.png" class="img-fluid" alt="Promotional Video"></div>
 													<div class="port-caption">
 														<h3>Promotional Video</h3>
@@ -194,7 +194,7 @@
 										</div>
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="marketing">
 											<div class="port-item-htext">
-												<a href="social-media-management.html">
+												<a href="social-media-management.php">
 													<div class="port-img"><img src="images\home\featured-projects\social.png" class="img-fluid" alt="Social Media"></div>
 													<div class="port-caption">
 														<h3>Social Media</h3>
@@ -208,7 +208,7 @@
 										</div>
 										<div class="col-sm-6 col-lg-3 blog-item-masonry p-items" data-category="marketing">
 											<div class="port-item-htext">
-												<a href="print-media.html">
+												<a href="print-media.php">
 													<div class="port-img"><img src="images\home\featured-projects\print.png" class="img-fluid" alt="Branding"></div>
 													<div class="port-caption">
 														<h3>Branding</h3>

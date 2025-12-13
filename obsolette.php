@@ -4,138 +4,138 @@
 				<div class="exit-mobile"> <span class="icon-bar1"></span> <span class="icon-bar2"></span></div>
 				<ul class="menu-mobile">
 					<li class="menu-item menu-item-has-children current-menu-item">
-						<a href="index.html">Home</a>
+						<a href="index.php">Home</a>
 						<!-- <ul class="sub-menu">
-							<li class="menu-item"><a href="index.html">Home 1</a></li>
+							<li class="menu-item"><a href="index.php">Home 1</a></li>
 						</ul> -->
 					</li>
 					<li class="menu-item menu-item-has-children">
 						<a href="#">Projects</a>
 						<ul class="sub-menu">
 							<li class="menu-item menu-item-has-children">
-								<a href="top-header-2.html">Photography</a>
+								<a href="top-header-2.php">Photography</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="index.html">Top Header 1</a></li>
-									<li class="menu-item"><a href="top-header-2.html">Top Header 2</a></li>
-									<li class="menu-item"><a href="top-header-3.html">Top Header 3</a></li>
-									<li class="menu-item"><a href="top-header-4.html">Top Header 4</a></li>
-									<li class="menu-item"><a href="top-header-5.html">Top Header 5</a></li>
+									<li class="menu-item"><a href="index.php">Top Header 1</a></li>
+									<li class="menu-item"><a href="top-header-2.php">Top Header 2</a></li>
+									<li class="menu-item"><a href="top-header-3.php">Top Header 3</a></li>
+									<li class="menu-item"><a href="top-header-4.php">Top Header 4</a></li>
+									<li class="menu-item"><a href="top-header-5.php">Top Header 5</a></li>
 								</ul>
 							</li>
-							<li class="menu-item"><a href="about-me.html">About Me</a></li>
-							<li class="menu-item"><a href="pricing-packages.html">Pricing Packages</a></li>
-							<li class="menu-item"><a href="contact.html">Contact</a></li>
+							<li class="menu-item"><a href="about-me.php">About Me</a></li>
+							<li class="menu-item"><a href="pricing-packages.php">Pricing Packages</a></li>
+							<li class="menu-item"><a href="contact.php">Contact</a></li>
 						</ul>
 					<!-- </li>
 					<li class="menu-item menu-item-has-children">
-						<a href="albums-grid-3cols.html">Albums</a>
+						<a href="albums-grid-3cols.php">Albums</a>
 						<ul class="sub-menu">
 							<li class="menu-item menu-item-has-children">
-								<a href="albums-grid-3cols.html">Albums Grid v1</a>
+								<a href="albums-grid-3cols.php">Albums Grid v1</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="albums-grid-2cols.html">Albums Grid 2 Cols</a></li>
-									<li class="menu-item"><a href="albums-grid-3cols.html">Albums Grid 3 Cols</a></li>
-									<li class="menu-item"><a href="albums-grid-4cols.html">Albums Grid 4 Cols</a></li>
+									<li class="menu-item"><a href="albums-grid-2cols.php">Albums Grid 2 Cols</a></li>
+									<li class="menu-item"><a href="albums-grid-3cols.php">Albums Grid 3 Cols</a></li>
+									<li class="menu-item"><a href="albums-grid-4cols.php">Albums Grid 4 Cols</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="albums-grid-v2.html">Albums Grid v2</a>
+								<a href="albums-grid-v2.php">Albums Grid v2</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="albums-grid-v2.html">Style 1</a></li>
-									<li class="menu-item"><a href="albums-grid-v2-style-2.html">Style 2</a></li>
-									<li class="menu-item"><a href="albums-grid-v2-style-3.html">Style 3</a></li>
+									<li class="menu-item"><a href="albums-grid-v2.php">Style 1</a></li>
+									<li class="menu-item"><a href="albums-grid-v2-style-2.php">Style 2</a></li>
+									<li class="menu-item"><a href="albums-grid-v2-style-3.php">Style 3</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="albums-grid-v3.html">Albums Grid v3</a>
+								<a href="albums-grid-v3.php">Albums Grid v3</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="albums-grid-v3.html">Style 1</a></li>
-									<li class="menu-item"><a href="albums-grid-v3-style-2.html">Style 2</a></li>
-									<li class="menu-item"><a href="albums-grid-v3-style-3.html">Style 3</a></li>
+									<li class="menu-item"><a href="albums-grid-v3.php">Style 1</a></li>
+									<li class="menu-item"><a href="albums-grid-v3-style-2.php">Style 2</a></li>
+									<li class="menu-item"><a href="albums-grid-v3-style-3.php">Style 3</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="albums-grid-v4.html">Albums Grid v4</a>
+								<a href="albums-grid-v4.php">Albums Grid v4</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="albums-grid-v4.html">Style 1</a></li>
-									<li class="menu-item"><a href="albums-grid-v4-style-2.html">Style 2</a></li>
-									<li class="menu-item"><a href="albums-grid-v4-style-3.html">Style 3</a></li>
+									<li class="menu-item"><a href="albums-grid-v4.php">Style 1</a></li>
+									<li class="menu-item"><a href="albums-grid-v4-style-2.php">Style 2</a></li>
+									<li class="menu-item"><a href="albums-grid-v4-style-3.php">Style 3</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="albums-masonry-3cols.html">Albums Masonry v1</a>
+								<a href="albums-masonry-3cols.php">Albums Masonry v1</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="albums-masonry-2cols.html">Albums Masonry 2 Cols</a></li>
-									<li class="menu-item"><a href="albums-masonry-3cols.html">Albums Masonry 3 Cols</a></li>
-									<li class="menu-item"><a href="albums-masonry-4cols.html">Albums Masonry 4 Cols</a></li>
+									<li class="menu-item"><a href="albums-masonry-2cols.php">Albums Masonry 2 Cols</a></li>
+									<li class="menu-item"><a href="albums-masonry-3cols.php">Albums Masonry 3 Cols</a></li>
+									<li class="menu-item"><a href="albums-masonry-4cols.php">Albums Masonry 4 Cols</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="albums-masonry-v2-3cols.html">Albums Masonry v2</a>
+								<a href="albums-masonry-v2-3cols.php">Albums Masonry v2</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="albums-masonry-v2-2cols.html">Albums Masonry v2 2 Cols</a></li>
-									<li class="menu-item"><a href="albums-masonry-v2-3cols.html">Albums Masonry v2 3 Cols</a></li>
-									<li class="menu-item"><a href="albums-masonry-v2-4cols.html">Albums Masonry v2 4 Cols</a></li>
+									<li class="menu-item"><a href="albums-masonry-v2-2cols.php">Albums Masonry v2 2 Cols</a></li>
+									<li class="menu-item"><a href="albums-masonry-v2-3cols.php">Albums Masonry v2 3 Cols</a></li>
+									<li class="menu-item"><a href="albums-masonry-v2-4cols.php">Albums Masonry v2 4 Cols</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="albums-fullscreen.html">Albums Full Screen</a>
+								<a href="albums-fullscreen.php">Albums Full Screen</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="albums-fullscreen.html">Full Screen Grid</a></li>
-									<li class="menu-item"><a href="albums-fullscreen-masonry.html">Full Screen Masonry</a></li>
+									<li class="menu-item"><a href="albums-fullscreen.php">Full Screen Grid</a></li>
+									<li class="menu-item"><a href="albums-fullscreen-masonry.php">Full Screen Masonry</a></li>
 								</ul>
 							</li>
 						</ul>
 					</li> -->
 					<li class="menu-item menu-item-has-children">
-						<a href="portfolio-grid-3cols-fullscreen.html">Galleries</a>
+						<a href="portfolio-grid-3cols-fullscreen.php">Galleries</a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="portfolio-grid-1col.html">Grid 1 Col</a></li>
-							<li class="menu-item"><a href="portfolio-grid-2cols.html">Grid 2 Cols</a></li>
+							<li class="menu-item"><a href="portfolio-grid-1col.php">Grid 1 Col</a></li>
+							<li class="menu-item"><a href="portfolio-grid-2cols.php">Grid 2 Cols</a></li>
 							<li class="menu-item menu-item-has-children">
-								<a href="portfolio-grid-3cols.html">Grid 3 Cols</a>
+								<a href="portfolio-grid-3cols.php">Grid 3 Cols</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="portfolio-grid-3cols-fullscreen.html">Full Screen</a></li>
+									<li class="menu-item"><a href="portfolio-grid-3cols-fullscreen.php">Full Screen</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="portfolio-grid-4cols.html">Grid 4 Cols</a>
+								<a href="portfolio-grid-4cols.php">Grid 4 Cols</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="portfolio-grid-4cols-fullscreen.html">Full Screen</a></li>
+									<li class="menu-item"><a href="portfolio-grid-4cols-fullscreen.php">Full Screen</a></li>
 								</ul>
 							</li>
-							<li class="menu-item"><a href="portfolio-masonry-2cols.html">Masonry 2 Cols</a></li>
+							<li class="menu-item"><a href="portfolio-masonry-2cols.php">Masonry 2 Cols</a></li>
 							<li class="menu-item menu-item-has-children">
-								<a href="portfolio-masonry-3cols.html">Masonry 3 Cols</a>
+								<a href="portfolio-masonry-3cols.php">Masonry 3 Cols</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="portfolio-masonry-3cols-fullscreen.html">Full Screen</a></li>
+									<li class="menu-item"><a href="portfolio-masonry-3cols-fullscreen.php">Full Screen</a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-								<a href="portfolio-masonry-4cols.html">Masonry 4 Cols</a>
+								<a href="portfolio-masonry-4cols.php">Masonry 4 Cols</a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="portfolio-masonry-4cols-fullscreen.html">Full Screen</a></li>
+									<li class="menu-item"><a href="portfolio-masonry-4cols-fullscreen.php">Full Screen</a></li>
 								</ul>
 							</li>
 						</ul>
 					</li>
 					<li class="menu-item menu-item-has-children">
-						<a href="blog.html">Blog</a>
+						<a href="blog.php">Blog</a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="blog-classic.html">Blog Classic</a></li>
-							<li class="menu-item"><a href="blog-list.html">Blog List</a></li>
-							<li class="menu-item"><a href="blog.html">Blog Grid 2 Cols</a></li>
-							<li class="menu-item"><a href="blog-grid-3-cols.html">Blog Grid 3 Cols</a></li>
-							<li class="menu-item"><a href="blog-single-post.html">Single Post</a></li>
+							<li class="menu-item"><a href="blog-classic.php">Blog Classic</a></li>
+							<li class="menu-item"><a href="blog-list.php">Blog List</a></li>
+							<li class="menu-item"><a href="blog.php">Blog Grid 2 Cols</a></li>
+							<li class="menu-item"><a href="blog-grid-3-cols.php">Blog Grid 3 Cols</a></li>
+							<li class="menu-item"><a href="blog-single-post.php">Single Post</a></li>
 						</ul>
 					</li>
 					<li class="menu-item">
-						<a href="contact.html">Contact</a>
+						<a href="contact.php">Contact</a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="contact.html">Contact 1</a></li>
-							<li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-							<li class="menu-item"><a href="contact-3.html">Contact 3</a></li>
-							<li class="menu-item"><a href="contact-4.html">Contact 4</a></li>
+							<li class="menu-item"><a href="contact.php">Contact 1</a></li>
+							<li class="menu-item"><a href="contact-2.php">Contact 2</a></li>
+							<li class="menu-item"><a href="contact-3.php">Contact 3</a></li>
+							<li class="menu-item"><a href="contact-4.php">Contact 4</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -159,161 +159,161 @@
 		<header class="main-header header-1">
 			<div class="container">
 				<div class="header-container">
-					<div class="logo logo-1 logo-white"><a href="index.html"><img class="img-fluid" src="images/wordmark_color@3x.png" alt="Gleam"></a></div>
-					<div class="logo logo-1 logo-dark"><a href="index.html"><img class="img-fluid" src="images/wordmark__b&w@3x.png" alt="Gleam"></a></div>
+					<div class="logo logo-1 logo-white"><a href="index.php"><img class="img-fluid" src="images/wordmark_color@3x.png" alt="Gleam"></a></div>
+					<div class="logo logo-1 logo-dark"><a href="index.php"><img class="img-fluid" src="images/wordmark__b&w@3x.png" alt="Gleam"></a></div>
 					<nav class="nav-holder nav-holder-1">
 						<ul class="menu-nav">
 								<li class="menu-item menu-item-has-children current-menu-item">
-									<a href="index.html">Home</a>
+									<a href="index.php">Home</a>
 									<ul class="sub-menu">
-										<li class="menu-item"><a href="index.html">Home 1</a></li>
-										<li class="menu-item"><a href="home-2.html">Home 2</a></li>
-										<li class="menu-item"><a href="home-3.html">Home 3</a></li>
-										<li class="menu-item"><a href="home-4.html">Home 4</a></li>
-										<li class="menu-item"><a href="home-5.html">Home 5</a></li>
-										<li class="menu-item"><a href="home-6.html">Home 6</a></li>
-										<li class="menu-item"><a href="home-7.html">Home 7</a></li>
-										<li class="menu-item"><a href="home-8.html">Home 8</a></li>
-										<li class="menu-item"><a href="home-9.html">Home 9</a></li>
-										<li class="menu-item"><a href="home-10.html">Home 10</a></li>
-										<li class="menu-item"><a href="home-11.html">Home 11</a></li>
-										<li class="menu-item"><a href="home-12.html">Home 12</a></li>
-										<li class="menu-item"><a href="home-13.html">Home 13</a></li>
-										<li class="menu-item"><a href="home-14.html">Home 14</a></li>
+										<li class="menu-item"><a href="index.php">Home 1</a></li>
+										<li class="menu-item"><a href="home-2.php">Home 2</a></li>
+										<li class="menu-item"><a href="home-3.php">Home 3</a></li>
+										<li class="menu-item"><a href="home-4.php">Home 4</a></li>
+										<li class="menu-item"><a href="home-5.php">Home 5</a></li>
+										<li class="menu-item"><a href="home-6.php">Home 6</a></li>
+										<li class="menu-item"><a href="home-7.php">Home 7</a></li>
+										<li class="menu-item"><a href="home-8.php">Home 8</a></li>
+										<li class="menu-item"><a href="home-9.php">Home 9</a></li>
+										<li class="menu-item"><a href="home-10.php">Home 10</a></li>
+										<li class="menu-item"><a href="home-11.php">Home 11</a></li>
+										<li class="menu-item"><a href="home-12.php">Home 12</a></li>
+										<li class="menu-item"><a href="home-13.php">Home 13</a></li>
+										<li class="menu-item"><a href="home-14.php">Home 14</a></li>
 									</ul>
 								</li>
 								<li class="menu-item menu-item-has-children">
 									<a href="#">Pages</a>
 									<ul class="sub-menu">
 										<li class="menu-item menu-item-has-children">
-											<a href="top-header-2.html">Headers</a>
+											<a href="top-header-2.php">Headers</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="index.html">Top Header 1</a></li>
-												<li class="menu-item"><a href="top-header-2.html">Top Header 2</a></li>
-												<li class="menu-item"><a href="top-header-3.html">Top Header 3</a></li>
-												<li class="menu-item"><a href="top-header-4.html">Top Header 4</a></li>
-												<li class="menu-item"><a href="top-header-5.html">Top Header 5</a></li>
+												<li class="menu-item"><a href="index.php">Top Header 1</a></li>
+												<li class="menu-item"><a href="top-header-2.php">Top Header 2</a></li>
+												<li class="menu-item"><a href="top-header-3.php">Top Header 3</a></li>
+												<li class="menu-item"><a href="top-header-4.php">Top Header 4</a></li>
+												<li class="menu-item"><a href="top-header-5.php">Top Header 5</a></li>
 											</ul>
 										</li>
-										<li class="menu-item"><a href="about-me.html">About Me</a></li>
-										<li class="menu-item"><a href="about-us.html">About Us</a></li>
-										<li class="menu-item"><a href="about-us-2.html">About Us 2</a></li>
-										<li class="menu-item"><a href="meet-the-team.html">Meet the Team</a></li>
-										<li class="menu-item"><a href="pricing-packages.html">Pricing Packages</a></li>
-										<li class="menu-item"><a href="faq-page.html">Faq Page</a></li>
-										<li class="menu-item"><a href="contact.html">Contact</a></li>
-										<li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
+										<li class="menu-item"><a href="about-me.php">About Me</a></li>
+										<li class="menu-item"><a href="about-us.php">About Us</a></li>
+										<li class="menu-item"><a href="about-us-2.php">About Us 2</a></li>
+										<li class="menu-item"><a href="meet-the-team.php">Meet the Team</a></li>
+										<li class="menu-item"><a href="pricing-packages.php">Pricing Packages</a></li>
+										<li class="menu-item"><a href="faq-page.php">Faq Page</a></li>
+										<li class="menu-item"><a href="contact.php">Contact</a></li>
+										<li class="menu-item"><a href="contact-2.php">Contact 2</a></li>
 									</ul>
 								</li>
 								<li class="menu-item menu-item-has-children">
-									<a href="albums-grid-3cols.html">Albums</a>
+									<a href="albums-grid-3cols.php">Albums</a>
 									<ul class="sub-menu">
 										<li class="menu-item menu-item-has-children">
-											<a href="albums-grid-3cols.html">Albums Grid v1</a>
+											<a href="albums-grid-3cols.php">Albums Grid v1</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="albums-grid-2cols.html">Albums Grid 2 Cols</a></li>
-												<li class="menu-item"><a href="albums-grid-3cols.html">Albums Grid 3 Cols</a></li>
-												<li class="menu-item"><a href="albums-grid-4cols.html">Albums Grid 4 Cols</a></li>
+												<li class="menu-item"><a href="albums-grid-2cols.php">Albums Grid 2 Cols</a></li>
+												<li class="menu-item"><a href="albums-grid-3cols.php">Albums Grid 3 Cols</a></li>
+												<li class="menu-item"><a href="albums-grid-4cols.php">Albums Grid 4 Cols</a></li>
 											</ul>
 										</li>
 										<li class="menu-item menu-item-has-children">
-											<a href="albums-grid-v2.html">Albums Grid v2</a>
+											<a href="albums-grid-v2.php">Albums Grid v2</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="albums-grid-v2.html">Style 1</a></li>
-												<li class="menu-item"><a href="albums-grid-v2-style-2.html">Style 2</a></li>
-												<li class="menu-item"><a href="albums-grid-v2-style-3.html">Style 3</a></li>
+												<li class="menu-item"><a href="albums-grid-v2.php">Style 1</a></li>
+												<li class="menu-item"><a href="albums-grid-v2-style-2.php">Style 2</a></li>
+												<li class="menu-item"><a href="albums-grid-v2-style-3.php">Style 3</a></li>
 											</ul>
 										</li>
 										<li class="menu-item menu-item-has-children">
-											<a href="albums-grid-v3.html">Albums Grid v3</a>
+											<a href="albums-grid-v3.php">Albums Grid v3</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="albums-grid-v3.html">Style 1</a></li>
-												<li class="menu-item"><a href="albums-grid-v3-style-2.html">Style 2</a></li>
-												<li class="menu-item"><a href="albums-grid-v3-style-3.html">Style 3</a></li>
+												<li class="menu-item"><a href="albums-grid-v3.php">Style 1</a></li>
+												<li class="menu-item"><a href="albums-grid-v3-style-2.php">Style 2</a></li>
+												<li class="menu-item"><a href="albums-grid-v3-style-3.php">Style 3</a></li>
 											</ul>
 										</li>
 										<li class="menu-item menu-item-has-children">
-											<a href="albums-grid-v4.html">Albums Grid v4</a>
+											<a href="albums-grid-v4.php">Albums Grid v4</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="albums-grid-v4.html">Style 1</a></li>
-												<li class="menu-item"><a href="albums-grid-v4-style-2.html">Style 2</a></li>
-												<li class="menu-item"><a href="albums-grid-v4-style-3.html">Style 3</a></li>
+												<li class="menu-item"><a href="albums-grid-v4.php">Style 1</a></li>
+												<li class="menu-item"><a href="albums-grid-v4-style-2.php">Style 2</a></li>
+												<li class="menu-item"><a href="albums-grid-v4-style-3.php">Style 3</a></li>
 											</ul>
 										</li>
 										<li class="menu-item menu-item-has-children">
-											<a href="albums-masonry-3cols.html">Albums Masonry v1</a>
+											<a href="albums-masonry-3cols.php">Albums Masonry v1</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="albums-masonry-2cols.html">Albums Masonry 2 Cols</a></li>
-												<li class="menu-item"><a href="albums-masonry-3cols.html">Albums Masonry 3 Cols</a></li>
-												<li class="menu-item"><a href="albums-masonry-4cols.html">Albums Masonry 4 Cols</a></li>
+												<li class="menu-item"><a href="albums-masonry-2cols.php">Albums Masonry 2 Cols</a></li>
+												<li class="menu-item"><a href="albums-masonry-3cols.php">Albums Masonry 3 Cols</a></li>
+												<li class="menu-item"><a href="albums-masonry-4cols.php">Albums Masonry 4 Cols</a></li>
 											</ul>
 										</li>
 										<li class="menu-item menu-item-has-children">
-											<a href="albums-masonry-v2-3cols.html">Albums Masonry v2</a>
+											<a href="albums-masonry-v2-3cols.php">Albums Masonry v2</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="albums-masonry-v2-2cols.html">Albums Masonry v2 2 Cols</a></li>
-												<li class="menu-item"><a href="albums-masonry-v2-3cols.html">Albums Masonry v2 3 Cols</a></li>
-												<li class="menu-item"><a href="albums-masonry-v2-4cols.html">Albums Masonry v2 4 Cols</a></li>
+												<li class="menu-item"><a href="albums-masonry-v2-2cols.php">Albums Masonry v2 2 Cols</a></li>
+												<li class="menu-item"><a href="albums-masonry-v2-3cols.php">Albums Masonry v2 3 Cols</a></li>
+												<li class="menu-item"><a href="albums-masonry-v2-4cols.php">Albums Masonry v2 4 Cols</a></li>
 											</ul>
 										</li>
 										<li class="menu-item menu-item-has-children">
-											<a href="albums-fullscreen.html">Albums Full Screen</a>
+											<a href="albums-fullscreen.php">Albums Full Screen</a>
 											<ul class="sub-menu">
-												<li class="menu-item"><a href="albums-fullscreen.html">Full Screen Grid</a></li>
-												<li class="menu-item"><a href="albums-fullscreen-masonry.html">Full Screen Masonry</a></li>
-											</ul>
-										</li>
-									</ul>
-								</li>
-								<li class="menu-item menu-item-has-children">
-									<a href="portfolio-grid-3cols-fullscreen.html">Galleries</a>
-									<ul class="sub-menu">
-										<li class="menu-item"><a href="portfolio-grid-1col.html">Grid 1 Col</a></li>
-										<li class="menu-item"><a href="portfolio-grid-2cols.html">Grid 2 Cols</a></li>
-										<li class="menu-item menu-item-has-children">
-											<a href="portfolio-grid-3cols.html">Grid 3 Cols</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="portfolio-grid-3cols-fullscreen.html">Full Screen</a></li>
-											</ul>
-										</li>
-										<li class="menu-item menu-item-has-children">
-											<a href="portfolio-grid-4cols.html">Grid 4 Cols</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="portfolio-grid-4cols-fullscreen.html">Full Screen</a></li>
-											</ul>
-										</li>
-										<li class="menu-item"><a href="portfolio-masonry-2cols.html">Masonry 2 Cols</a></li>
-										<li class="menu-item menu-item-has-children">
-											<a href="portfolio-masonry-3cols.html">Masonry 3 Cols</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="portfolio-masonry-3cols-fullscreen.html">Full Screen</a></li>
-											</ul>
-										</li>
-										<li class="menu-item menu-item-has-children">
-											<a href="portfolio-masonry-4cols.html">Masonry 4 Cols</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="portfolio-masonry-4cols-fullscreen.html">Full Screen</a></li>
+												<li class="menu-item"><a href="albums-fullscreen.php">Full Screen Grid</a></li>
+												<li class="menu-item"><a href="albums-fullscreen-masonry.php">Full Screen Masonry</a></li>
 											</ul>
 										</li>
 									</ul>
 								</li>
 								<li class="menu-item menu-item-has-children">
-									<a href="blog.html">Blog</a>
+									<a href="portfolio-grid-3cols-fullscreen.php">Galleries</a>
 									<ul class="sub-menu">
-										<li class="menu-item"><a href="blog-classic.html">Blog Classic</a></li>
-										<li class="menu-item"><a href="blog-list.html">Blog List</a></li>
-										<li class="menu-item"><a href="blog.html">Blog Grid 2 Cols</a></li>
-										<li class="menu-item"><a href="blog-grid-3-cols.html">Blog Grid 3 Cols</a></li>
-										<li class="menu-item"><a href="blog-single-post.html">Single Post</a></li>
+										<li class="menu-item"><a href="portfolio-grid-1col.php">Grid 1 Col</a></li>
+										<li class="menu-item"><a href="portfolio-grid-2cols.php">Grid 2 Cols</a></li>
+										<li class="menu-item menu-item-has-children">
+											<a href="portfolio-grid-3cols.php">Grid 3 Cols</a>
+											<ul class="sub-menu">
+												<li class="menu-item"><a href="portfolio-grid-3cols-fullscreen.php">Full Screen</a></li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="portfolio-grid-4cols.php">Grid 4 Cols</a>
+											<ul class="sub-menu">
+												<li class="menu-item"><a href="portfolio-grid-4cols-fullscreen.php">Full Screen</a></li>
+											</ul>
+										</li>
+										<li class="menu-item"><a href="portfolio-masonry-2cols.php">Masonry 2 Cols</a></li>
+										<li class="menu-item menu-item-has-children">
+											<a href="portfolio-masonry-3cols.php">Masonry 3 Cols</a>
+											<ul class="sub-menu">
+												<li class="menu-item"><a href="portfolio-masonry-3cols-fullscreen.php">Full Screen</a></li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="portfolio-masonry-4cols.php">Masonry 4 Cols</a>
+											<ul class="sub-menu">
+												<li class="menu-item"><a href="portfolio-masonry-4cols-fullscreen.php">Full Screen</a></li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li class="menu-item menu-item-has-children">
+									<a href="blog.php">Blog</a>
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="blog-classic.php">Blog Classic</a></li>
+										<li class="menu-item"><a href="blog-list.php">Blog List</a></li>
+										<li class="menu-item"><a href="blog.php">Blog Grid 2 Cols</a></li>
+										<li class="menu-item"><a href="blog-grid-3-cols.php">Blog Grid 3 Cols</a></li>
+										<li class="menu-item"><a href="blog-single-post.php">Single Post</a></li>
 									</ul>
 								</li>
 								<li class="menu-item">
-									<a href="contact.html">Contact</a>
+									<a href="contact.php">Contact</a>
 									<ul class="sub-menu">
-										<li class="menu-item"><a href="contact.html">Contact 1</a></li>
-										<li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-										<li class="menu-item"><a href="contact-3.html">Contact 3</a></li>
-										<li class="menu-item"><a href="contact-4.html">Contact 4</a></li>
+										<li class="menu-item"><a href="contact.php">Contact 1</a></li>
+										<li class="menu-item"><a href="contact-2.php">Contact 2</a></li>
+										<li class="menu-item"><a href="contact-3.php">Contact 3</a></li>
+										<li class="menu-item"><a href="contact-4.php">Contact 4</a></li>
 									</ul>
 								</li>
 							</ul>

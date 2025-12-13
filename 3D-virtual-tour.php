@@ -94,7 +94,7 @@
 							<div class="author-single-page">
 								<div class="author-avatar"> <img alt="" src="images/blog/avatar.jpg" width="100" height="100"></div>
 								<div class="author-content">
-									<h3><a href="about-me.html">Shela Yuen</a></h3>
+									<h3><a href="about-me.php">Shela Yuen</a></h3>
 									<div class="author-text"> Marketing Manager & Digital Designer for Luxury Hotel. Shela combines her years of award-winning sales experience and her talent in expressing complicated concepts through visuals, to help premium hotel market themselves digitally. </div>
 								</div>
 							</div>

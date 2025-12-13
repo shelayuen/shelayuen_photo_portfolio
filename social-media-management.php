@@ -454,7 +454,7 @@
 							<div class="author-single-page">
 								<div class="author-avatar"> <img alt="" src="images/blog/avatar.jpg" width="100" height="100"></div>
 								<div class="author-content">
-									<h3><a href="about-me.html">Shela Yuen</a></h3>
+									<h3><a href="about-me.php">Shela Yuen</a></h3>
 									<div class="author-text"> Marketing Manager & Digital Designer for Luxury Hotel. Shela combines her years of award-winning sales experience and her talent in expressing complicated concepts through visuals, to help premium hotel market themselves digitally. </div>
 								</div>
 							</div>
@@ -507,37 +507,37 @@
 										<ul>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="Lovely Wedding"><img src="images/blog/blog-9-sm.jpg" class="img-fluid" alt="Lovely Wedding" title="Lovely Wedding"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="Lovely Wedding"><img src="images/blog/blog-9-sm.jpg" class="img-fluid" alt="Lovely Wedding" title="Lovely Wedding"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">August 20, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.html">Lovely Wedding</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">Lovely Wedding</a></div>
 													</div>
 												</div>
 											</li>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="New Dress Collection"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="New Dress Collection"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">August 18, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.html">New Dress Collection</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">New Dress Collection</a></div>
 													</div>
 												</div>
 											</li>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">August 16, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.html">Family Moments</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">Family Moments</a></div>
 													</div>
 												</div>
 											</li>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="Red Project"><img src="images/blog/blog-6-sm.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="Red Project"><img src="images/blog/blog-6-sm.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">August 14, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.html">Red Project</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">Red Project</a></div>
 													</div>
 												</div>
 											</li>

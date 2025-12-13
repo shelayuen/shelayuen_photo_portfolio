@@ -75,10 +75,10 @@
 					<div class="row meta-nav-holder port-meta-nav">
 						<div class="col-md-6 meta-nav">
 							<div class="pn-holder">
-								<div class="pn-img"> <a href="food-photography.html"> <img class="img-fluid" src="images/home/featured-projects/food.png" alt="Prev Gallery"> </a></div>
+								<div class="pn-img"> <a href="food-photography.php"> <img class="img-fluid" src="images/home/featured-projects/food.png" alt="Prev Gallery"> </a></div>
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="food-photography.html">← Food Photography</a></h3>
+										<h3><a href="food-photography.php">← Food Photography</a></h3>
 									</div>
 								</div>
 							</div>
@@ -87,10 +87,10 @@
 							<div class="pn-holder">
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="restaurant-menu-design.html">Menu Design →</a></h3>
+										<h3><a href="restaurant-menu-design.php">Menu Design →</a></h3>
 									</div>
 								</div>
-								<div class="pn-img"> <a href="restaurant-menu-design.html"> <img class="img-fluid" src="images/albums/menu-design/weekend-special.png" alt="Next Gallery"> </a></div>
+								<div class="pn-img"> <a href="restaurant-menu-design.php"> <img class="img-fluid" src="images/albums/menu-design/weekend-special.png" alt="Next Gallery"> </a></div>
 							</div>
 						</div>
 					</div>

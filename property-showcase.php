@@ -38,37 +38,37 @@
 			<div class="row layout-masonry">
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="3D-virtual-tour.html"> <img src="images/home/featured-projects/virtual.png" class="img-fluid" alt="3D virtual tour" title="3D Virtual Tour"> </a></div>
+						<div class="post-image"> <a href="3D-virtual-tour.php"> <img src="images/home/featured-projects/virtual.png" class="img-fluid" alt="3D virtual tour" title="3D Virtual Tour"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="3D-virtual-tour.html">3D-virtual-tour</a></h2>
-							<a class="read-more" href="3D-virtual-tour.html">Read More </a>
+							<h2 class="article-title"><a href="3D-virtual-tour.php">3D-virtual-tour</a></h2>
+							<a class="read-more" href="3D-virtual-tour.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="interior-photography.html"> <img src="images/home/featured-projects/interior.png" class="img-fluid" alt="Interior Photography" title="Interior Photography"> </a></div>
+						<div class="post-image"> <a href="interior-photography.php"> <img src="images/home/featured-projects/interior.png" class="img-fluid" alt="Interior Photography" title="Interior Photography"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="interior-photography.html">Interior Photography</a></h2>
-							<a class="read-more" href="interior-photography.html">Read More </a>
+							<h2 class="article-title"><a href="interior-photography.php">Interior Photography</a></h2>
+							<a class="read-more" href="interior-photography.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="lifestyle-photography.html"> <img src="images/home/featured-projects/life.png" class="img-fluid" alt="Lifestyle Photography" title="Lifestyle Photography"> </a></div>
+						<div class="post-image"> <a href="lifestyle-photography.php"> <img src="images/home/featured-projects/life.png" class="img-fluid" alt="Lifestyle Photography" title="Lifestyle Photography"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="lifestyle-photography.html">Lifestyle Photography</a></h2>
-							<a class="read-more" href="lifestyle-photography.html">Read More </a>
+							<h2 class="article-title"><a href="lifestyle-photography.php">Lifestyle Photography</a></h2>
+							<a class="read-more" href="lifestyle-photography.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="hotel-promo-video.html"> <img src="images/home/featured-projects/video.png" class="img-fluid" alt="Promotional Video" title="Promotional Video"> </a></div>
+						<div class="post-image"> <a href="hotel-promo-video.php"> <img src="images/home/featured-projects/video.png" class="img-fluid" alt="Promotional Video" title="Promotional Video"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="hotel-promo-video.html">Promotional Video</a></h2>
-							<a class="read-more" href="hotel-promo-video.html">Read More </a>
+							<h2 class="article-title"><a href="hotel-promo-video.php">Promotional Video</a></h2>
+							<a class="read-more" href="hotel-promo-video.php">Read More </a>
 						</div>
 					</article>
 				</div>

@@ -38,28 +38,28 @@
 			<div class="row layout-masonry">
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="food-photography.html"> <img src="images/home/featured-projects/food.png" class="img-fluid" alt="Food Photography" title="Food Photography"> </a></div>
+						<div class="post-image"> <a href="food-photography.php"> <img src="images/home/featured-projects/food.png" class="img-fluid" alt="Food Photography" title="Food Photography"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="food-photography.html">Food Photography</a></h2>
-							<a class="read-more" href="food-photography.html">Read More </a>
+							<h2 class="article-title"><a href="food-photography.php">Food Photography</a></h2>
+							<a class="read-more" href="food-photography.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="restaurant-photography.html"> <img src="images/home/featured-projects/rest.png" class="img-fluid" alt="Restaurant Photography" title="Restaurant Photography"> </a></div>
+						<div class="post-image"> <a href="restaurant-photography.php"> <img src="images/home/featured-projects/rest.png" class="img-fluid" alt="Restaurant Photography" title="Restaurant Photography"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="restaurant-photography.html">Restaurant Photography</a></h2>
-							<a class="read-more" href="restaurant-photography.html">Read More </a>
+							<h2 class="article-title"><a href="restaurant-photography.php">Restaurant Photography</a></h2>
+							<a class="read-more" href="restaurant-photography.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="menu-design.html"> <img src="images/home/featured-projects/menu.png" class="img-fluid" alt="Menu Design" title="Menu Design"> </a></div>
+						<div class="post-image"> <a href="menu-design.php"> <img src="images/home/featured-projects/menu.png" class="img-fluid" alt="Menu Design" title="Menu Design"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="menu-design.html">Menu Design</a></h2>
-							<a class="read-more" href="menu-design.html">Read More </a>
+							<h2 class="article-title"><a href="menu-design.php">Menu Design</a></h2>
+							<a class="read-more" href="menu-design.php">Read More </a>
 						</div>
 					</article>
 				</div>

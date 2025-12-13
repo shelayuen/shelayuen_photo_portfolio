@@ -38,28 +38,28 @@
 			<div class="row layout-masonry">
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="social-media-management.html"> <img src="images/home/featured-projects/social.png" class="img-fluid" alt="Social Media Management" title="Social Media Management"> </a></div>
+						<div class="post-image"> <a href="social-media-management.php"> <img src="images/home/featured-projects/social.png" class="img-fluid" alt="Social Media Management" title="Social Media Management"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="social-media-management.html">Social Media</a></h2>
-							<a class="read-more" href="social-media-management.html">Read More </a>
+							<h2 class="article-title"><a href="social-media-management.php">Social Media</a></h2>
+							<a class="read-more" href="social-media-management.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="email-marketing.html"> <img src="images/home/featured-projects/email.png" class="img-fluid" alt="Email Marketing" title="Email Marketing"> </a></div>
+						<div class="post-image"> <a href="email-marketing.php"> <img src="images/home/featured-projects/email.png" class="img-fluid" alt="Email Marketing" title="Email Marketing"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="email-marketing.html">Email Marketing</a></h2>
-							<a class="read-more" href="email-marketing.html">Read More </a>
+							<h2 class="article-title"><a href="email-marketing.php">Email Marketing</a></h2>
+							<a class="read-more" href="email-marketing.php">Read More </a>
 						</div>
 					</article>
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="print-media.html"> <img src="images/home/featured-projects/print.png" class="img-fluid" alt="Print Media" title="Print Media"> </a></div>
+						<div class="post-image"> <a href="print-media.php"> <img src="images/home/featured-projects/print.png" class="img-fluid" alt="Print Media" title="Print Media"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="print-media.html">Print Media</a></h2>
-							<a class="read-more" href="print-media.html">Read More </a>
+							<h2 class="article-title"><a href="print-media.php">Print Media</a></h2>
+							<a class="read-more" href="print-media.php">Read More </a>
 						</div>
 					</article>
 				</div>

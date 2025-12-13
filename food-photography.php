@@ -88,10 +88,10 @@
 					<div class="row meta-nav-holder port-meta-nav">
 						<div class="col-md-6 meta-nav">
 							<div class="pn-holder">
-								<div class="pn-img"> <a href="hotel-promo-video.html"> <img class="img-fluid" src="images/home/featured-projects/video.png" alt="Prev Gallery"> </a></div>
+								<div class="pn-img"> <a href="hotel-promo-video.php"> <img class="img-fluid" src="images/home/featured-projects/video.png" alt="Prev Gallery"> </a></div>
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="hotel-promo-video.html">← Hotel Promo Video</a></h3>
+										<h3><a href="hotel-promo-video.php">← Hotel Promo Video</a></h3>
 									</div>
 								</div>
 							</div>
@@ -100,10 +100,10 @@
 							<div class="pn-holder">
 								<div class="pn-desc">
 									<div class="meta-nav-subtitle">
-										<h3><a href="restaurant-photography.html">Restaurant Interior →</a></h3>
+										<h3><a href="restaurant-photography.php">Restaurant Interior →</a></h3>
 									</div>
 								</div>
-								<div class="pn-img"> <a href="restaurant-photography.html"> <img class="img-fluid" src="images/home/featured-projects/rest.png" alt="Next Gallery"> </a></div>
+								<div class="pn-img"> <a href="restaurant-photography.php"> <img class="img-fluid" src="images/home/featured-projects/rest.png" alt="Next Gallery"> </a></div>
 							</div>
 						</div>
 					</div>

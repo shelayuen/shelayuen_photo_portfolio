@@ -114,12 +114,12 @@
 							<div class="row meta-nav-holder">
 								<div class="col-md-6 meta-nav">
 									<div class="pn-desc">
-										<h3><a href="index.html">&larr; Home</a></h3>
+										<h3><a href="index.php">&larr; Home</a></h3>
 									</div>
 								</div>
 								<div class="col-md-6 meta-nav meta-nav-right">
 									<div class="pn-desc">
-										<h3><a href="contact.html">Contact Me &rarr;</a></h3>
+										<h3><a href="contact.php">Contact Me &rarr;</a></h3>
 									</div>
 								</div>
 							</div>
@@ -161,37 +161,37 @@
 										<ul>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="Combining Social Media & Marketing funnels"><img src="images/blog/mothersdayreseve/mothersdayreserve.png" class="img-fluid" alt="Combining Social Media & Marketing funnels" title="Combining Social Media & Marketing funnels"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="Combining Social Media & Marketing funnels"><img src="images/blog/mothersdayreseve/mothersdayreserve.png" class="img-fluid" alt="Combining Social Media & Marketing funnels" title="Combining Social Media & Marketing funnels"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">December 20, 2025</p>
-														<div class="display-post-title"><a href="blog-single-post.html">Combining Social Media & Marketing funnels</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">Combining Social Media & Marketing funnels</a></div>
 													</div>
 												</div>
 											</li>
 											<!-- <li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="New Dress Collection"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="New Dress Collection"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">August 18, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.html">New Dress Collection</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">New Dress Collection</a></div>
 													</div>
 												</div>
 											</li>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">August 16, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.html">Family Moments</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">Family Moments</a></div>
 													</div>
 												</div>
 											</li>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.html" title="Red Project"><img src="images/blog/blog-6-sm.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="Red Project"><img src="images/blog/blog-6-sm.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">August 14, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.html">Red Project</a></div>
+														<div class="display-post-title"><a href="blog-single-post.php">Red Project</a></div>
 													</div>
 												</div>
 											</li> -->

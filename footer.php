@@ -45,11 +45,11 @@
 									<h5 class="widgettitle">Quick Links</h5>
 									<div class="textwidget custom-html-widget">
 										<ul>
-											<li> <a href="index.html">Home</a></li>
-											<li><a href="about-me.html">About</a></li>
+											<li> <a href="index.php">Home</a></li>
+											<li><a href="about-me.php">About</a></li>
 											<li><a href="#">Portfolio</a></li>
-											<li><a href="success-stories.html">Success Stories</a></li>
-											<li><a href="contact.html">Contact</a></li>
+											<li><a href="success-stories.php">Success Stories</a></li>
+											<li><a href="contact.php">Contact</a></li>
 										</ul>
 									</div>
 								</div>
