@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Shela Yuen | Marketing Manager & Digital Designer - About Me</title>
+		<!-- Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,400;0,500;0,600;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,700&display=swap" rel="stylesheet">
+		<!-- Bootstrap CSS -->
+		<link rel='stylesheet' id='bootstrap-css'  href='css/bootstrap/css/bootstrap.css' type='text/css' media='all' />
+		<!-- Font Awesome Icons CSS -->
+		<link rel='stylesheet' id='font-awesome'  href='css/fontawesome/css/all.css' type='text/css' media='all' />
+		<!-- Owl Carousel -->
+		<link rel='stylesheet' id='owl-carousel'  href='js/owl-carousel/owl.carousel.css' type='text/css' media='all' />
+		<!-- Main CSS File -->
+		<link rel='stylesheet' id='gleam-style-css'  href='style.css' type='text/css' media='all' />
+		<!-- favicons -->
+		<link rel="icon" href="images/icons/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" href="images/icons/favicon-192x192.png" sizes="192x192" />
+		<link rel="apple-touch-icon-precomposed" href="images/icons/favicon-180x180.png" />
+	</head>
+	<body class="home no-top-image">
+		<div class="menu-mask"></div>
+		
+		<?php include 'header.php'; ?>
+
+		<!-- PAGE TOP -->
+		<div class="top-single-bkg  topnoimg ">
+			<div class="inner-desc">
+				<div class="container">
+					<h1 class="post-title single-post-title">About Me</h1>
+					<span class="post-subtitle page-subtitle">Marketing Manager & Digital Designer</span>
+				</div>
+			</div>
+		</div>
+		<!-- /PAGE TOP -->
+		<!-- PAGE CONTENT -->
+		<div class="page-holder custom-page-template page-full fullscreen-page home-page-content clearfix">
+		<!-- SECTION 1-->
+		<section class="section-holder">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 margin-bm32 aligncm">
+						<img class="img-fluid" src="images/team/team-3.png" alt="shelayuenprofilepic">
+					</div>
+					<div class="col-lg-6 aligncm">
+						<h2 class="section-title margin-b32">Shela is a multi-disciplinary Digital Designer and Marketing Manager who bridges the worlds of business and design.</h2>
+						<p>With award-winning sales & business development experience in the financial sectors, she brings a rare combination of strategic thinking and visual storytelling to every project.</p>
+						<p>Her journey spans managing corporate client relationships at Manulife Hong Kong, earning her Million-Dollar-Round-Table qualification as an insurance advisor, to completing her diploma in New Media Design & Web Development at BCIT. This diverse background allows her to translate complex business objectives into compelling digital experiences that resonate with premium audiences.</p>
+						<p>Shela's superpower lies in her ability to empathize deeply with users—a skill honed through years of customer-facing roles—while applying analytical rigor from her Master's in Philosophy. Currently based in Vancouver, she specializes in helping premium hospitality brands elevate their digital presence through thoughtful design, brand narratives, and marketing strategies that drive results.</p>
+							<!-- <p>With award-winning sales & business development experience in the financial sectors, she brings a rare combination of strategic thinking and visual storytelling to every project.</p>
+							<p>Her journey spans from managing corporate client relationships and sales channels at Manulife Hong Kong, to earning her Million-Dollar-Round-Table qualification as an insurance advisor, to most recently completing her diploma in New Media Design & Web Development at BCIT. This diverse background allows her to translate complex business objectives into compelling digital experiences that resonate with premium audiences.</p>
+							<p>Shela's superpower lies in her ability to empathize deeply with users - a skill honed through years of customer-facing roles - while applying analytical rigor from her Master's in Philosophy. Whether designing branded graphics, crafting brand narratives, or developing marketing funnels, she approaches each challenge with both creative vision and business strategy in mind.</p>
+							<p>Currently based in Vancouver, Shela specializes in helping premium hospitality brands elevate their digital presence through thoughtful design that drives results.</p> -->
+							<ul class="social-media margin-t32">
+								<li><a class="social-facebook" href="https://www.youtube.com/@shelayuen" target="_blank"><i class="fab fa-youtube"></i></a></li>
+								<li><a class="social-twitter" href="https://www.linkedin.com/in/shelayuen/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+								<li><a class="social-instagram" href="https://www.instagram.com/shelayuen/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+							</ul>
+					</div>
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</section>
+		<!-- /SECTION 1-->
+		<!-- SECTION 2-->
+		<section class="section-holder aligncm">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<h2 class="section-title margin-b32">Achievements</h2>
+						<div class="award-item">
+							<div class="award-year">2025</div>
+							<div class="award-name">
+								<h4>Marriott-approved photography and video assets</h4>
+							</div>
+						</div>
+						<!-- /award-item -->
+						<div class="award-item">
+							<div class="award-year">2024</div>
+							<div class="award-name">
+								<h4>Distinction (94%), New Media Design and Web Development, BCIT</h4>
+							</div>
+						</div>
+						<div class="award-item">
+							<div class="award-year">2020</div>
+							<div class="award-name">
+								<h4>4-year Million-Dollar-Round-Table Qualifications</h4>
+							</div>
+						</div>
+						<!-- /award-item -->
+						<div class="award-item">
+							<div class="award-year">2013</div>
+							<div class="award-name">
+								<h4>Master of Arts in Philosophy</h4>
+							</div>
+						</div>
+						<!-- /award-item -->
+						<div class="award-item">
+							<div class="award-year">2009</div>
+							<div class="award-name">
+								<h4>Bachelor of Business Administration, Double Major in Marketing & Management</h4>
+							</div>
+						</div>
+						<!-- /award-item -->
+					</div><!-- /col-lg-12 -->	
+					</div>
+					<!-- /row -->
+				</div>
+				<!-- /container -->
+		</section>
+		<!-- /SECTION 2-->	
+		</div>
+		<!-- home-page-content -->
+		<!-- /PAGE CONTENT -->
+
+		<?php include 'footer.php'; ?>
+		
+		<!-- JS --> 
+		<script src='js/jquery.js'></script>
+		<script src='js/jquery-migrate.min.js'></script>
+		<script src='css/bootstrap/js/popper.js'></script>
+		<script src='css/bootstrap/js/bootstrap.js'></script>
+		<script src='js/easing.js'></script>
+		<script src='js/fitvids.js'></script>
+		<script src='js/owl-carousel/owl.carousel.js'></script>
+		<script src='js/isotope.js'></script>
+		<script src='js/simple-lightbox.js'></script>
+		<!-- MAIN JS -->
+		<script src='js/init.js'></script>
+		<!-- CONTAT FORM JS -->
+		<script src='js/jquery.form.min.js'></script>
+		<script src='js/contactform.js'></script>
+	</body>
+</html>
