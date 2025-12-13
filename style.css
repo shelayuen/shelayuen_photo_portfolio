@@ -1401,7 +1401,7 @@ transform: translateY(-50%);
 
 
 /* HOME 2 */
-
+/* 
 .section-home21,
 .section-home23{
 	background: #dcf2f6;
@@ -1454,15 +1454,15 @@ transform: translateY(-50%);
 	font-size: 54px;
 	line-height: 1.2;
 	margin-bottom: 8px;
-}
+} */
 
 
 /* HOME 3 */
-
+/* 
 .section-home31{
 	margin-top: 148px;
 	margin-bottom: 72px;
-}
+} */
 
 
 /* HOME 4 */
@@ -1471,6 +1471,9 @@ transform: translateY(-50%);
 	padding: 200px 0;
 }
 
+.section-portfolio {
+	height: 75vh;
+}
 .section-home42{
 	/* background: #8ac0be; */
 	background: #becfcf;
@@ -1479,7 +1482,7 @@ transform: translateY(-50%);
 }
 
 /* HOME 7 */
-
+/* 
 .box-team-title{
 	margin-bottom: 8px;
 }
@@ -1604,7 +1607,7 @@ font-weight: 600;
 
 .section-home-14-1{
 	margin-top: 98px;
-}
+} */
 
 /**
 * #4.# PAGES
