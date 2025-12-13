@@ -1475,7 +1475,7 @@ transform: translateY(-50%);
 }
 
 .section-portfolio {
-	height: 60vh;
+	height: auto;
 }
 .section-home42{
 	/* background: #8ac0be; */
