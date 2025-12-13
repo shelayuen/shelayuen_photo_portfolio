@@ -129,7 +129,7 @@
 		</div>
 		<!-- page-content -->
 		<!-- /PAGE CONTENT -->
-		?php include 'footer.php'; ?>
+		<?php include 'footer.php'; ?>
 		<!-- JS --> 
 		<script src='js/jquery.js'></script>
 		<script src='js/jquery-migrate.min.js'></script>
