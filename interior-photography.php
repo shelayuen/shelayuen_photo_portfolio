@@ -196,7 +196,7 @@
 										<h3><a href="lifestyle-photography.php">Lifestyle Photography →</a></h3>
 									</div>
 								</div>
-								<div class="pn-img"> <a href="lifestyle-photography.php"> <img class="img-fluid" src="images\home\featured-projects\lifestyle.png" alt="Next Gallery"> </a></div>
+								<div class="pn-img"> <a href="lifestyle-photography.php"> <img class="img-fluid" src="images\home\featured-projects\life.png" alt="Next Gallery"> </a></div>
 							</div>
 						</div>
 					</div>
