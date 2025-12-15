@@ -79,7 +79,7 @@
 									<a href="about-me.php">About Me</a>
 								</li>
 								<li class="menu-item menu-item-has-children">
-									<a href="#">Portfolio</a>
+									<a href="portfolio.php">Portfolio</a>
 									<ul class="sub-menu">
 										<li class="menu-item menu-item-has-children">
 											<a href="property-showcase.php">Property Showcase</a>
