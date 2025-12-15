@@ -27,7 +27,7 @@
 		<!-- PAGE CONTENT -->
 		<div class="page-holder custom-page-template page-full fullscreen-page home-page-content clearfix">
 			<!-- SECTION 1-->
-			<section class="parallax section-home40 section-portfolio" style="background-image:url('images/albums/indoor-whitewedding/IMG_7687.jpg');">
+			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/indoor-whitewedding/IMG_7687.jpg');">
 				<div class="container parallax-content alignc">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
