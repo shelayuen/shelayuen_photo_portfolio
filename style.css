@@ -1476,6 +1476,11 @@ transform: translateY(-50%);
 	padding: 400px 0;
 	height: auto;
 }
+.section-portfolio::after{
+	opacity: 0.2;
+}
+
+
 .section-home42{
 	/* background: #8ac0be; */
 	background: #becfcf;
