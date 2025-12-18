@@ -109,118 +109,40 @@
 									<div class="author-text"> Marketing Manager & Digital Designer for Luxury Hotel. Shela combines her years of award-winning sales experience and her talent in expressing complicated concepts through visuals, to help premium hotel market themselves digitally. </div>
 								</div>
 							</div>
-							<!-- <div class="row meta-nav-holder">
-								<div class="col-md-6 meta-nav">
-									<div class="pn-desc">
-										<h3><a href="#">&larr; Family Moments</a></h3>
-									</div>
-								</div>
-								<div class="col-md-6 meta-nav meta-nav-right">
-									<div class="pn-desc">
-										<h3><a href="#">Lovely Wedding &rarr;</a></h3>
-									</div>
-								</div>
-							</div> -->
-							<!-- <section id="comments" class="comm-title">
-								<div class="respond">
-									<div id="comment-form-holder">
-										<div id="respond" class="comment-respond">
-											<h3 id="reply-title" class="comment-reply-title"><span>Leave a Comment</span> </h3>
-											<form action="#" method="post" id="commentform" class="comment-form" novalidate="">
-												<p><textarea name="comment" id="msg-contact" placeholder="Comment" rows="7" tabindex="3"></textarea></p>
-												<div class="row">
-													<div class="col-sm-4 margin-bm32"><input type="text" name="author" id="author" class="comm-field" value="" placeholder="Name" size="22" tabindex="1"></div>
-													<div class="col-sm-4 margin-bm32"><input type="text" name="email" id="email" class="comm-field" value="" placeholder="Email" size="22" tabindex="2"></div>
-													<div class="col-sm-4"><input type="text" name="url" id="url" class="comm-field" value="" placeholder="Website" size="22" tabindex="3"></div>
-												</div>
-												<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"></p>
-											</form>
-										</div>
-										<div id="output-contact"></div>
-									</div>
-								</div>
-							</section> -->
+						
 						</article>
 					</div>
-					<!-- <div class="col-lg-3">
-						<aside>
-							<ul>
-								<li id="text-2" class="widget widget_text">
-									<h5 class="widgettitle">About Me</h5>
-									<div class="textwidget">
-										<p><img class="img-fluid" src="images/blog/avatar.jpg" alt="" width="250" height="250"></p>
-										<p>Hi, I’m Anna Smith, a photographer, traveler &amp; blogger. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-									</div>
-								</li>
-								<li class="widget">
-									<h5 class="widgettitle">Recent Articles</h5>
-									<div class="widget-display-posts-img">
-										<ul>
-											<li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Lovely Wedding"><img src="images/blog/blog-9-sm.jpg" class="img-fluid" alt="Lovely Wedding" title="Lovely Wedding"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 20, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Lovely Wedding</a></div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="New Dress Collection"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 18, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">New Dress Collection</a></div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 16, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Family Moments</a></div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Red Project"><img src="images/blog/blog-6-sm.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 14, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Red Project</a></div>
-													</div>
-												</div>
-											</li>
-										</ul>
-									</div>
-								</li>
-								<li class="widget widget_categories">
-									<h5 class="widgettitle">Categories</h5>
-									<ul>
-										<li class="cat-item cat-item-4"><a href="#">Fashion</a></li>
-										<li class="cat-item cat-item-1"><a href="#">News</a></li>
-										<li class="cat-item cat-item-2"><a href="#">Portraits</a></li>
-										<li class="cat-item cat-item-3"><a href="#">Street</a></li>
-									</ul>
-								</li>
-								<li class="widget widget_archive">
-									<h5 class="widgettitle">Archives</h5>
-									<ul>
-										<li><a href="#">August 2021</a></li>
-										<li><a href="#">July 2021</a></li>
-									</ul>
-								</li>
-								<li class="widget widget_tag_cloud">
-									<h5 class="widgettitle">Tags</h5>
-									<div class="tagcloud"><a href="#">blue</a> <a href="#">city</a> <a href="#">dress</a> <a href="#">family</a> <a href="#">fashion shoot</a> <a href="#">friend</a> <a href="#">hugs</a> <a href="#">light</a> <a href="#">mom</a> <a href="#">nature</a> <a href="#">neon</a> <a href="#">night</a> <a href="#">photo shoot</a> <a href="#">portrait</a> <a href="#">red</a> <a href="#">road</a> <a href="#">seaside</a> <a href="#">summer</a> <a href="#">sun</a> <a href="#">trip</a> <a href="#">vacation</a> <a href="#">wedding</a> <a href="#">woman</a></div>
-								</li>
-							</ul>
-						</aside>
-					</div> -->
+					
 				</div>
 			</div>
 		</div>
+
+		<div class="container prev-next-gallery">
+			<div class="row meta-nav-holder port-meta-nav">
+				<div class="col-md-6 meta-nav">
+					<div class="pn-holder">
+						<div class="pn-img"> <a href="interior-photography.php"> <img class="img-fluid" src="images/home/featured-projects/interior.png" alt="Prev Gallery"> </a></div>
+						<div class="pn-desc">
+							<div class="meta-nav-subtitle">
+								<h3><a href="interior-photography.php">← Restaurant Interior</a></h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 meta-nav meta-nav-right">
+					<div class="pn-holder">
+						<div class="pn-desc">
+							<div class="meta-nav-subtitle">
+								<h3><a href="social-media-management.php">Social Media →</a></h3>
+							</div>
+						</div>
+						<div class="pn-img"> <a href="social-media-management.php"> <img class="img-fluid" src="images/home/featured-projects/social.png" alt="Next Gallery"> </a></div>
+					</div>
+				</div>
+			</div>					
+		</div>
+
+
 		<!-- /PAGE CONTENT -->
 		<?php include 'footer.php'; ?>
 		<!-- JS --> 
