@@ -16,5 +16,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: ftp.confettistudio.site
-        username: shela2@shelayuen.site
+        # username: shela2@shelayuen.site
+        username: shelayuen@shelayuen.site
         password: ${{ secrets.FTP_PASSWORD }}
