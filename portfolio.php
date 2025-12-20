@@ -31,7 +31,7 @@
 				<div class="container parallax-content alignc">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
-							<h1 class="display-3 white">Interior</h1>
+							<h1 class="display-3 white">Property Showcase</h1>
 						</div>
 					</div>
 					<!-- /row -->			
