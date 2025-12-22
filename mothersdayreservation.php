@@ -113,12 +113,12 @@
 							<div class="row meta-nav-holder">
 								<div class="col-md-6 meta-nav">
 									<div class="pn-desc">
-										<h3><a href="index.php">&larr; Home</a></h3>
+										<h3><a href="contact.php">&larr; Contact Me</a></h3>
 									</div>
 								</div>
 								<div class="col-md-6 meta-nav meta-nav-right">
 									<div class="pn-desc">
-										<h3><a href="contact.php">Contact Me &rarr;</a></h3>
+										<h3><a href="index.php">Home &rarr;</a></h3>
 									</div>
 								</div>
 							</div>
