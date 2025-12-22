@@ -28,11 +28,11 @@
 		<div class="page-holder custom-page-template page-full fullscreen-page home-page-content clearfix">
 			<!-- SECTION 1-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/indoor-whitewedding/IMG_7687.jpg');">
-				<a href="interior-photography.php" class="portfolio-link">
+				<a href="property-showcase.php" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
-								<h1 class="display-3 white">Interior Photography</h1>
+								<h1 class="display-3 white">Property Showcase</h1>
 							</div>
 						</div>
 						<!-- /row -->			
@@ -44,11 +44,11 @@
 
 			<!-- SECTION 2-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/food/20250514-IMG_8242.jpg');">
-				<a href="food-photography.php" class="portfolio-link">
+				<a href="culinary-showcase.php" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
-								<h1 class="display-3 white">Food photography</h1>
+								<h1 class="display-3 white">Everything about restaurants</h1>
 							</div>
 						</div>
 						<!-- /row -->			
@@ -60,11 +60,11 @@
 
 			<!-- SECTION 3-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/patiowedding-indian/IMG_8593.jpg');">
-				<a href="lifestyle-photography.php" class="portfolio-link">
+				<a href="marketing-branding.php" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
-								<h1 class="display-3 white">Wedding photography</h1>
+								<h1 class="display-3 white">Marketing & Branding</h1>
 							</div>
 						</div>
 					<!-- /row -->			
