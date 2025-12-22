@@ -160,7 +160,7 @@
 										<ul>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Combining Social Media & Marketing funnels"><img src="images/blog/mothersdayreseve/mothersdayreserve.png" class="img-fluid" alt="Combining Social Media & Marketing funnels" title="Combining Social Media & Marketing funnels"> </a></div>
+													<div class="display-post-img"> <a href="blog-single-post.php" title="Combining Social Media & Marketing funnels"><img src="images/blog/mothersdayreserve/mothersdayreserve.png" class="img-fluid" alt="Combining Social Media & Marketing funnels" title="Combining Social Media & Marketing funnels"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">December 20, 2025</p>
 														<div class="display-post-title"><a href="blog-single-post.php">Combining Social Media & Marketing funnels</a></div>
