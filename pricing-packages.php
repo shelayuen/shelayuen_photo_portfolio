@@ -197,7 +197,6 @@
 							<li>All images fully edited</li>
 							<li>Large resolution files provided</li>
 							<li>Licence form for approval submission</li>
-							<li>Upload of photos to Asset Center</li>
 						</ul>
 						<p><a class="read-more" href="#">Contact Us</a></p>
 					</div>
