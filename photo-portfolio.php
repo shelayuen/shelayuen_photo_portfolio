@@ -79,7 +79,7 @@
 			</section>
 			<!-- /SECTION 2-->
 
-			<!-- SECTION 4-->
+			<!-- SECTION 3-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/lifestyles/IMG_0980.jpg');">
 				<a href="lifestyle-photography.php" class="portfolio-link">
 					<div class="container parallax-content alignc">
@@ -93,14 +93,45 @@
 					<!-- /container -->
 				</a>
 			</section>
+			<!-- /SECTION 3	-->
+
+			<!-- SECTION 4-->
+			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/restaurant/IMG_6580.JPEG');">
+				<a href="restaurant-photography.php" class="portfolio-link">
+					<div class="container parallax-content alignc">
+						<div class="row">
+							<div class="col-lg-8 offset-lg-2">
+								<h1 class="display-3 white">Restaurant photography</h1>
+							</div>
+						</div>
+						<!-- /row -->			
+					</div>
+					<!-- /container -->
+				</a>
+			</section>
 			<!-- /SECTION 4	-->
 
+			<!-- SECTION 5-->
+			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/3D-up.png');">
+				<a href="3D-virtual-tour.php" class="portfolio-link">
+					<div class="container parallax-content alignc">
+						<div class="row">
+							<div class="col-lg-8 offset-lg-2">
+								<h1 class="display-3 white">3D Virtual Tour</h1>
+							</div>
+						</div>
+						<!-- /row -->			
+					</div>
+					<!-- /container -->
+				</a>
+			</section>
+			<!-- /SECTION 5	-->
 			
 
 		</div>
 		<!-- home-page-content -->
 
-				<div class="container section-holder blog-holder">
+		<div class="container section-holder blog-holder">
 			<div class="row layout-masonry">
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
