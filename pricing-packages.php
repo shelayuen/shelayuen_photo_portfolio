@@ -97,7 +97,7 @@
 					<!-- /col-lg-4 -->
 					<div class="col-md-6 col-lg-4">
 						<div class="icon-box-2-wrapper">
-							<div class="icon-box-2-icon icon-color"><i class="far fa-gem"></i></div>
+							<div class="icon-box-2-icon icon-color"><i class="fa-regular fa-thumbs-up"></i></div>
 							<div class="icon-box-2-content">
 								<h3 class="box-title">Social Media Management</h3>
 								<p>Managing and optimizing your hotel's social media presence to engage with your audience and drive bookings.</p>
