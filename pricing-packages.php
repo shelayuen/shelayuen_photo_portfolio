@@ -191,8 +191,7 @@
 					<div class="price-box">
 						<h4 class="price-title">Photography</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$300</h2>
-						<p style="font-size: smaller;">per photo</p>
+						<h2 class="price-amount">$300 /photo</h2>
 						<ul class="price-features">
 							<li>Unlimited commercial usage licence</li>
 							<li>All images fully edited</li>
@@ -206,9 +205,9 @@
 				
 				<div class="col-lg-4 margin-bm54">
 					<div class="price-box">
-						<h4 class="price-title">Marketing Funnels Development</h4>
+						<h4 class="price-title">Marketing Funnels</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$2000 per funnel</h2>
+						<h2 class="price-amount">$2000 <span style="font-size:10px;">/funnel</span></h2>
 						<ul class="price-features">
 							<li>Landing page design and development</li>
 							<li>Reservation or lead collection function</li>
@@ -225,8 +224,7 @@
 						<span class="price-divider"></span>
 						<h2 class="price-amount">$12,000</h2>
 						<ul class="price-features">
-							<li>6 hours coverage of scanning 6 guest rooms or banquet space</li>
-							<li>Capturing the best angles</li>
+							<li>Scanning 6 guest rooms or banquet space</li>
 							<li>Full project management of uploading to virtual tour platforms</li>
 							<li>Full editing of virtual tour labellings, taggings and virtual presentation tours.</li>
 							<li>Recommendation of the best subscription plans of virtual tour platforms</li>
@@ -243,7 +241,7 @@
 			<!-- /container -->
 		</section>
 		<!-- /SECTION 4-->
-		 		<div class="page-holder custom-page-template page-full fullscreen-page clearfix">
+		<div class="page-holder custom-page-template page-full fullscreen-page clearfix">
 			<!-- SECTION 1-->
 			<section class="section-holder">
 				<div class="container">
