@@ -189,15 +189,14 @@
 				
 				<div class="col-lg-4 margin-bm54">
 					<div class="price-box">
-						<h4 class="price-title">Basic</h4>
+						<h4 class="price-title">Photography</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$500</h2>
+						<h2 class="price-amount">$300 per photo</h2>
 						<ul class="price-features">
-							<li>8 hours coverage of beautifully captured images</li>
+							<li>Unlimited commercial usage licence</li>
 							<li>All images fully edited</li>
-							<li>Full printing</li>
-							<li>Constant direct contact to answer any questions</li>
-							<li>Engagement shoot</li>
+							<li>Large resolution files provided</li>
+							<li>Licence form for commercial usage</li>
 						</ul>
 						<p><a class="read-more" href="#">Contact Us</a></p>
 					</div>
@@ -205,15 +204,14 @@
 				
 				<div class="col-lg-4 margin-bm54">
 					<div class="price-box">
-						<h4 class="price-title">Standard</h4>
+						<h4 class="price-title">Marketing Funnels Development</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$1000</h2>
+						<h2 class="price-amount">$2000 per funnel</h2>
 						<ul class="price-features">
-							<li>8 hours coverage of beautifully captured images</li>
-							<li>All images fully edited</li>
-							<li>Full printing</li>
-							<li>Constant direct contact to answer any questions</li>
-							<li>Engagement shoot</li>
+							<li>Landing page design and development</li>
+							<li>Reservation or lead collection function</li>
+							<li>Offer graphics or assests creation</li>
+							<li>Patronage analysis and reporting</li>
 						</ul>
 						<p><a class="read-more" href="#">Contact Us</a></p>
 					</div>
@@ -221,17 +219,18 @@
 				
 				<div class="col-lg-4">
 					<div class="price-box">
-						<h4 class="price-title">Premium</h4>
+						<h4 class="price-title">3D Virtual Tour</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$2000</h2>
+						<h2 class="price-amount">$12,000</h2>
 						<ul class="price-features">
-							<li>8 hours coverage of beautifully captured images</li>
-							<li>All images fully edited</li>
-							<li>Full printing</li>
-							<li>Constant direct contact to answer any questions</li>
-							<li>Engagement shoot</li>
+							<li>6 hours coverage of scanning 6 guest rooms or banquet space</li>
+							<li>Capturing the best angles</li>
+							<li>Full project management of uploading to virtual tour platforms</li>
+							<li>Full editing of virtual tour labellings, taggings and virtual presentation tours.</li>
+							<li>Recommendation of the best subscription plans of virtual tour platforms</li>
+							<li>Above is the basic pricing for scannings occuring in Vancouver area. Please contact me for a quotation for hotels located outside of Vancouver area.</li>
 						</ul>
-						<p><a class="read-more" href="#">Contact Us</a></p>
+						<p><a class="read-more" href="#">Get a quotation</a></p>
 					</div>
 				</div>
 				

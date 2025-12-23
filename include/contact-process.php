@@ -1,6 +1,6 @@
 <?php
 
-$recipient = 'youremail@domain.com';
+$recipient = 'info@shelayuen.site';
 $name = $_POST['name'];
 $email = $_POST['email'];
 $subject = $_POST['subject'];
