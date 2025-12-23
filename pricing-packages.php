@@ -226,7 +226,7 @@
 							<li>Scanning 5 guest rooms or banquet space</li>
 							<li>Full project management of uploading to virtual tour platforms</li>
 							<li>Full editing of virtual tour labellings, taggings and virtual presentation tours.</li>
-							<li style="font-size: smaller;">Subscription fee not included. For hotels outside of Vancouver, please contact me for a quotation.</li>
+							<li style="font-size: smaller;">Excluding 3rd party fee. For hotels outside of Vancouver, please contact me for a quotation.</li>
 						</ul>
 						<p><a class="read-more" href="#">Get a quotation</a></p>
 					</div>
