@@ -253,6 +253,7 @@
 										<div class="col-md-4 margin-bm24"><input type="text" name="name" class="comm-field" placeholder="Name" /></div>
 										<div class="col-md-4 margin-bm24"><input type="text" name="email" class="comm-field" placeholder="Email" /> </div>
 										<div class="col-md-4"><input type="text" name="subject" class="comm-field" placeholder="Subject" /> </div>
+										<div class="col-md-4"><input type="text" name="website_url" style="display:none;"></div>
 									</div>
 									<p><textarea name="message" id="msg-contact" rows="5" placeholder="Message"></textarea></p>
 									<p class="antispam">Leave this empty: <input type="text" name="url" /></p>
