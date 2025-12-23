@@ -79,7 +79,7 @@
 						<div class="icon-box-2-wrapper">
 							<div class="icon-box-2-icon icon-color"><i class="fas fa-pencil-alt"></i></div>
 							<div class="icon-box-2-content">
-								<h3 class="box-title">Marketing Consultation</h3>
+								<h3 class="box-title">Marketing Funnels</h3>
 								<p>Marketing funnels converting patronage to revenue.</p>
 							</div>
 						</div>
@@ -97,7 +97,7 @@
 					<!-- /col-lg-4 -->
 					<div class="col-md-6 col-lg-4">
 						<div class="icon-box-2-wrapper">
-							<div class="icon-box-2-icon icon-color"><i class="fa-regular fa-thumbs-up"></i></div>
+							<div class="icon-box-2-icon icon-color"><i class="fas fa-thumbs-up"></i></div>
 							<div class="icon-box-2-content">
 								<h3 class="box-title">Social Media Management</h3>
 								<p>Managing and optimizing your hotel's social media presence to engage with your audience and drive bookings.</p>
@@ -128,7 +128,7 @@
 					<!-- /col-lg-4 -->
 					<div class="col-md-6 col-lg-4">
 						<div class="icon-box-2-wrapper">
-							<div class="icon-box-2-icon icon-color"><i class="fas fa-plane"></i></div>
+							<div class="icon-box-2-icon icon-color"><i class="fas fa-utensils"></i></div>
 							<div class="icon-box-2-content">
 								<h3 class="box-title">Menu Designs</h3>
 								<p>Creating visually appealing and effective menu designs for your restaurants and event space.</p>
@@ -154,7 +154,8 @@
 					<div class="price-box">
 						<h4 class="price-title">Photography</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$300<span style="font-size:0.3em;">/photo</span></h2>
+						<h2 class="price-amount">$350<span style="font-size:0.3em;">/architectural photo or</span></h2>
+						<h2 class="price-amount">$3000<span style="font-size:0.3em;">/10 lifestyle photos</span></h2>
 						<ul class="price-features">
 							<li>Unlimited commercial usage licence</li>
 							<li>All images fully edited</li>
@@ -186,7 +187,7 @@
 						<span class="price-divider"></span>
 						<h2 class="price-amount">$10,000</h2>
 						<ul class="price-features">
-							<li>Scanning 5 guest rooms or banquet space</li>
+							<li>Scanning 8 guest rooms or banquet space</li>
 							<li>Full project management of uploading to virtual tour platforms</li>
 							<li>Full editing of virtual tour labellings, taggings and virtual presentation tours.</li>
 							<li style="font-size: smaller;">Excluding 3rd party fee. For hotels outside of Vancouver, please contact me for a quotation.</li>
