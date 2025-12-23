@@ -46,7 +46,7 @@
 		<div class="menu-mask"></div>
 		<?php include 'header.php'; ?>
 		<!-- PAGE TOP -->
-		<div class="top-single-bkg " style="background-image:url('images/albums/gal-4/gal-4-06.jpg');">
+		<div class="top-single-bkg " style="background-image:url('images/albums/up.jpg');">
 			<div class="inner-desc">
 				<div class="container">
 					<h1 class="post-title single-post-title">Pricing Packages</h1>
