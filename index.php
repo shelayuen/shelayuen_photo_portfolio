@@ -18,7 +18,7 @@
 		<!-- Open Graph Metatags -->
 		<meta property="og:title" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels" />
 		<meta property="og:description" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels">
-		<!-- <meta property="og:image" content="https://shelayuen.site/images/opengraph-img.png" /> -->
+		<meta property="og:image" content="https://shelayuen.site/images/team/opengraph.png" />
 		<meta property="og:url" content="https://shelayuen.site/" />
 		<meta property="og:type" content="website">
 		<meta property="og:locale" content="en_US">

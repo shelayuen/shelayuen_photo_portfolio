@@ -2,20 +2,29 @@
 <html lang="en-US">
 	<head>
 
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-47LJXC4ZD9"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-47LJXC4ZD9"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-	gtag('config', 'G-47LJXC4ZD9');
-	</script>
+		gtag('config', 'G-47LJXC4ZD9');
+		</script>
 
-	
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>3D Virtual Tour for Luxury Hotel | Shela Yuen Marketing Manager & Digital Designer</title>
+
+		<!-- Open Graph Metatags -->
+		<meta property="og:title" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels" />
+		<meta property="og:description" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels">
+		<meta property="og:image" content="https://shelayuen.site/images/team/opengraph.png" />
+		<meta property="og:url" content="https://shelayuen.site/" />
+		<meta property="og:type" content="website">
+		<meta property="og:locale" content="en_US">
+		<meta property="og:site_name" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels">
+
 		<!-- Google Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

@@ -11,10 +11,20 @@
 		gtag('config', 'G-47LJXC4ZD9');
 		</script>
 
-		
+
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels</title>
+
+		<!-- Open Graph Metatags -->
+		<meta property="og:title" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels" />
+		<meta property="og:description" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels">
+		<meta property="og:image" content="https://shelayuen.site/images/team/opengraph.png" />
+		<meta property="og:url" content="https://shelayuen.site/" />
+		<meta property="og:type" content="website">
+		<meta property="og:locale" content="en_US">
+		<meta property="og:site_name" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels">
+
 		<!-- Google Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -40,7 +50,7 @@
 			<div class="inner-desc">
 				<div class="container">
 					<h1 class="post-title single-post-title">Pricing Packages</h1>
-					<span class="post-subtitle page-subtitle">What we offer</span>
+					<span class="post-subtitle page-subtitle"> </span>
 				</div>
 			</div>
 		</div>
@@ -52,8 +62,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 offset-lg-2">
-						<h2 class="section-title margin-b32">We'll provide you with the most beautiful images from your day for you and your guests.</h2>
-						<p>Veri ubique cu eam, vero dicta ridens ei quo, ex putent menandri accommodare sed. Suscipit lobortis prodesset ut eam. Sale dicta dolore pri et, an aliquam albucius volutpat est. Te vis veniam detracto, tollit alterum graecis his ut. Essent perfecto vel et, cu est tantas putent. Maiorum democritum sed ea, zril alterum at eum.</p>
+						<h2 class="section-title margin-b32">I'll provide you with the most suitable images & digital designs to showcase your hotel.</h2>
+						<p>Whether it is interior or food photography, I tailor each package to meet your unique needs and highlight your hotel's best features.</p>
 					</div>
 				</div>
 				<!-- /row -->
@@ -69,18 +79,8 @@
 						<div class="icon-box-2-wrapper">
 							<div class="icon-box-2-icon icon-color"><i class="fas fa-pencil-alt"></i></div>
 							<div class="icon-box-2-content">
-								<h3 class="box-title">Consulting</h3>
-								<p>Constituto percipitur ius, cu platonem mnesarchum nam. Nostrum vituperatoribus mea et, eu duo autem adipisci rationibus, eu nec assum aeterno omnesque.</p>
-							</div>
-						</div>
-					</div>
-					<!-- /col-lg-4 -->
-					<div class="col-md-6 col-lg-4">
-						<div class="icon-box-2-wrapper">
-							<div class="icon-box-2-icon icon-color"><i class="far fa-gem"></i></div>
-							<div class="icon-box-2-content">
-								<h3 class="box-title">Engagement Session</h3>
-								<p>Constituto percipitur ius, cu platonem mnesarchum nam. Nostrum vituperatoribus mea et, eu duo autem adipisci rationibus, eu nec assum aeterno omnesque.</p>
+								<h3 class="box-title">Marketing Consultation</h3>
+								<p>Marketing funnels converting patronage to revenue.</p>
 							</div>
 						</div>
 					</div>
@@ -89,18 +89,29 @@
 						<div class="icon-box-2-wrapper">
 							<div class="icon-box-2-icon icon-color"><i class="far fa-heart"></i></div>
 							<div class="icon-box-2-content">
-								<h3 class="box-title">Wedding</h3>
-								<p>Constituto percipitur ius, cu platonem mnesarchum nam. Nostrum vituperatoribus mea et, eu duo autem adipisci rationibus, eu nec assum aeterno omnesque.</p>
+								<h3 class="box-title">3D Virtual Tour</h3>
+								<p>Scanning and creating immersive virtual tours of your hotel.</p>
 							</div>
 						</div>
 					</div>
 					<!-- /col-lg-4 -->
 					<div class="col-md-6 col-lg-4">
 						<div class="icon-box-2-wrapper">
+							<div class="icon-box-2-icon icon-color"><i class="far fa-gem"></i></div>
+							<div class="icon-box-2-content">
+								<h3 class="box-title">Social Media Management</h3>
+								<p>Managing and optimizing your hotel's social media presence to engage with your audience and drive bookings.</p>
+							</div>
+						</div>
+					</div>
+					
+					<!-- /col-lg-4 -->
+					<div class="col-md-6 col-lg-4">
+						<div class="icon-box-2-wrapper">
 							<div class="icon-box-2-icon icon-color"><i class="fas fa-camera-retro"></i></div>
 							<div class="icon-box-2-content">
 								<h3 class="box-title">Photo</h3>
-								<p>Constituto percipitur ius, cu platonem mnesarchum nam. Nostrum vituperatoribus mea et, eu duo autem adipisci rationibus, eu nec assum aeterno omnesque.</p>
+								<p>Providing professional photography services to capture the essence and beauty of your hotel.</p>
 							</div>
 						</div>
 					</div>
@@ -110,7 +121,7 @@
 							<div class="icon-box-2-icon icon-color"><i class="fas fa-film"></i></div>
 							<div class="icon-box-2-content">
 								<h3 class="box-title">Video</h3>
-								<p>Constituto percipitur ius, cu platonem mnesarchum nam. Nostrum vituperatoribus mea et, eu duo autem adipisci rationibus, eu nec assum aeterno omnesque.</p>
+								<p>Producing high-quality videos to showcase your hotel's unique features and events.</p>
 							</div>
 						</div>
 					</div>
@@ -119,8 +130,8 @@
 						<div class="icon-box-2-wrapper">
 							<div class="icon-box-2-icon icon-color"><i class="fas fa-plane"></i></div>
 							<div class="icon-box-2-content">
-								<h3 class="box-title">Trash the Dress</h3>
-								<p>Constituto percipitur ius, cu platonem mnesarchum nam. Nostrum vituperatoribus mea et, eu duo autem adipisci rationibus, eu nec assum aeterno omnesque.</p>
+								<h3 class="box-title">Menu Designs</h3>
+								<p>Creating visually appealing and effective menu designs for your restaurants and event space.</p>
 							</div>
 						</div>
 					</div>
@@ -133,7 +144,7 @@
 		<!-- /SECTION 2-->
 		
 		<!-- SECTION 3-->
-		<section class="parallax section-holder" style="background-image:url('images/blog/blog-9.jpg');">
+		<!-- <section class="parallax section-holder" style="background-image:url('images/blog/blog-9.jpg');">
 			<div class="container parallax-content alignc">
 				<div class="row">
 					<div class="col-lg-6 margin-bm54">
@@ -147,9 +158,9 @@
 								<div class="testimonial-job white">Manager</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<!-- /col-lg-6 -->
-					<div class="col-lg-6">
+					<!-- <div class="col-lg-6">
 						<div class="testimonial-content white">"Odio reformidans est ut, at mei dicant facilis detracto, convenire facilisis gloriatur ea nec. Ei nihil commune facilisi vix, laoreet dolores tincidunt his ei, alii discere alterum nec te."</div>
 						<div class="testimonial-meta-inner">
 							<div class="testimonial-image">
@@ -162,13 +173,13 @@
 								<div class="testimonial-job white">Photographer</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<!-- /col-lg-6 -->
-				</div>
+				<!-- </div> -->
 				<!-- /row -->
-			</div>	
+			<!-- </div>	 -->
 			<!-- /container -->
-		</section>
+		<!-- </section> -->
 		<!-- /SECTION 3-->
 		
 		<!-- SECTION 4-->

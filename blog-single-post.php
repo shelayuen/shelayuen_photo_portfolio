@@ -15,6 +15,17 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Blog | Shela Yuen, Markerting Manager & Digital Designer</title>
+
+		<!-- Open Graph Metatags -->
+		<meta property="og:title" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels" />
+		<meta property="og:description" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels">
+		<meta property="og:image" content="https://shelayuen.site/images/team/opengraph.png" />
+		<meta property="og:url" content="https://shelayuen.site/" />
+		<meta property="og:type" content="website">
+		<meta property="og:locale" content="en_US">
+		<meta property="og:site_name" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels">
+
+		
 		<!-- Google Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
