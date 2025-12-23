@@ -221,13 +221,12 @@
 					<div class="price-box">
 						<h4 class="price-title">3D Virtual Tour</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$12,000</h2>
+						<h2 class="price-amount">$10,000</h2>
 						<ul class="price-features">
-							<li>Scanning 6 guest rooms or banquet space</li>
+							<li>Scanning 5 guest rooms or banquet space</li>
 							<li>Full project management of uploading to virtual tour platforms</li>
 							<li>Full editing of virtual tour labellings, taggings and virtual presentation tours.</li>
-							<li>Recommendation of the best subscription plans of virtual tour platforms</li>
-							<li style="font-size: smaller;">For hotels outside of Vancouver, please contact me for a quotation.</li>
+							<li style="font-size: smaller;">Subscription fee not included. For hotels outside of Vancouver, please contact me for a quotation.</li>
 						</ul>
 						<p><a class="read-more" href="#">Get a quotation</a></p>
 					</div>
