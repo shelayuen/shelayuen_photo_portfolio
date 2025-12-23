@@ -241,6 +241,119 @@
 			<!-- /container -->
 		</section>
 		<!-- /SECTION 4-->
+		 		<div class="page-holder custom-page-template page-full fullscreen-page clearfix">
+			<!-- SECTION 1-->
+			<section class="section-holder">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-6 margin-bm54">
+							<div id="contact-form-holder">
+								<form method="post" id="contact-form" action='include/contact-process.php'>
+									<div class="row margin-b24">
+										<div class="col-md-4 margin-bm24"><input type="text" name="name" class="comm-field" placeholder="Name" /></div>
+										<div class="col-md-4 margin-bm24"><input type="text" name="email" class="comm-field" placeholder="Email" /> </div>
+										<div class="col-md-4"><input type="text" name="subject" class="comm-field" placeholder="Subject" /> </div>
+									</div>
+									<p><textarea name="message" id="msg-contact" rows="5" placeholder="Message"></textarea></p>
+									<p class="antispam">Leave this empty: <input type="text" name="url" /></p>
+									<p><input type="submit" value="Send message" id="submit"/></p>
+								</form>
+							</div>
+							<!-- contact-form-holder-->
+							<div id="output-contact"></div>
+						</div>
+						<!-- /col-lg-6 -->	
+						<div class="col-lg-6">
+							<div class="margin-l54">
+								<h2 class="section-title margin-b32">Get in touch</h2>				
+
+					<div class="row">
+					<div class="col-md-6">
+						<div class="icon-box-3-wrapper">
+							<div class="icon-box-3-icon">
+							<div class="icon-box-3-inner">
+							<i class="fas fa-phone-alt"></i>
+							</div>
+							</div>
+							<div class="icon-box-3-content">
+								<h3 class="box-title box-title-3">Call Us Today </h3>
+								<p>1-800-111-2222</p>
+							</div>
+						</div>
+					</div>
+					<!-- /col-md-6 -->
+					<div class="col-md-6">
+						<div class="icon-box-3-wrapper">
+							<div class="icon-box-3-icon">
+							<div class="icon-box-3-inner">
+							<i class="far fa-envelope"></i>
+							</div>
+							</div>
+							<div class="icon-box-3-content">
+								<h3 class="box-title box-title-3">Email Me</h3>
+								<a href="mailto:info@shelayuen.site"><p>info@shelayuen.site</p></a>
+							</div>
+						</div>
+					</div>
+					<!-- /col-md-6 -->
+
+				</div>	
+				<!-- /row -->	
+				
+				<div class="row margin-b32min">
+					<div class="col-md-6">
+						<div class="icon-box-3-wrapper">
+							<div class="icon-box-3-icon">
+							<div class="icon-box-3-inner">
+							<i class="fas fa-map-marker-alt"></i>
+							</div>
+							</div>
+							<div class="icon-box-3-content">
+								<h3 class="box-title box-title-3">Address </h3>
+								<p>40 Park Ave, Brooklyn, New York</p>
+							</div>
+						</div>
+					</div>
+					<!-- /col-md-6 -->
+					<div class="col-md-6">
+						<div class="icon-box-3-wrapper">
+							<div class="icon-box-3-icon">
+							<div class="icon-box-3-inner">
+							<i class="far fa-clock"></i>
+							</div>
+							</div>
+							<div class="icon-box-3-content">
+								<h3 class="box-title box-title-3">Work Hours</h3>
+								<p>Mon-Fri: 9AM - 5PM</p>
+							</div>
+						</div>
+					</div>
+					<!-- /col-md-6 -->
+
+				</div>	
+				<!-- /row -->
+							</div>
+							<!-- /margin-l54 -->	
+							
+						</div>
+						<!-- /col-lg-6 -->	
+					</div>
+					<!-- /row -->
+				</div>
+				<!-- /container -->
+			</section>
+			<!-- /SECTION 1-->
+			<!-- SECTION 2-->
+			<section>
+				<div class="gmaps">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.9762977047603!2d-73.96009086693977!3d40.69651965846399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25bc1f922373f%3A0x398427d98fba822e!2sPark+Ave%2C+Brooklyn%2C+NY%2C+USA!5e0!3m2!1sen!2sro!4v1471514814808">
+					</iframe>
+				</div>
+			</section>
+			<!-- /SECTION 2-->
+		</div>
+		<!-- page-content -->
+		<!-- /PAGE CONTENT -->
 	
 		
 		</div>
