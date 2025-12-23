@@ -206,24 +206,6 @@
 			<section class="section-holder">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-6 margin-bm54">
-							<div id="contact-form-holder">
-								<form method="post" id="contact-form" action='include/contact-process.php'>
-									<div class="row margin-b24">
-										<div class="col-md-4 margin-bm24"><input type="text" name="name" class="comm-field" placeholder="Name" /></div>
-										<div class="col-md-4 margin-bm24"><input type="text" name="email" class="comm-field" placeholder="Email" /> </div>
-										<div class="col-md-4"><input type="text" name="subject" class="comm-field" placeholder="Subject" /> </div>
-										<div class="col-md-4"><input type="text" name="website_url" style="display:none;"></div>
-									</div>
-									<p><textarea name="message" id="msg-contact" rows="5" placeholder="Message"></textarea></p>
-									<p class="antispam">Leave this empty: <input type="text" name="url" /></p>
-									<p><input type="submit" value="Send message" id="submit"/></p>
-								</form>
-							</div>
-							<!-- contact-form-holder-->
-							<div id="output-contact"></div>
-						</div>
-
 						<div class="col-lg-6 margin-bm54 aligncm">
 							<div class="row">
 								<div class="col-md-6">
@@ -287,6 +269,24 @@
 								<!-- /col-md-6 -->
 							</div>	
 							<!-- /row -->	
+						</div>
+
+						<div class="col-lg-6 margin-bm54">
+							<div id="contact-form-holder">
+								<form method="post" id="contact-form" action='include/contact-process.php'>
+									<div class="row margin-b24">
+										<div class="col-md-4 margin-bm24"><input type="text" name="name" class="comm-field" placeholder="Name" /></div>
+										<div class="col-md-4 margin-bm24"><input type="text" name="email" class="comm-field" placeholder="Email" /> </div>
+										<div class="col-md-4"><input type="text" name="subject" class="comm-field" placeholder="Subject" /> </div>
+										<div class="col-md-4"><input type="text" name="website_url" style="display:none;"></div>
+									</div>
+									<p><textarea name="message" id="msg-contact" rows="5" placeholder="Message"></textarea></p>
+									<p class="antispam">Leave this empty: <input type="text" name="url" /></p>
+									<p><input type="submit" value="Send message" id="submit"/></p>
+								</form>
+							</div>
+							<!-- contact-form-holder-->
+							<div id="output-contact"></div>
 						</div>
 
 					</div>
