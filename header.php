@@ -47,6 +47,9 @@
 					</li>
 					<li class="menu-item">
 						<a href="contact.php">Contact Me</a>
+						<ul class="sub-menu">
+							<li class="menu-item"><a href="pricing-packages.php">Pricing</a></li>
+						</ul>
 					</li>
 				</ul>
 			</div>
@@ -120,6 +123,9 @@
 								</li>
 								<li class="menu-item">
 									<a href="contact.php">Contact Me</a>
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="pricing-packages.php">Pricing</a></li>
+									</ul>
 								</li>
 							</ul>
 					</nav>
