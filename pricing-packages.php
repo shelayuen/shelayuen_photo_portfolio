@@ -201,8 +201,9 @@
 			<!-- /container -->
 		</section>
 		<!-- /SECTION 4-->
+		 
 		<div class="page-holder custom-page-template page-full fullscreen-page clearfix">
-			<!-- SECTION 1-->
+
 			<section class="section-holder">
 				<div class="container">
 					<div class="row">
@@ -291,11 +292,10 @@
 
 					</div>
 					<!-- /row -->
-
 				</div>
 				<!-- /container -->
 			</section>
-			<!-- /SECTION 1-->
+
 
 		</div>
 
