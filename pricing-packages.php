@@ -143,6 +143,7 @@
 		</section>
 		<!-- /SECTION 2-->
 		
+		 <div class="spacer"></div>
 		
 		<!-- SECTION 4-->
 		<section class="section-holder">
@@ -202,6 +203,8 @@
 		</section>
 		<!-- /SECTION 4-->
 		 
+		 <div class="spacer"></div>
+
 		<div class="page-holder custom-page-template page-full fullscreen-page clearfix">
 
 			<section class="section-holder">
