@@ -143,44 +143,6 @@
 		</section>
 		<!-- /SECTION 2-->
 		
-		<!-- SECTION 3-->
-		<!-- <section class="parallax section-holder" style="background-image:url('images/blog/blog-9.jpg');">
-			<div class="container parallax-content alignc">
-				<div class="row">
-					<div class="col-lg-6 margin-bm54">
-						<div class="testimonial-content white">"Vocent utamur appareat ad his, eum volumus denique consectetuer id. Iusto affert mucius vix ei. Nec veritus epicurei tractatos at. Mel id posse nostrum, id ubique graece nostro mei."</div>
-						<div class="testimonial-meta-inner">
-							<div class="testimonial-image">
-								<img src="images/home/t1.jpg" alt="">
-							</div>
-							<div class="testimonial-details">
-								<div class="testimonial-name white">JEAN CARLSON</div>
-								<div class="testimonial-job white">Manager</div>
-							</div>
-						</div>
-					</div> -->
-					<!-- /col-lg-6 -->
-					<!-- <div class="col-lg-6">
-						<div class="testimonial-content white">"Odio reformidans est ut, at mei dicant facilis detracto, convenire facilisis gloriatur ea nec. Ei nihil commune facilisi vix, laoreet dolores tincidunt his ei, alii discere alterum nec te."</div>
-						<div class="testimonial-meta-inner">
-							<div class="testimonial-image">
-								<img src="images/home/t2.jpg" alt="">
-							</div>
-							<div class="testimonial-details">
-								<div class="testimonial-name white">
-									LOUIS RIOS
-								</div>
-								<div class="testimonial-job white">Photographer</div>
-							</div>
-						</div>
-					</div> -->
-					<!-- /col-lg-6 -->
-				<!-- </div> -->
-				<!-- /row -->
-			<!-- </div>	 -->
-			<!-- /container -->
-		<!-- </section> -->
-		<!-- /SECTION 3-->
 		
 		<!-- SECTION 4-->
 		<section class="section-holder">
@@ -262,8 +224,74 @@
 							<div id="output-contact"></div>
 						</div>
 
+						<div class="col-lg-6 margin-bm54 aligncm">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="icon-box-3-wrapper">
+										<div class="icon-box-3-icon">
+										<div class="icon-box-3-inner">
+										<i class="fas fa-map-marker-alt"></i>
+										</div>
+										</div>
+										<div class="icon-box-3-content">
+											<h3 class="box-title box-title-3">Based in </h3>
+											<p>Vancouver, BC, Canada</p>
+										</div>
+									</div>
+								</div>
+								<!-- /col-md-6 -->
+								<div class="col-md-6">
+									<div class="icon-box-3-wrapper">
+										<div class="icon-box-3-icon">
+										<div class="icon-box-3-inner">
+										<i class="far fa-envelope"></i>
+										</div>
+										</div>
+										<div class="icon-box-3-content">
+											<h3 class="box-title box-title-3">Email me</h3>
+											<a href="mailto:info@shelayuen.site"><p>info@shelayuen.site</p></a>
+										</div>
+									</div>
+								</div>
+								<!-- /col-md-6 -->
+							</div>	
+							<!-- /row -->	
+							<div class="row">
+								<div class="col-md-6">
+									<div class="icon-box-3-wrapper">
+										<div class="icon-box-3-icon">
+										<div class="icon-box-3-inner">
+										<i class="fab fa-instagram"></i>
+										</div>
+										</div>
+										<div class="icon-box-3-content">
+											<h3 class="box-title box-title-3">Instagram</h3>
+											<a href="https://www.instagram.com/shelayuen/" target="_blank"><p>@shelayuen</p></a>
+										</div>
+									</div>
+								</div>
+								<!-- /col-md-6 -->
+								<div class="col-md-6">
+									<div class="icon-box-3-wrapper">
+										<div class="icon-box-3-icon">
+										<div class="icon-box-3-inner">
+										<i class="fab fa-linkedin"></i>
+										</div>
+										</div>
+										<div class="icon-box-3-content">
+											<h3 class="box-title box-title-3">LinkedIn</h3>
+											<a href="https://www.linkedin.com/in/shelayuen/" target="_blank"><p>linkedin.com/in/shelayuen</p></a>
+										</div>
+									</div>
+								</div>
+								<!-- /col-md-6 -->
+							</div>	
+							<!-- /row -->	
+						</div>
+						
 					</div>
 					<!-- /row -->
+
 				</div>
 				<!-- /container -->
 			</section>
