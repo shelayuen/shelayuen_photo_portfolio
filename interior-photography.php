@@ -92,28 +92,28 @@
 						</div>
 						<!-- suite -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\interior\IMG_2847.JPG" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\interior\IMG_2847.JPG" alt=""> 
+							<a href="images/albums/interior/IMG_2847.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/interior/IMG_2847.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\interior\IMG_2852.JPG" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\interior\IMG_2852.JPG" alt=""> 
+							<a href="images/albums/interior/IMG_2852.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/interior/IMG_2852.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\interior\IMG_2858.JPG" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\interior\IMG_2858.JPG" alt=""> 
+							<a href="images/albums/interior/IMG_2858.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/interior/IMG_2858.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\interior\IMG_2879.JPG" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\interior\IMG_2879.JPG" alt=""> 
+							<a href="images/albums/interior/IMG_2879.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/interior/IMG_2879.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\interior\IMG_2884.JPG" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\interior\IMG_2884.JPG" alt=""> 
+							<a href="images/albums/interior/IMG_2884.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/interior/IMG_2884.jpg" alt=""> 
 							</a>
 						</div>
 						
