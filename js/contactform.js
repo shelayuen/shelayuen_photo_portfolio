@@ -12,7 +12,7 @@
 function showResponseContact(responseText, statusText)  { 
 	if (statusText == 'success') {
 		jQuery('#contact-form-holder').html('<h5>Message sent</h5>'); 
-		jQuery('#output-contact').html('<p>Thanks for contacting us! We will check your message within a few minutes.</p>'); 
+		jQuery('#output-contact').html('<p>Thanks for contacting me! I will get back to you shortly.</p>'); 
 	} else {
 		alert('status: ' + statusText + '\n\nSomething is wrong here');
 	}
