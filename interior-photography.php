@@ -119,81 +119,81 @@
 						
 						<!-- spa -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\sueno spa\IMG_2692-Edit.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\sueno spa\IMG_2692-Edit.jpg" alt=""> 
+							<a href="images/albums/sueno-spa/IMG_2692-Edit.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/sueno-spa/IMG_2692-Edit.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\sueno spa\IMG_2688.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\sueno spa\IMG_2688.jpg" alt=""> 
+							<a href="images/albums/sueno-spa/IMG_2688.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/sueno-spa/IMG_2688.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\sueno spa\IMG_2684-Edit.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\sueno spa\IMG_2684-Edit.jpg" alt=""> 
+							<a href="images/albums/sueno-spa/IMG_2684-Edit.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/sueno-spa/IMG_2684-Edit.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\sueno spa\IMG_2687-Edit.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\sueno spa\IMG_2687-Edit.jpg" alt=""> 
+							<a href="images/albums/sueno-spa/IMG_2687-Edit.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/sueno-spa/IMG_2687-Edit.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\sueno spa\IMG_2695.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\sueno spa\IMG_2695.jpg" alt=""> 
+							<a href="images/albums/sueno-spa/IMG_2695.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/sueno-spa/IMG_2695.jpg" alt=""> 
 							</a>
 						</div>
 						<!-- wedding -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\indoor-whitewedding\IMG_7767.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\indoor-whitewedding\IMG_7767.jpg" alt=""> 
+							<a href="images/albums/indoor-whitewedding/IMG_7767.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/indoor-whitewedding/IMG_7767.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\indoor-whitewedding\IMG_7773.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\indoor-whitewedding\IMG_7773.jpg" alt=""> 
+							<a href="images/albums/indoor-whitewedding/IMG_7773.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/indoor-whitewedding/IMG_7773.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\indoor-whitewedding\IMG_7687.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\indoor-whitewedding\IMG_7687.jpg" alt=""> 
+							<a href="images/albums/indoor-whitewedding/IMG_7687.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/indoor-whitewedding/IMG_7687.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\indoor-whitewedding\IMG_7719.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\indoor-whitewedding\IMG_7719.jpg" alt=""> 
+							<a href="images/albums/indoor-whitewedding/IMG_7719.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/indoor-whitewedding/IMG_7719.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\indoor-whitewedding\IMG_7721.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\indoor-whitewedding\IMG_7721.jpg" alt=""> 
+							<a href="images/albums/indoor-whitewedding/IMG_7721.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/indoor-whitewedding/IMG_7721.jpg" alt=""> 
 							</a>
 						</div>
 						<!-- indian wedding patio -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\patiowedding-indian\IMG_8591.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\patiowedding-indian\IMG_8591.jpg" alt=""> 
+							<a href="images/albums/patiowedding-indian/IMG_8591.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/patiowedding-indian/IMG_8591.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\patiowedding\IMG_8593.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\patiowedding\IMG_8593.jpg" alt=""> 
+							<a href="images/albums/patiowedding/IMG_8593.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/patiowedding/IMG_8593.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\patiowedding-indian\IMG_8592.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\patiowedding-indian\IMG_8592.jpg" alt=""> 
+							<a href="images/albums/patiowedding-indian/IMG_8592.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/patiowedding-indian/IMG_8592.jpg" alt=""> 
 							</a>
 						</div>
 						<!-- patio -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\patio-wedding-outdoorarch\IMG_7851.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\patio-wedding-outdoorarch\IMG_7851.jpg" alt=""> 
+							<a href="images/albums/patio-wedding-outdoorarch/IMG_7851.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/patio-wedding-outdoorarch/IMG_7851.jpg" alt=""> 
 							</a>
 						</div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
-							<a href="images\albums\patio-wedding-outdoorarch\IMG_7919.jpg" class="lightbox" title=""> 
-								<img class="img-fluid" src="images\albums\patio-wedding-outdoorarch\IMG_7919.jpg" alt=""> 
+							<a href="images/albums/patio-wedding-outdoorarch/IMG_7919.jpg" class="lightbox" title=""> 
+								<img class="img-fluid" src="images/albums/patio-wedding-outdoorarch/IMG_7919.jpg" alt=""> 
 							</a>
 						</div>
 				
