@@ -98,37 +98,33 @@
 									<div class="author-text"> Marketing Manager & Digital Designer for Luxury Hotel. Shela combines her years of award-winning sales experience and her talent in expressing complicated concepts through visuals, to help premium hotel market themselves digitally. </div>
 								</div>
 							</div>
-							<!-- <div class="row meta-nav-holder">
-								<div class="col-md-6 meta-nav">
-									<div class="pn-desc">
-										<h3><a href="#">&larr; Family Moments</a></h3>
-									</div>
-								</div>
-								<div class="col-md-6 meta-nav meta-nav-right">
-									<div class="pn-desc">
-										<h3><a href="#">Lovely Wedding &rarr;</a></h3>
-									</div>
-								</div>
-							</div> -->
-							<!-- <section id="comments" class="comm-title">
-								<div class="respond">
-									<div id="comment-form-holder">
-										<div id="respond" class="comment-respond">
-											<h3 id="reply-title" class="comment-reply-title"><span>Leave a Comment</span> </h3>
-											<form action="#" method="post" id="commentform" class="comment-form" novalidate="">
-												<p><textarea name="comment" id="msg-contact" placeholder="Comment" rows="7" tabindex="3"></textarea></p>
-												<div class="row">
-													<div class="col-sm-4 margin-bm32"><input type="text" name="author" id="author" class="comm-field" value="" placeholder="Name" size="22" tabindex="1"></div>
-													<div class="col-sm-4 margin-bm32"><input type="text" name="email" id="email" class="comm-field" value="" placeholder="Email" size="22" tabindex="2"></div>
-													<div class="col-sm-4"><input type="text" name="url" id="url" class="comm-field" value="" placeholder="Website" size="22" tabindex="3"></div>
+							
+						<!-- next home -->
+							<div class="container prev-next-gallery">
+								<div class="row meta-nav-holder port-meta-nav">
+									<div class="col-md-6 meta-nav">
+										<div class="pn-holder">
+											<!-- <dåiv class="pn-img"> <a href="index.php"> <img class="img-fluid" src="images/home/featured-projects/virtual.png" alt="Prev Gallery"> </a></div> -->
+											<div class="pn-desc">
+												<div class="meta-nav-subtitle">
+													<h3><a href="index.php">← Home</a></h3>
 												</div>
-												<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"></p>
-											</form>
+											</div>
 										</div>
-										<div id="output-contact"></div>
+									</div>
+									<div class="col-md-6 meta-nav meta-nav-right">
+										<div class="pn-holder">
+											<div class="pn-desc">
+												<div class="meta-nav-subtitle">
+													<h3><a href="interior-photography.php">Interior Photography →</a></h3>
+												</div>
+											</div>
+											<div class="pn-img"> <a href="interior-photography.php"> <img class="img-fluid" src="images/home/featured-projects/interior.png" alt="Next Gallery"> </a></div>
+										</div>
 									</div>
 								</div>
-							</section> -->
+							</div>
+
 						</article>
 					</div>
 					
@@ -136,20 +132,7 @@
 			</div>
 		</div>
 		<!-- /PAGE CONTENT -->
-		<!-- <div id="footer-instagram">
-			<ul class="instagram-pics instagram-size-small">
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-1.jpg" alt=""/></a></li>
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-2.jpg" alt=""/></a></li>
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-3.jpg" alt=""/></a></li>
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-4.jpg" alt=""/></a></li>
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-5.jpg" alt=""/></a></li>
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-6.jpg" alt=""/></a></li>
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-7.jpg" alt=""/></a></li>
-				<li class=""><a href="#" target="_blank" class=""><img src="images/insta/insta-8.jpg" alt=""/></a></li>
-			</ul>
-			<p class="clear"><a href="#" rel="me" target="_blank" class="">Follow Us!</a></p>
-		</div> -->
-		
+
 		<?php include 'footer.php'; ?>
 
 		<!-- JS --> 
