@@ -49,7 +49,7 @@
 		<div class="page-holder custom-page-template page-full fullscreen-page home-page-content clearfix">
 			<!-- SECTION 1-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/indoor-whitewedding/IMG_7687.jpg');">
-				<a href="interior-photography.php" class="portfolio-link">
+				<a href="interior-photography.php" target="_blank" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
@@ -65,7 +65,7 @@
 
 			<!-- SECTION 2-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/food/20250514-IMG_8242.jpg');">
-				<a href="food-photography.php" class="portfolio-link">
+				<a href="food-photography.php" target="_blank" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
@@ -81,7 +81,7 @@
 
 			<!-- SECTION 3-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/lifestyles/IMG_0980.jpg');">
-				<a href="lifestyle-photography.php" class="portfolio-link">
+				<a href="lifestyle-photography.php" target="_blank" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
@@ -97,7 +97,7 @@
 
 			<!-- SECTION 4-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/restaurant/IMG_6580.JPEG');">
-				<a href="restaurant-photography.php" class="portfolio-link">
+				<a href="restaurant-photography.php" target="_blank" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
@@ -113,7 +113,7 @@
 
 			<!-- SECTION 5-->
 			<section class="parallax section-home41 section-portfolio" style="background-image:url('images/albums/3D-up.png');">
-				<a href="3D-virtual-tour.php" class="portfolio-link">
+				<a href="3D-virtual-tour.php" target="_blank" class="portfolio-link">
 					<div class="container parallax-content alignc">
 						<div class="row">
 							<div class="col-lg-8 offset-lg-2">
@@ -130,57 +130,6 @@
 
 		</div>
 		<!-- home-page-content -->
-
-		<div class="container section-holder blog-holder">
-			<div class="row layout-masonry">
-				<div class="col-md-6 col-lg-4 blog-item-masonry">
-					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="3D-virtual-tour.php"> <img src="images/home/featured-projects/virtual.png" class="img-fluid" alt="3D virtual tour" title="3D Virtual Tour"> </a></div>
-						<div class="post-holder">
-							<h2 class="article-title"><a href="3D-virtual-tour.php">3D-virtual-tour</a></h2>
-							<a class="read-more" href="3D-virtual-tour.php">Read More </a>
-						</div>
-					</article>
-				</div>
-				<div class="col-md-6 col-lg-4 blog-item-masonry">
-					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="interior-photography.php"> <img src="images/home/featured-projects/interior.png" class="img-fluid" alt="Interior Photography" title="Interior Photography"> </a></div>
-						<div class="post-holder">
-							<h2 class="article-title"><a href="interior-photography.php">Interior Photography</a></h2>
-							<a class="read-more" href="interior-photography.php">Read More </a>
-						</div>
-					</article>
-				</div>
-				<div class="col-md-6 col-lg-4 blog-item-masonry">
-					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="lifestyle-photography.php"> <img src="images/home/featured-projects/life.png" class="img-fluid" alt="Lifestyle Photography" title="Lifestyle Photography"> </a></div>
-						<div class="post-holder">
-							<h2 class="article-title"><a href="lifestyle-photography.php">Lifestyle Photography</a></h2>
-							<a class="read-more" href="lifestyle-photography.php">Read More </a>
-						</div>
-					</article>
-				</div>
-				<div class="col-md-6 col-lg-4 blog-item-masonry">
-					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="food-photography.php"> <img src="images/home/featured-projects/food.png" class="img-fluid" alt="Food Photography" title="Food Photography"> </a></div>
-						<div class="post-holder">
-							<h2 class="article-title"><a href="food-photography.php">Food Photography</a></h2>
-							<a class="read-more" href="food-photography.php">Read More </a>
-						</div>
-					</article>
-				</div>
-				<div class="col-md-6 col-lg-4 blog-item-masonry">
-					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="restaurant-photography.php"> <img src="images/home/featured-projects/rest.png" class="img-fluid" alt="Restaurant Photography" title="Restaurant Photography"> </a></div>
-						<div class="post-holder">
-							<h2 class="article-title"><a href="restaurant-photography.php">Restaurant Photography</a></h2>
-							<a class="read-more" href="restaurant-photography.php">Read More </a>
-						</div>
-					</article>
-				</div>
-			</div>
-
-		</div>
 
 		<!-- /PAGE CONTENT -->
 
