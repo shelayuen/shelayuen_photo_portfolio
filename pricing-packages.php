@@ -153,32 +153,31 @@
 				
 				<div class="col-lg-4 margin-bm54">
 					<div class="price-box">
-						<h4 class="price-title">Photography</h4>
+						<h4 class="price-title">Architectural Photography</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$350 <span style="font-size:0.3em;">/architectural photo or</span></h2>
-						<h2 class="price-amount">$3000 <span style="font-size:0.3em;">/10 lifestyle photos</span></h2>
+						<h2 class="price-amount">$350 <span style="font-size:0.3em;">/photo</span></h2>
 						<ul class="price-features">
 							<li>Unlimited commercial usage licence</li>
 							<li>All images fully edited</li>
 							<li>Large resolution files provided</li>
 							<li>Licence form for approval submission</li>
 						</ul>
-						<p><a class="read-more" href="#">Contact Us</a></p>
+						<p><a class="read-more" href="#contact-form-holder">Contact Us</a></p>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 margin-bm54">
 					<div class="price-box">
-						<h4 class="price-title">Marketing Funnels</h4>
+						<h4 class="price-title">Lifestyle Funnels</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$2000 <span style="font-size:0.3em;">/funnel</span></h2>
+						<h2 class="price-amount">$3000 <span style="font-size:0.3em;">/10 photos</span></h2>
 						<ul class="price-features">
-							<li>Landing page design and development</li>
-							<li>Reservation or lead collection function</li>
-							<li>Offer graphics or assests creation</li>
-							<li>Patronage analysis and reporting</li>
+							<li>Unlimited commercial usage licence</li>
+							<li>All images fully edited</li>
+							<li>Large resolution files provided</li>
+							<li>Licence form for approval submission</li>
 						</ul>
-						<p><a class="read-more" href="#">Contact Us</a></p>
+						<p><a class="read-more" href="#contact-form-holder">Contact Us</a></p>
 					</div>
 				</div>
 				
@@ -193,7 +192,7 @@
 							<li>Full editing of virtual tour labellings, taggings and virtual presentation tours.</li>
 							<li style="font-size: smaller;">Excluding 3rd party fee. For hotels outside of Vancouver, please contact me for a quotation.</li>
 						</ul>
-						<p><a class="read-more" href="#">Get a quotation</a></p>
+						<p><a class="read-more" href="#contact-form-holder">Get a quotation</a></p>
 					</div>
 				</div>
 				
@@ -205,7 +204,7 @@
 		</section>
 		<!-- /SECTION 4-->
 		 
-		 <div class="spacer"></div>
+		<div class="spacer"></div>
 
 		<div class="page-holder custom-page-template page-full fullscreen-page clearfix">
 
