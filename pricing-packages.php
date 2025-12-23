@@ -155,8 +155,8 @@
 					<div class="price-box">
 						<h4 class="price-title">Photography</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$350<span style="font-size:0.3em;">/architectural photo or</span></h2>
-						<h2 class="price-amount">$3000<span style="font-size:0.3em;">/10 lifestyle photos</span></h2>
+						<h2 class="price-amount">$350 <span style="font-size:0.3em;">/architectural photo or</span></h2>
+						<h2 class="price-amount">$3000 <span style="font-size:0.3em;">/10 lifestyle photos</span></h2>
 						<ul class="price-features">
 							<li>Unlimited commercial usage licence</li>
 							<li>All images fully edited</li>
@@ -171,7 +171,7 @@
 					<div class="price-box">
 						<h4 class="price-title">Marketing Funnels</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$2000<span style="font-size:0.3em;">/funnel</span></h2>
+						<h2 class="price-amount">$2000 <span style="font-size:0.3em;">/funnel</span></h2>
 						<ul class="price-features">
 							<li>Landing page design and development</li>
 							<li>Reservation or lead collection function</li>
