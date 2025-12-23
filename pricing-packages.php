@@ -228,7 +228,7 @@
 							<li>Full project management of uploading to virtual tour platforms</li>
 							<li>Full editing of virtual tour labellings, taggings and virtual presentation tours.</li>
 							<li>Recommendation of the best subscription plans of virtual tour platforms</li>
-							<li style="font-size: smaller;">Above is the basic pricing for scannings occuring in Vancouver area. Please contact me for a quotation for hotels located outside of Vancouver area.</li>
+							<li style="font-size: smaller;">For hotels outside of Vancouver, please contact me for a quotation.</li>
 						</ul>
 						<p><a class="read-more" href="#">Get a quotation</a></p>
 					</div>
