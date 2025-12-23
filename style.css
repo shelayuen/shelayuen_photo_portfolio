@@ -1476,10 +1476,20 @@ transform: translateY(-50%);
 	padding: 400px 0;
 	height: auto;
 }
-.section-portfolio::after{
-	opacity: 0.2;
+.section-portfolio a:after{
+	content: '';
+	width: 100%; 
+	height: 100%;
+	position: absolute;
+	top: 0; 
+	left: 0;
+	background: #fff;
+	opacity: 0;
 }
 
+.section-portfolio:hover a:after{
+	opacity: 0.2;
+}
 
 .section-home42{
 	/* background: #8ac0be; */
