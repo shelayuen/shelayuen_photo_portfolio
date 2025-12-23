@@ -191,12 +191,14 @@
 					<div class="price-box">
 						<h4 class="price-title">Photography</h4>
 						<span class="price-divider"></span>
-						<h2 class="price-amount">$300 per photo</h2>
+						<h2 class="price-amount">$300</h2>
+						<p style="font-size: smaller;">per photo</p>
 						<ul class="price-features">
 							<li>Unlimited commercial usage licence</li>
 							<li>All images fully edited</li>
 							<li>Large resolution files provided</li>
-							<li>Licence form for commercial usage</li>
+							<li>Licence form for approval submission</li>
+							<li>Upload of photos to Asset Center</li>
 						</ul>
 						<p><a class="read-more" href="#">Contact Us</a></p>
 					</div>
