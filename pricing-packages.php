@@ -75,15 +75,27 @@
 		<section class="section-holder">
 			<div class="container">
 				<div class="row margin-b54min">
+					<!-- /col-lg-4 -->
 					<div class="col-md-6 col-lg-4">
 						<div class="icon-box-2-wrapper">
-							<div class="icon-box-2-icon icon-color"><i class="fas fa-pencil-alt"></i></div>
+							<div class="icon-box-2-icon icon-color"><i class="fas fa-camera-retro"></i></div>
 							<div class="icon-box-2-content">
-								<h3 class="box-title">Marketing Funnels</h3>
-								<p>Marketing funnels converting patronage to revenue.</p>
+								<h3 class="box-title">Photo</h3>
+								<p>Providing professional photography services to capture the essence and beauty of your hotel.</p>
 							</div>
 						</div>
 					</div>
+					<!-- /col-lg-4 -->
+					<div class="col-md-6 col-lg-4">
+						<div class="icon-box-2-wrapper">
+							<div class="icon-box-2-icon icon-color"><i class="fas fa-film"></i></div>
+							<div class="icon-box-2-content">
+								<h3 class="box-title">Video</h3>
+								<p>Producing high-quality videos to showcase your hotel's unique features and events.</p>
+							</div>
+						</div>
+					</div>
+					
 					<!-- /col-lg-4 -->
 					<div class="col-md-6 col-lg-4">
 						<div class="icon-box-2-wrapper">
@@ -105,23 +117,12 @@
 						</div>
 					</div>
 					
-					<!-- /col-lg-4 -->
 					<div class="col-md-6 col-lg-4">
 						<div class="icon-box-2-wrapper">
-							<div class="icon-box-2-icon icon-color"><i class="fas fa-camera-retro"></i></div>
+							<div class="icon-box-2-icon icon-color"><i class="fas fa-pencil-alt"></i></div>
 							<div class="icon-box-2-content">
-								<h3 class="box-title">Photo</h3>
-								<p>Providing professional photography services to capture the essence and beauty of your hotel.</p>
-							</div>
-						</div>
-					</div>
-					<!-- /col-lg-4 -->
-					<div class="col-md-6 col-lg-4">
-						<div class="icon-box-2-wrapper">
-							<div class="icon-box-2-icon icon-color"><i class="fas fa-film"></i></div>
-							<div class="icon-box-2-content">
-								<h3 class="box-title">Video</h3>
-								<p>Producing high-quality videos to showcase your hotel's unique features and events.</p>
+								<h3 class="box-title">Marketing Funnels</h3>
+								<p>Marketing funnels converting patronage to revenue.</p>
 							</div>
 						</div>
 					</div>
