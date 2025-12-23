@@ -90,6 +90,32 @@
 								<img class="img-fluid" src="images\albums\interior\IMG_6553.JPG" alt=""> 
 							</a>
 						</div>
+						<!-- suite -->
+						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
+							<a href="images\albums\interior\IMG_2847.JPG" class="lightbox" title=""> 
+								<img class="img-fluid" src="images\albums\interior\IMG_2847.JPG" alt=""> 
+							</a>
+						</div>
+						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
+							<a href="images\albums\interior\IMG_2852.JPG" class="lightbox" title=""> 
+								<img class="img-fluid" src="images\albums\interior\IMG_2852.JPG" alt=""> 
+							</a>
+						</div>
+						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
+							<a href="images\albums\interior\IMG_2858.JPG" class="lightbox" title=""> 
+								<img class="img-fluid" src="images\albums\interior\IMG_2858.JPG" alt=""> 
+							</a>
+						</div>
+						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
+							<a href="images\albums\interior\IMG_2879.JPG" class="lightbox" title=""> 
+								<img class="img-fluid" src="images\albums\interior\IMG_2879.JPG" alt=""> 
+							</a>
+						</div>
+						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
+							<a href="images\albums\interior\IMG_2884.JPG" class="lightbox" title=""> 
+								<img class="img-fluid" src="images\albums\interior\IMG_2884.JPG" alt=""> 
+							</a>
+						</div>
 						
 						<!-- spa -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> 
