@@ -169,21 +169,25 @@
 											<video
 												width="100%"
 												height="100%"
+												src="images\pages\social\reels\new-intern-teddy.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
 												src="images/pages/social/reels/when.mp4"
 												controls
 												muted
 												preload="metadata">
 												Your browser does not support the video tag.
 											</video>
-											<!-- <iframe 
-												width="100%" 
-												height="100%" 
-												src="images\pages\social\reels\when.mp4" 
-												title=" video player" 
-												frameborder="0" 
-												allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-												allowfullscreen>
-											</iframe> -->
 										</div>
 
 										<div class="swiper-slide">
@@ -297,6 +301,7 @@
 								<h2>Carousel posts:</h2>
 								
 								<div class="row">
+
 
 									<div class="col-lg-6">
 										<div class="swiper mySwiper">
