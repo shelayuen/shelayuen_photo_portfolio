@@ -203,23 +203,23 @@
 										<ul>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Combining Social Media & Marketing funnels"><img src="images/blog/mothersdayreserve/mothersdayreserve.png" class="img-fluid" alt="Combining Social Media & Marketing funnels" title="Combining Social Media & Marketing funnels"> </a></div>
+													<div class="display-post-img"> <a href="mothersdayreservation.php" title="Combining Social Media & Marketing funnels"><img src="images/blog/mothersdayreserve/mothersdayreserve.png" class="img-fluid" alt="Combining Social Media & Marketing funnels" title="Combining Social Media & Marketing funnels"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">December 20, 2025</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Combining Social Media & Marketing funnels</a></div>
-													</div>
-												</div>
-											</li>
-											<!-- <li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="New Dress Collection"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 18, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">New Dress Collection</a></div>
+														<div class="display-post-title"><a href="mothersdayreservation.php">Combining Social Media & Marketing funnels</a></div>
 													</div>
 												</div>
 											</li>
 											<li>
+												<div class="display-post-holder">
+													<div class="display-post-img"> <a href="2026valentine.php" title="2026 Valentine's Campaign"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="#" title="2026 Valentine's Campaign"> </a></div>
+													<div class="display-post-text">
+														<p class="display-post-date">February 2026</p>
+														<div class="display-post-title"><a href="2026valentine.php">Full-funnel: Valentine's Campaign</a></div>
+													</div>
+												</div>
+											</li>
+											<!-- <li>
 												<div class="display-post-holder">
 													<div class="display-post-img"> <a href="blog-single-post.php" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
 													<div class="display-post-text">
@@ -245,8 +245,7 @@
 									<ul>
 										<li class="cat-item cat-item-4"><a href="#">Marketing</a></li>
 										<li class="cat-item cat-item-1"><a href="#">Social Media</a></li>
-										<!-- <li class="cat-item cat-item-2"><a href="#">Portraits</a></li>
-										<li class="cat-item cat-item-3"><a href="#">Street</a></li> -->
+										<li class="cat-item cat-item-2"><a href="#">Full-funnel strategy</a></li>
 									</ul>
 								</li>
 								<!-- <li class="widget widget_archive">
@@ -258,7 +257,7 @@
 								</li> -->
 								<li class="widget widget_tag_cloud">
 									<h5 class="widgettitle">Tags</h5>
-									<div class="tagcloud"><a href="#">marketing</a> <a href="#">social media</a> <a href="#">funnels</a> 
+									<div class="tagcloud"><a href="#">marketing</a> <a href="#">social media</a> <a href="#">funnels</a>  <a href="#">email marketing</a>  <a href="#">OpenTable</a> <a href="#">Google Ads</a> <a href="#">Meta Ads</a>  
 										<!-- <a href="#">family</a> <a href="#">fashion shoot</a> <a href="#">friend</a> <a href="#">hugs</a> <a href="#">light</a> <a href="#">mom</a> <a href="#">nature</a> <a href="#">neon</a> <a href="#">night</a> <a href="#">photo shoot</a> <a href="#">portrait</a> <a href="#">red</a> <a href="#">road</a> <a href="#">seaside</a> <a href="#">summer</a> <a href="#">sun</a> <a href="#">trip</a> <a href="#">vacation</a> <a href="#">wedding</a> <a href="#">woman</a> -->
 									</div>
 								</li>
