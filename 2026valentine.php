@@ -13,7 +13,7 @@
 
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Blog | Shela Yuen, Markerting Manager & Digital Designer</title>
+		<title>Valentine's Day 2026 Campaign – Case Study | Shela Yuen | Markerting Manager & Digital Designer</title>
 
 		<!-- Open Graph Metatags -->
 		<meta property="og:title" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels" />
@@ -48,15 +48,38 @@
 		<div class="top-single-bkg single-post-topheader  topsingleimage " style="background-image:url('images/blog/mothersdayreseve/mothersdayreserve.png');">
 			<div class="inner-desc">
 				<div class="container">
-					<h1 class="post-title single-post-title">Digital Marketing Ecology - converting exposure to real bookings</h1>
+					<h1 class="post-title single-post-title">From Scroll to Reservation: Valentine's Day 2026</h1>
 					<ul class="post-meta">
-						<li class="meta-date">March 1, 2026</li>
-						<li class="meta-categ"><a href="#" rel="category tag">Social Media</a> <a href="#" rel="category tag">Marketing</a></li>
+						<li class="meta-date">February 2026</li>
+						<li class="meta-categ"><a href="#" rel="category tag">3-Week Campaign</a> <a href="#" rel="category tag">Full-Funnel Strategy</a> <a href="#" rel="category tag">Hotel & Restaurant</a></li>
 					</ul>
 				</div>
 			</div>
 		</div>
 		<!-- /PAGE TOP -->
+
+		<!-- OVERVIEW STRIP -->
+		<div class="overview">
+			<div class="overview-inner">
+				<div class="overview-item">
+				<label>Timeline</label>
+				<p>3 Weeks<br>(Jan 26 – Feb 14)</p>
+				</div>
+				<div class="overview-item">
+				<label>Offerings</label>
+				<p>Romance Hotel Package + Valentine's Restaurant Menu</p>
+				</div>
+				<div class="overview-item">
+				<label>Channels</label>
+				<p>Social · Paid · Email · Owned · PR</p>
+				</div>
+				<div class="overview-item">
+				<label>Deliverables</label>
+				<p>12 Reels · 1 Carousel · 2 Email Blasts · New Website</p>
+				</div>
+			</div>
+		</div>
+
 		<!-- PAGE CONTENT -->
 		<div id="wrap-content" class="blog-post-single section-holder">
 			<div class="container">
