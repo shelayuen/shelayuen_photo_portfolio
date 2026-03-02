@@ -82,7 +82,9 @@
 			<div class="gallery-container">
 				<div class="fullscreen-container fs-gallery">
 					<div class="row layout-masonry gallery-holder gallery-masonry3cols">
-						
+						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\print-media\hotel-flatsheet-room.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\print-media\hotel-flatsheet-room.png" alt=""> </a></div>
+						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\print-media\hotel-flatsheet-catering.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\print-media\hotel-flatsheet-catering.png" alt=""> </a></div>
+
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/wedding1.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/wedding1.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/wedding-brochure.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/wedding-brochure.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/visitorschoice.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/visitorschoice.jpg" alt=""> </a></div>
@@ -93,7 +95,7 @@
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/construction-ad.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/construction-ad.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/front-desk-review.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/front-desk-review.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/SBOT-women-in-biz.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/SBOT-women-in-biz.jpg" alt=""> </a></div>
-						
+				
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/wedding2.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/wedding2.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/wedding3.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/wedding3.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/print-media/SBOTad.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/print-media/SBOTad.jpg" alt=""> </a></div>
