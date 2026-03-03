@@ -2900,7 +2900,7 @@ font-size: 16px;}
 
  /* ── OVERVIEW STRIP ── */
     .overview {
-      background: #fff;
+      background: #FAF6F1;
       border-bottom: 1px solid var(--border);
     }
     .overview-inner {
