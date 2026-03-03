@@ -2901,8 +2901,10 @@ font-size: 16px;}
  /* ── OVERVIEW STRIP ── */
     .overview {
       background: #FAF6F1;
-      border-bottom: 1px solid var(--border);
+	  margin-top: -600px;
+	  margin-bottom: 10vh;
     }
+
     .overview-inner {
       max-width: 1350px;
       margin: 0 auto;
