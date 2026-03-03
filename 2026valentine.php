@@ -97,50 +97,22 @@
 									<cite></cite>
 								</blockquote>
 
-								
-								<div class="row">
-									<div class="col-lg-6">
-										<figure><a href="#"><img src="images/blog/mothersdayreserve/mdr-post.png" alt="" class="img-fluid" ></a></figure>
+								<h2>Campaign Timeline</h2>
+								<div class="timeline">
+									<div class="timeline-item">
+										<strong>Week 1 — Jan 26–Feb 1</strong>
+										<p>Photo &amp; video production, website launch, content calendar activation, email blast #1, Google Ads live, Meta Ads campaign launch, OpenTable &amp; Google Business Profile updates.</p>
 									</div>
-									<div class="col-lg-6">
-										<figure><a href="#"><img src="images/blog/mothersdayreserve/mdr-post-2.png" alt="" class="img-fluid" ></a></figure>
+									<div class="timeline-item">
+										<strong>Week 2 — Feb 2–8</strong>
+										<p>Ongoing reel publishing (12 total), giveaway campaign kick-off in partnership with the on-site Spa, email blast #2 to restaurant subscribers, campaign performance monitoring and optimization.</p>
 									</div>
-								</div>
-
-								<div class="row">
-									<div class="col-lg-6">
-										<figure><a href="#"><img src="images/blog/mothersdayreserve/mdr-story.png" alt="" class="img-fluid" ></a></figure>
-									</div>
-									<div class="col-lg-6">
-										<figure><a href="#"><img src="images/blog/mothersdayreserve/mdr-campaign.png" alt="" class="img-fluid" ></a></figure>
+									<div class="timeline-item">
+										<strong>Week 3 — Feb 9–14</strong>
+										<p>Final push content, countdown reels, last-minute booking conversions, ad budget shifted to highest-performing creatives, Valentine's Day execution.</p>
 									</div>
 								</div>
 
-								<div class="spacer-50"></div>
-
-								<h2>The Strategy: Creating a Seamless Marketing Funnel</h2>
-								<p> Instead of just throwing up some pretty posts and hoping for the best, I treated the whole thing like a funnel—guiding people from their first scroll all the way to hitting "reserve."</p>
-								<p> <b>Step 1: A Clear offer</b> First, I got clear on what we were offering: Mother's Day reservations with a special menu worth celebrating.
-								</p>
-								<!-- <blockquote class="wp-block-quote">
-									<p> The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.</p>
-									<cite>Marcel Proust</cite>
-								</blockquote> -->
-								<p> <b>Step 2: Map the User Journey</b> Then I mapped out exactly how someone would go from seeing our post to booking a table:</p>
-								<ul>
-									<li>They see our post or story, reminding them Mother's Day is coming</li>
-									<li>They get interested in seeing what is on the menu, if they still haven't booked a place for Mother's Day Brunch</li>
-									<li>They click the link in story or the link in bio, directing to the landing page</li>
-									<li>They land on a simple page with everything they need: dates, times, the menu, and a big intuitive reservation form to reserve</li>
-								</ul>
-								<div class="row">
-									<div class="col-lg-6">
-										<figure><a href="#"><img src="images/blog/mothersdayreserve/mdr-landingpage.png" alt="" class="img-fluid" ></a></figure>
-									</div>
-									<div class="col-lg-6">
-										<figure><a href="#"><img src="images/blog/mothersdayreserve/mdr-reserve-form.png" alt="" class="img-fluid" ></a></figure>
-									</div>
-								</div>
 
 								<div class="spacer-50"></div>
 
