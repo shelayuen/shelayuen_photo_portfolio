@@ -2904,7 +2904,7 @@ font-size: 16px;}
       border-bottom: 1px solid var(--border);
     }
     .overview-inner {
-      max-width:1800px;
+      max-width: 1350px;
       margin: 0 auto;
       padding: 40px 24px;
       display: grid;
@@ -2928,7 +2928,7 @@ font-size: 16px;}
     }
 
 
-	
+
 
 /*** BLOG GRID ***/
 
@@ -4781,7 +4781,7 @@ body.hidden-scroll {
 	
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767px) {v
 	.container {
 		max-width: 100%;
 	}
@@ -4903,12 +4903,6 @@ body.hidden-scroll {
 	}
 	
 	
-
-
-
-
-
-
 
 	/* end blog */
 	
