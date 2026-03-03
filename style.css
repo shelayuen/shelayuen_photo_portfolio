@@ -2919,14 +2919,14 @@ font-size: 16px;}
       font-weight: 500;
       letter-spacing: 0.2em;
       text-transform: uppercase;
-      color: #8bb8c1;
+      color: var(--primary-color);
       margin-bottom: 6px;
     }
     .overview-item p {
       font-family: 'Cormorant Garamond', serif;
       font-size: 18px;
       line-height: 1.35;
-      color: #8bb8c1;
+      color: var(--primary-color);
     }
 
 /* ── TIMELINE ── */
@@ -2942,7 +2942,7 @@ font-size: 16px;}
       top: 6px;
       bottom: 6px;
       width: 2px;
-      background: var(--border);
+      background: var(--primary-color);
     }
     .timeline-item {
       position: relative;
@@ -2956,7 +2956,7 @@ font-size: 16px;}
       width: 10px;
       height: 10px;
       border-radius: 50%;
-      background: var(--rose);
+      background: var(--extra-color1);
     }
     .timeline-item strong {
       display: block;
@@ -2964,7 +2964,7 @@ font-size: 16px;}
       font-weight: 500;
       letter-spacing: 0.1em;
       text-transform: uppercase;
-      color: var(--rose);
+      color: var(--extra-color1);
       margin-bottom: 4px;
     }
     .timeline-item p { margin: 0; font-size: 15px; color: #3a2e2b; }
