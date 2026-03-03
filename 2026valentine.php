@@ -88,10 +88,7 @@
 						<article class="blog-item-1col single-post-holder single-article-container">
 							<div class="post-content single-post-content single-article-page clearfix">
 								<p>Valentine's Day is one of the most competitive dining and hospitality moments of the year. For 2026, my client — a boutique hotel with an in-house restaurant — wanted to do more than just run a promotion. They wanted to build desire, drive qualified traffic, and convert that attention into real bookings across two distinct offerings: a Romance Hotel Room Package and a Valentine's Special Menu at the hotel's restaurant.</p>
-								<h2>Why Social Media Works for Hospitality<br></h2>
-								<p> If you've already got a solid brand, good offerings, and fair pricing, social media does three things really well: it gets you in front of more people, it builds trust when you show up consistently, and it reminds guests you exist when they're ready to book. You just need to make it dead simple for them to take that next step.
-								</p>
-
+								
 								<blockquote class="wp-block-quote">
 									<p> "The goal wasn't just exposure — it was a seamless journey from the first Instagram reel to a confirmed reservation."</p>
 									<cite></cite>
