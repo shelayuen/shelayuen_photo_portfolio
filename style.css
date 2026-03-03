@@ -2919,14 +2919,14 @@ font-size: 16px;}
       font-weight: 500;
       letter-spacing: 0.2em;
       text-transform: uppercase;
-      color: var(--rose);
+      color: #8bb8c1;
       margin-bottom: 6px;
     }
     .overview-item p {
       font-family: 'Cormorant Garamond', serif;
       font-size: 18px;
       line-height: 1.35;
-      color: var(--dark);
+      color: #8bb8c1;
     }
 
 /* ── TIMELINE ── */
