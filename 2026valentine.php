@@ -87,7 +87,7 @@
 					<div class="col-lg-9  posts-holder post-sidebar ">
 						<article class="blog-item-1col single-post-holder single-article-container">
 							<div class="post-content single-post-content single-article-page clearfix">
-								<p>Valentine's Day is one of the most competitive dining and hospitality moments of the year. For 2026, my client — a boutique hotel with an in-house restaurant — wanted to do more than just run a promotion. They wanted to build desire, drive qualified traffic, and convert that attention into real bookings across two distinct offerings: a Romance Hotel Room Package and a Valentine's Special Menu at the hotel's restaurant.</p>
+								<p>Valentine's Day is one of the most competitive dining and hospitality moments of the year. For 2026, my workplace - a Sheraton hotel with a restaurant managed by Executive chefs from 5-star hotels - wanted to do more than just run a promotion. They wanted to drive qualified traffic and convert that attention into real bookings across two distinct offerings: a Romance Hotel Room Package and a Valentine's Special Menu at the hotel's restaurant. Therefore, I have created a full-funnel marketing strategy to achieve that goal.</p>
 								
 								<blockquote class="wp-block-quote">
 									<p> "The goal wasn't just exposure — it was a seamless journey from the first Instagram reel to a confirmed reservation."</p>
