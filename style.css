@@ -2942,7 +2942,7 @@ font-size: 16px;}
       top: 6px;
       bottom: 6px;
       width: 2px;
-      background: var(--primary-color);
+      background: var(--extra-color1);
     }
     .timeline-item {
       position: relative;
@@ -2956,7 +2956,7 @@ font-size: 16px;}
       width: 10px;
       height: 10px;
       border-radius: 50%;
-      background: var(--extra-color1);
+      background: var(--primary-color);
     }
     .timeline-item strong {
       display: block;
