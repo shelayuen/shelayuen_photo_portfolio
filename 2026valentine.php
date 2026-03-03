@@ -111,15 +111,156 @@
 								</div>
 
 
-								<div class="spacer-50"></div>
+								<h2>The Offerings</h2>
+								<p>Two packages, two audiences, one cohesive brand story:</p>
+								<div class="tactics-grid">
+								<div class="tactic-card">
+									<span class="tag">Hotel</span>
+									<h3>Romance Room Package</h3>
+									<p>A curated overnight stay experience positioned as the perfect Valentine's gift — targeted at couples seeking a meaningful local escape.</p>
+								</div>
+								<div class="tactic-card">
+									<span class="tag">Restaurant</span>
+									<h3>Valentine's Special Menu</h3>
+									<p>A limited-time prix-fixe menu designed to attract both hotel guests and walk-in diners, promoted across all digital touchpoints.</p>
+								</div>
+								</div>
 
-								<h2>The Results</h2>
-								
-								<p>In two weeks, we got reservation emails flying in every time we posted something on social media. At the end we had received 300% more reservations than the week before the social campaigns, and five times our normal revenue for that month.
-								</p>
-								<h2>The Takeaway</h2>
-								<p>Social media gets people interested, but interest doesn't equal money until you make it stupid-easy to book. Every extra click or confusing step loses you customers. When we removed all the friction between "that looks nice" and "table for four, please," the bookings rolled in.
-								</p>
+								<h2>Digital Marketing Tactics</h2>
+
+								<div class="tactics-grid">
+
+								<div class="tactic-card">
+									<span class="tag">Production</span>
+									<h3>Photo &amp; Video</h3>
+									<p>End-to-end production from planning and styling through on-site shooting and post-production editing. All visual assets were created in-house to ensure brand consistency and emotional resonance.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Print &amp; Design</span>
+									<h3>Valentine's Menu Design</h3>
+									<p>Designed the physical Valentine's menu with an embedded Google Review lead magnet — turning a table leave-behind into an ongoing reputation-building tool.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Social Media</span>
+									<h3>Content Calendar</h3>
+									<p>Produced 12 Reels and 1 Carousel post, scheduled from January 26 through February 14. Each piece of content was crafted for platform-native engagement, with hooks tailored for short-form discovery.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Partnerships</span>
+									<h3>Giveaway Campaign</h3>
+									<p>Leveraged the hotel's on-site Spa as a co-sponsor for a Valentine's giveaway — creating a win-win collaboration that expanded reach for both brands while rewarding their shared audience.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Owned Media</span>
+									<h3>Website Launch: mixtlounge.ca</h3>
+									<p>Launched a brand new website with a full logo rebrand and a friendlier, conversion-optimised interface. Key additions included reservation functionality, Google Analytics integration, and a UX designed to convert social media traffic into confirmed bookings.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Email Marketing</span>
+									<h3>2 Email Blasts</h3>
+									<p>Sent two targeted emails to the restaurant's subscriber list introducing the Valentine's Menu. Each email was timed strategically — one to generate early awareness, one to capture last-minute bookers.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Paid Media</span>
+									<h3>Google Ads</h3>
+									<p>Launched search campaigns to capture high-intent locals actively searching for Valentine's dining options — intercepting demand at the exact moment of decision.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Paid Media</span>
+									<h3>Meta Ads</h3>
+									<p>Ran paid campaigns across Instagram, Facebook, Messenger, and Threads — using the original video and photo content to drive awareness and retarget engaged audiences for conversions.</p>
+								</div>
+
+								<div class="tactic-card">
+									<span class="tag">Platform Presence</span>
+									<h3>OpenTable &amp; Google Business Profile</h3>
+									<p>Added a special Valentine's Experience menu to OpenTable for increased exposure on their dedicated Valentine's Day page and for frictionless booking. Refreshed photo galleries on both OpenTable and Google Business Profile to present the most visually compelling version of the offering.</p>
+								</div>
+
+								</div>
+
+								<hr class="divider" />
+
+								<h2>Why This Approach Worked</h2>
+								<p>The strategy was built on a full-funnel philosophy: generate awareness through organic social and paid amplification, capture intent with Google Search ads and OpenTable presence, and convert through a seamless owned-media experience — a new website designed from the ground up with bookings as the primary goal.</p>
+								<p>By integrating a giveaway in partnership with the Spa, we didn't just grow our audience — we grew a <em>relevant</em> audience with genuine hospitality intent. And by embedding a Google Review prompt directly into the physical menu, the campaign extended its value beyond February 14, building long-term social proof that continues to attract future diners.</p>
+								<p>Three weeks. Two offerings. One cohesive story told across every channel that mattered.</p>
+
+								<div class="highlight">
+								Every tactic was chosen to serve a specific role in the customer journey — nothing was added for the sake of being busy.
+								</div>
+
+								<h2>Overall Results</h2>
+								<p>With a total digital marketing spend of <strong>$685.90</strong> across all campaigns for the Valentine's Menu and Romance Package, the campaign delivered measurable returns across every channel.</p>
+
+								<!-- KEY METRICS -->
+								<div class="metrics-strip">
+								<div class="metric">
+									<span class="metric-label">Total Impressions</span>
+									<span class="metric-value">50,650</span>
+								</div>
+								<div class="metric">
+									<span class="metric-label">Total Reach</span>
+									<span class="metric-value">31,276</span>
+								</div>
+								<div class="metric">
+									<span class="metric-label">Landing Page Views</span>
+									<span class="metric-value">1,131</span>
+								</div>
+								<div class="metric">
+									<span class="metric-label">Overall Cost Per Click</span>
+									<span class="metric-value">$0.61</span>
+								</div>
+								</div>
+
+								<!-- REVENUE -->
+								<div class="revenue-row">
+								<div class="revenue-card">
+									<span class="revenue-label">Restaurant Revenue<br><small>Feb 13 – Feb 15</small></span>
+									<span class="revenue-value">$10,212.28</span>
+								</div>
+								<div class="revenue-card">
+									<span class="revenue-label">Romance Package Revenue<br><small>Feb 13 – Feb 16 · 6 room nights</small></span>
+									<span class="revenue-value">$1,794</span>
+								</div>
+								</div>
+
+								<!-- INSTAGRAM TABLES -->
+								<div class="ig-grid">
+								<div class="ig-block">
+									<div class="ig-header">
+									<span class="ig-title">Hotel IG Account</span>
+									<span class="ig-note">Last 30 days as at Feb 18</span>
+									</div>
+									<table class="ig-table">
+									<tr><td>Followers (last 30 days)</td><td><strong>47</strong> <em>+2.9%</em></td></tr>
+									<tr><td>Views last 30 days</td><td><strong>23,888</strong> <em>90.9% non-followers</em></td></tr>
+									<tr><td>Accounts reached (Feb 18)</td><td><strong>16,607</strong></td></tr>
+									<tr><td>Accounts reached (Feb 9)</td><td><strong>23,404</strong></td></tr>
+									</table>
+								</div>
+								<div class="ig-block">
+									<div class="ig-header">
+									<span class="ig-title">MIXT IG Account</span>
+									<span class="ig-note">Last 30 days as at Feb 18</span>
+									</div>
+									<table class="ig-table">
+									<tr><td>Followers (last 30 days)</td><td><strong>26</strong> <em>+4.5%</em></td></tr>
+									<tr><td>Views last 30 days</td><td><strong>14,995</strong> <em>93.2% non-followers</em></td></tr>
+									<tr><td>Accounts reached</td><td><strong>15,772</strong> <em>+105,046.7%</em></td></tr>
+									</table>
+								</div>
+								</div>
+
+								<p style="margin-top: 28px;">For a total ad spend of under $700, the campaign generated over <strong>$12,000 in combined revenue</strong> — a remarkable return driven by the synergy of organic content, paid amplification, and a conversion-optimised owned media ecosystem.</p>
+
 							</div>
 							<div class="tags-single-page"> <a href="#" rel="tag">marketing</a> <a href="#" rel="tag">social media</a> <a href="#" rel="tag">funnels</a></div>
 							<div class="author-single-page">
