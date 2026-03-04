@@ -2984,7 +2984,7 @@ font-size: 16px;}
       position: relative;
       transition: box-shadow 0.2s;
     }
-    .tactic-card:hover { box-shadow: 0 8px 32px rgba(196,80,90,0.08); }
+    .tactic-card:hover { box-shadow: 0 8px 32px rgba(80, 148, 196, 0.08); }
     .tactic-card .tag {
       display: inline-block;
       font-size: 10px;
