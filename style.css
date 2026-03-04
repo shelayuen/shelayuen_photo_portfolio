@@ -2991,7 +2991,7 @@ font-size: 16px;}
       font-weight: 500;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: var(--extra-color1);
+      color: var(--menu-normal-color);
       background: var(--extra-color1);
       padding: 3px 10px;
       border-radius: 2px;
