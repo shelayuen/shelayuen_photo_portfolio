@@ -94,6 +94,8 @@
 									<cite></cite>
 								</blockquote>
 
+								<div class="spacer-50"></div>
+
 								<h2>Campaign Timeline</h2>
 								<div class="timeline">
 									<div class="timeline-item">
@@ -110,6 +112,7 @@
 									</div>
 								</div>
 
+								<div class="spacer-50"></div>
 
 								<h2>The Offerings</h2>
 								<p>Two packages, two audiences, one cohesive brand story:</p>
@@ -126,67 +129,70 @@
 								</div>
 								</div>
 
+								<div class="spacer-50"></div>
+
 								<h2>Digital Marketing Tactics</h2>
 
 								<div class="tactics-grid">
 
-								<div class="tactic-card">
-									<span class="tag">Production</span>
-									<h3>Photo &amp; Video</h3>
-									<p>End-to-end production from planning and styling through on-site shooting and post-production editing. All visual assets were created in-house to ensure brand consistency and emotional resonance.</p>
+									<div class="tactic-card">
+										<span class="tag">Production</span>
+										<h3>Photo &amp; Video</h3>
+										<p>End-to-end production from planning and styling through on-site shooting and post-production editing. All visual assets were created in-house to ensure brand consistency and emotional resonance.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Print &amp; Design</span>
+										<h3>Valentine's Menu Design</h3>
+										<p>Designed the physical Valentine's menu with an embedded Google Review lead magnet — turning a table leave-behind into an ongoing reputation-building tool.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Social Media</span>
+										<h3>Content Calendar</h3>
+										<p>Produced 12 Reels and 1 Carousel post, scheduled from January 26 through February 14. Each piece of content was crafted for platform-native engagement, with hooks tailored for short-form discovery.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Partnerships</span>
+										<h3>Giveaway Campaign</h3>
+										<p>Leveraged the hotel's on-site Spa as a co-sponsor for a Valentine's giveaway — creating a win-win collaboration that expanded reach for both brands while rewarding their shared audience.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Owned Media</span>
+										<h3>Website Launch: mixtlounge.ca</h3>
+										<p>Launched a brand new website with a full logo rebrand and a friendlier, conversion-optimised interface. Key additions included reservation functionality, Google Analytics integration, and a UX designed to convert social media traffic into confirmed bookings.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Email Marketing</span>
+										<h3>2 Email Blasts</h3>
+										<p>Sent two targeted emails to the restaurant's subscriber list introducing the Valentine's Menu. Each email was timed strategically — one to generate early awareness, one to capture last-minute bookers.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Paid Media</span>
+										<h3>Google Ads</h3>
+										<p>Launched search campaigns to capture high-intent locals actively searching for Valentine's dining options — intercepting demand at the exact moment of decision.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Paid Media</span>
+										<h3>Meta Ads</h3>
+										<p>Ran paid campaigns across Instagram, Facebook, Messenger, and Threads — using the original video and photo content to drive awareness and retarget engaged audiences for conversions.</p>
+									</div>
+
+									<div class="tactic-card">
+										<span class="tag">Platform Presence</span>
+										<h3>OpenTable &amp; Google Business Profile</h3>
+										<p>Added a special Valentine's Experience menu to OpenTable for increased exposure on their dedicated Valentine's Day page and for frictionless booking. Refreshed photo galleries on both OpenTable and Google Business Profile to present the most visually compelling version of the offering.</p>
+									</div>
+
 								</div>
 
-								<div class="tactic-card">
-									<span class="tag">Print &amp; Design</span>
-									<h3>Valentine's Menu Design</h3>
-									<p>Designed the physical Valentine's menu with an embedded Google Review lead magnet — turning a table leave-behind into an ongoing reputation-building tool.</p>
-								</div>
 
-								<div class="tactic-card">
-									<span class="tag">Social Media</span>
-									<h3>Content Calendar</h3>
-									<p>Produced 12 Reels and 1 Carousel post, scheduled from January 26 through February 14. Each piece of content was crafted for platform-native engagement, with hooks tailored for short-form discovery.</p>
-								</div>
-
-								<div class="tactic-card">
-									<span class="tag">Partnerships</span>
-									<h3>Giveaway Campaign</h3>
-									<p>Leveraged the hotel's on-site Spa as a co-sponsor for a Valentine's giveaway — creating a win-win collaboration that expanded reach for both brands while rewarding their shared audience.</p>
-								</div>
-
-								<div class="tactic-card">
-									<span class="tag">Owned Media</span>
-									<h3>Website Launch: mixtlounge.ca</h3>
-									<p>Launched a brand new website with a full logo rebrand and a friendlier, conversion-optimised interface. Key additions included reservation functionality, Google Analytics integration, and a UX designed to convert social media traffic into confirmed bookings.</p>
-								</div>
-
-								<div class="tactic-card">
-									<span class="tag">Email Marketing</span>
-									<h3>2 Email Blasts</h3>
-									<p>Sent two targeted emails to the restaurant's subscriber list introducing the Valentine's Menu. Each email was timed strategically — one to generate early awareness, one to capture last-minute bookers.</p>
-								</div>
-
-								<div class="tactic-card">
-									<span class="tag">Paid Media</span>
-									<h3>Google Ads</h3>
-									<p>Launched search campaigns to capture high-intent locals actively searching for Valentine's dining options — intercepting demand at the exact moment of decision.</p>
-								</div>
-
-								<div class="tactic-card">
-									<span class="tag">Paid Media</span>
-									<h3>Meta Ads</h3>
-									<p>Ran paid campaigns across Instagram, Facebook, Messenger, and Threads — using the original video and photo content to drive awareness and retarget engaged audiences for conversions.</p>
-								</div>
-
-								<div class="tactic-card">
-									<span class="tag">Platform Presence</span>
-									<h3>OpenTable &amp; Google Business Profile</h3>
-									<p>Added a special Valentine's Experience menu to OpenTable for increased exposure on their dedicated Valentine's Day page and for frictionless booking. Refreshed photo galleries on both OpenTable and Google Business Profile to present the most visually compelling version of the offering.</p>
-								</div>
-
-								</div>
-
-								<hr class="divider" />
+								<div class="spacer-50"></div>
 
 								<h2>Why This Approach Worked</h2>
 								<p>The strategy was built on a full-funnel philosophy: generate awareness through organic social and paid amplification, capture intent with Google Search ads and OpenTable presence, and convert through a seamless owned-media experience — a new website designed from the ground up with bookings as the primary goal.</p>
@@ -196,6 +202,8 @@
 								<div class="highlight">
 								Every tactic was chosen to serve a specific role in the customer journey — nothing was added for the sake of being busy.
 								</div>
+								
+								<div class="spacer-50"></div>
 
 								<h2>Overall Results</h2>
 								<p>With a total digital marketing spend of <strong>$685.90</strong> across all campaigns for the Valentine's Menu and Romance Package, the campaign delivered measurable returns across every channel.</p>
