@@ -2991,7 +2991,7 @@ font-size: 16px;}
       font-weight: 500;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: var(--menu-normal-color);
+      color: #252525;
       background: var(--extra-color1);
       padding: 3px 10px;
       border-radius: 2px;
@@ -3003,7 +3003,7 @@ font-size: 16px;}
       font-weight: 600;
       margin-bottom: 10px;
     }
-    .tactic-card p { font-size: 14px; color: var(--extra-color1); margin: 0; line-height: 1.65; }
+    .tactic-card p { font-size: 14px; color: #252525; margin: 0; line-height: 1.65; }
 
     /* ── HIGHLIGHT BOX ── */
     .highlight {
@@ -3071,7 +3071,7 @@ font-size: 16px;}
       font-family: 'Cormorant Garamond', serif;
       font-size: 42px;
       font-weight: 600;
-      color: #f5c5c8;
+      color: #2ccad5;
       line-height: 1;
     }
     .ig-grid {
