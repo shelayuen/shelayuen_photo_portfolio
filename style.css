@@ -2978,7 +2978,7 @@ font-size: 16px;}
     }
     .tactic-card {
       background: #fff;
-      border: 1px solid var(--border);
+      border: 1px solid var(--extra-color1);
       border-radius: 4px;
       padding: 28px 24px;
       position: relative;
@@ -2991,8 +2991,8 @@ font-size: 16px;}
       font-weight: 500;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: var(--rose);
-      background: var(--blush);
+      color: var(--extra-color1);
+      background: var(--extra-color1);
       padding: 3px 10px;
       border-radius: 2px;
       margin-bottom: 12px;
@@ -3003,12 +3003,12 @@ font-size: 16px;}
       font-weight: 600;
       margin-bottom: 10px;
     }
-    .tactic-card p { font-size: 14px; color: var(--muted); margin: 0; line-height: 1.65; }
+    .tactic-card p { font-size: 14px; color: var(--extra-color1); margin: 0; line-height: 1.65; }
 
     /* ── HIGHLIGHT BOX ── */
     .highlight {
-      background: var(--blush);
-      border-left: 4px solid var(--rose);
+      background: var(--extra-color1);
+      border-left: 4px solid var(--extra-color1);
       padding: 24px 28px;
       border-radius: 0 4px 4px 0;
       margin: 40px 0;
