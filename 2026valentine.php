@@ -197,16 +197,15 @@
 								<h2>Why This Approach Worked</h2>
 								<p>The strategy was built on a full-funnel philosophy: generate awareness through organic social and paid amplification, capture intent with Google Search ads and OpenTable presence, and convert through a seamless owned-media experience — a new website designed from the ground up with bookings as the primary goal.</p>
 								<p>By integrating a giveaway in partnership with the Spa, we didn't just grow our audience — we grew a <em>relevant</em> audience with genuine hospitality intent. And by embedding a Google Review prompt directly into the physical menu, the campaign extended its value beyond February 14, building long-term social proof that continues to attract future diners.</p>
-								<p>Three weeks. Two offerings. One cohesive story told across every channel that mattered.</p>
 
 								<div class="highlight">
-								Every tactic was chosen to serve a specific role in the customer journey — nothing was added for the sake of being busy.
+								Three weeks. Two offerings. One cohesive story told across every channel that mattered.
 								</div>
 								
 								<div class="spacer-50"></div>
 
 								<h2>Overall Results</h2>
-								<p>With a total digital marketing spend of <strong>$685.90</strong> across all campaigns for the Valentine's Menu and Romance Package, the campaign delivered measurable returns across every channel.</p>
+								<p>With a total digital marketing spend of only<strong>$685.90</strong> across all campaigns for the Valentine's Menu and Romance Package, the campaign delivered measurable returns across every channel.</p>
 
 								<!-- KEY METRICS -->
 								<div class="metrics-strip">
