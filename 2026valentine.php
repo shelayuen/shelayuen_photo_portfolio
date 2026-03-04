@@ -229,14 +229,18 @@
 
 								<!-- REVENUE -->
 								<div class="revenue-row">
-								<div class="revenue-card">
-									<span class="revenue-label">Restaurant Revenue<br><small>Feb 13 – Feb 15</small></span>
-									<span class="revenue-value">$10,212.28</span>
-								</div>
-								<div class="revenue-card">
-									<span class="revenue-label">Romance Package Revenue<br><small>Feb 13 – Feb 16 · 6 room nights</small></span>
-									<span class="revenue-value">$1,794</span>
-								</div>
+									<div class="revenue-card">
+										<span class="revenue-label">Restaurant Revenue<br><small>Feb 13 – Feb 15</small></span>
+										<span class="revenue-value">$10,212.28</span>
+									</div>
+									<div class="revenue-card">
+										<span class="revenue-label">Romance Package Revenue<br><small>Feb 13 – Feb 16 · 6 room nights</small></span>
+										<span class="revenue-value">$1,794</span>
+									</div>
+									<div class="revenue-card">
+										<span class="revenue-label">Return on Investment / GRE</span>
+										<span class="revenue-value">17.5x / 16.4:1 </span>
+									</div>
 								</div>
 
 								<!-- INSTAGRAM TABLES -->
