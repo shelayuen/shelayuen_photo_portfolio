@@ -2969,6 +2969,55 @@ font-size: 16px;}
     }
     .timeline-item p { margin: 0; font-size: 15px; color: #3a2e2b; }
 
+ /* ── TACTIC CARDS ── */
+    .tactics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      margin: 32px 0;
+    }
+    .tactic-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 28px 24px;
+      position: relative;
+      transition: box-shadow 0.2s;
+    }
+    .tactic-card:hover { box-shadow: 0 8px 32px rgba(196,80,90,0.08); }
+    .tactic-card .tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--rose);
+      background: var(--blush);
+      padding: 3px 10px;
+      border-radius: 2px;
+      margin-bottom: 12px;
+    }
+    .tactic-card h3 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+    .tactic-card p { font-size: 14px; color: var(--muted); margin: 0; line-height: 1.65; }
+
+    /* ── HIGHLIGHT BOX ── */
+    .highlight {
+      background: var(--blush);
+      border-left: 4px solid var(--rose);
+      padding: 24px 28px;
+      border-radius: 0 4px 4px 0;
+      margin: 40px 0;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 20px;
+      font-style: italic;
+      color: var(--dark);
+      line-height: 1.5;
+    }
 
 
 /*** BLOG GRID ***/
