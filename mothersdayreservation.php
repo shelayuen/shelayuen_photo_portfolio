@@ -45,7 +45,7 @@
 		<div class="menu-mask"></div>
 		<?php include 'header.php'; ?>
 		<!-- PAGE TOP -->
-		<div class="top-single-bkg single-post-topheader  topsingleimage " style="background-image:url('images/blog/mothersdayreseve/mothersdayreserve.png');">
+		<div class="top-single-bkg single-post-topheader  topsingleimage " style="background-image:url('/images/blog/mothersdayreseve/mothersdayreserve.png');">
 			<div class="inner-desc">
 				<div class="container">
 					<h1 class="post-title single-post-title">How to Convert Social Media Traffic Into Real Revenue: A Mother's Day Success Story</h1>
