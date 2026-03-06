@@ -205,7 +205,7 @@
 								<div class="spacer-50"></div>
 
 								<h2>Overall Results</h2>
-								<p>With a total digital marketing spend of only<strong>$685.90</strong> across all campaigns for the Valentine's Menu and Romance Package, the campaign delivered measurable returns across every channel.</p>
+								<p>With a total digital marketing spend of only <strong>$685.90</strong> across all campaigns for the Valentine's Menu and Romance Package, the campaign delivered measurable returns across every channel.</p>
 
 								<!-- KEY METRICS -->
 								<div class="metrics-strip">
