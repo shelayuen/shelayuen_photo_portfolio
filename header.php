@@ -115,10 +115,7 @@
 									<a href="success-stories.php">Success Stories</a>
 									<ul class="sub-menu">
 										<li class="menu-item"><a href="mothersdayreservation.php">Mother's day reservation</a></li>
-										<!-- <li class="menu-item"><a href="blog-list.php"></a></li>
-										<li class="menu-item"><a href="blog.php">Blog Grid 2 Cols</a></li>
-										<li class="menu-item"><a href="blog-grid-3-cols.php">Blog Grid 3 Cols</a></li>
-										<li class="menu-item"><a href="blog-single-post.php">Single Post</a></li> -->
+										<li class="menu-item"><a href="2026valentine.php">2026 Valentine's Campaigns</a></li>
 									</ul>
 								</li>
 								<li class="menu-item">
