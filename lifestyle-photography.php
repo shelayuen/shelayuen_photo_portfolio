@@ -99,7 +99,7 @@
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\portraits\IMG_9891.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\portraits\IMG_9891.jpg" alt=""> </a></div>
 
 						
-						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/lifestyles/IMG_2891.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/lifestyles/IMG_2891.jpg" alt=""> </a></div>
+						<!-- <div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/lifestyles/IMG_2891.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/lifestyles/IMG_2891.jpg" alt=""> </a></div> -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images/albums/lifestyles/IMG_2892.jpg" class="lightbox" title=""> <img class="img-fluid" src="images/albums/lifestyles/IMG_2892.jpg" alt=""> </a></div>
 					</div>
 				</div>
