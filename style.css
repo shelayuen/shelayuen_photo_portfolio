@@ -574,7 +574,7 @@ table th,
 table td {
 	border-bottom: 1px solid #e9e9e9;
 	border-right: 1px solid #e9e9e9;
-	text-align: center;
+	text-align: left;
 	padding: 16px;
 }
 
