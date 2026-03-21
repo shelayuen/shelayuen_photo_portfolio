@@ -79,7 +79,7 @@
 			<div class="gallery-container">
 				<div class="fullscreen-container fs-gallery">
 					<div class="row layout-masonry gallery-holder gallery-masonry3cols">
-						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\lifestyles\IMG_0947.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\lifestyles\IMG_0947.jpg" alt=""> </a></div>
+						<!-- <div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\lifestyles\IMG_0947.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\lifestyles\IMG_0947.jpg" alt=""> </a></div> -->
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\lifestyles\IMG_1073-Edit.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\lifestyles\IMG_1073-Edit.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\lifestyles\IMG_0977.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\lifestyles\IMG_0977.jpg" alt=""> </a></div>
 						<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\lifestyles\IMG_1034.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\lifestyles\IMG_1034.jpg" alt=""> </a></div>
