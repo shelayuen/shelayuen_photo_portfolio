@@ -74,7 +74,6 @@
 								<p>Whether catching someone's eye during a football match or serving as their first impression on our website, this video works as a visual handshake - inviting, reassuring, and creating a warm impression.</p>
 								<div class="spacer"></div>
 								<iframe width="560" height="315" src="https://www.youtube.com/embed/uuKT8jngtYI?si=aUOYNzs_HERYXsUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-								<iframe width="560" height="315" src="https://youtu.be/bGDUe3bCOtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 									
