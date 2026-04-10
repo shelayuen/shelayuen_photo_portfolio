@@ -72,6 +72,20 @@
 								</p>
 								<p>In the hospitality industry, print media isn't just decoration—it's a powerful business tool. A well-designed menu establishes the perception of food quality before a single dish arrives at the table, ultimately influencing guest satisfaction and increasing revenue. Every design choice I make serves both aesthetic and strategic purposes.</p>
 								<div class="spacer"></div>
+
+								<div class="row">
+									<div class="col-lg-6">
+										<figure><a href="#"><img src="images\albums\menu-design\2026-wine-list-red.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+									<div class="col-lg-6">
+										<figure><a href="#"><img src="images\albums\menu-design\2026-wine-list-white.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+								</div>
+								<blockquote class="wp-block-quote">
+									<cite>2026 Wine List with logo rebranded</cite>
+								</blockquote>
+
+
 								<div class="row">
 									<div class="col-lg-6">
 										<figure><a href="#"><img src="images\albums\menu-design\brunch1.png" alt="" class="img-fluid" ></a></figure>
