@@ -77,10 +77,10 @@
 				</div>
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="menu-design.php"> <img src="images/home/featured-projects/menu.png" class="img-fluid" alt="Menu Design" title="Menu Design"> </a></div>
+						<div class="post-image"> <a href="restaurant-menu-design.php"> <img src="images/home/featured-projects/menu.png" class="img-fluid" alt="Menu Design" title="Menu Design"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="menu-design.php">Menu Design</a></h2>
-							<a class="read-more" href="menu-design.php">Read More </a>
+							<h2 class="article-title"><a href="restaurant-menu-design.php">Menu Design</a></h2>
+							<a class="read-more" href="restaurant-menu-design.php">Read More </a>
 						</div>
 					</article>
 				</div>
