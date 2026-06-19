@@ -51,7 +51,7 @@
 					<h1 class="post-title single-post-title">From Zero Assets to 230 Covers: Building a Mother's Day Campaign From Scratch</h1>
 					<ul class="post-meta">
 						<li class="meta-date">June 2026</li>
-						<li class="meta-categ"><a href="#" rel="category tag">Paid Ads</a><a href="#" rel="category tag">Social Media</a> <a href="#" rel="category tag">Email Marketing</a><a href="#" rel="category tag">Event Marketing</a> <a href="#" rel="category tag">Full-Funnel Strategy</a> <a href="#" rel="category tag">Hotel & Restaurant</a></li>
+						<li class="meta-categ"><a href="#" rel="category tag">Paid Ads</a><p> | </p><a href="#" rel="category tag">Social Media</a><p> | </p> <a href="#" rel="category tag">Email Marketing</a><p> | </p><a href="#" rel="category tag">Event Marketing</a> <p> | </p><a href="#" rel="category tag">Full-Funnel Strategy</a> </li>
 					</ul>
 				</div>
 			</div>
