@@ -75,7 +75,7 @@
 				</div>
 				<div class="overview-item">
 				<label>Deliverables</label>
-				<p>12 Reels · 1 Carousel · 2 Email Blasts · New Website</p>
+				<p>12 Reels · 1 Carousel · 5 Email Blasts · New landing page</p>
 				</div>
 			</div>
 		</div>
