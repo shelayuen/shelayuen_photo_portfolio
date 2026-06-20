@@ -142,7 +142,7 @@
 
 									<div class="tactic-card">
 										<span class="tag">Production</span>
-										<h3>Photo &amp; Video</h3>
+										<h3>Photos &amp; Videos</h3>
 										<p>Hiring decor company to enhance the restaurant ambiance with spring garden theme; shooting photos and videos of a preview of the buffet in-house. Customers need to see to believe.</p>
 									</div>
 
