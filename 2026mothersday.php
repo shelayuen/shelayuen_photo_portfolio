@@ -218,11 +218,11 @@
 								<!-- REVENUE -->
 								<div class="revenue-row">
 									<div class="revenue-card">
-										<span class="revenue-label">Restaurant Revenue<br><small>May 10 Buffet</small></span>
+										<span class="revenue-label">Buffet Revenue</span>
 										<span class="revenue-value">$14,591.93</span>
 									</div>
 									<div class="revenue-card">
-										<span class="revenue-label">Bookings<br><small>May 10</small></span>
+										<span class="revenue-label">Bookings</span>
 										<span class="revenue-value">230 covers (+17%)</span>
 									</div>
 									<!-- <div class="revenue-card">
