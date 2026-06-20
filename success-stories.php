@@ -94,7 +94,7 @@
 								<li class="meta-date">December 20, 2025</li>
 								<!-- <li class="meta-categ"><a href="#" >News</a> <a href="#" >Portraits</a></li> -->
 							</ul>
-							<div class="article-excerpt">Social media remains one of the most cost-effective marketing channels available—but only when it's used strategically. Simply posting isn't enough. The real magic happens when ...</div>
+							<div class="article-excerpt">With social media, simply posting isn't enough. The real magic happens when ...</div>
 							<a class="read-more" href="mothersdayreservation.php">Read More </a>
 						</div>
 					</article>
