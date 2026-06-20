@@ -64,7 +64,7 @@
 			<div class="overview-inner">
 				<div class="overview-item">
 				<label>Timeline</label>
-				<p>1.5 months<br>(April 1 - May 10)</p>
+				<p>2 months<br>(March 20 - May 10)</p>
 				</div>
 				<div class="overview-item">
 				<label>Offerings</label>
@@ -100,16 +100,20 @@
 								<h2>Campaign Timeline</h2>
 								<div class="timeline">
 									<div class="timeline-item">
-										<strong>Week 1 — Jan 26–Feb 1</strong>
-										<p>Photo &amp; video production, website launch, content calendar activation, email blast #1, Google Ads live, Meta Ads campaign launch, OpenTable &amp; Google Business Profile updates.</p>
+										<strong>Phrase 1 — Mar 20 – Apr 15</strong>
+										<p>Concept development, restaurant decoration & photoshoot, </p>
 									</div>
 									<div class="timeline-item">
-										<strong>Week 2 — Feb 2–8</strong>
-										<p>Ongoing reel publishing (12 total), giveaway campaign kick-off in partnership with the on-site Spa, email blast #2 to restaurant subscribers, campaign performance monitoring and optimization.</p>
+										<strong>Phrase 2 — Apr 16 – April 30</strong>
+										<p>Early bird booking promotions. Email Marketing & Paid Ads. Flower Bar event props procurement, signage production, flower ordering. </p>
 									</div>
 									<div class="timeline-item">
-										<strong>Week 3 — Feb 9–14</strong>
-										<p>Final push content, countdown reels, last-minute booking conversions, ad budget shifted to highest-performing creatives, Valentine's Day execution.</p>
+										<strong>Phrase 3 — May 1 - May 9</strong>
+										<p>Final push content, countdown reels, last-minute booking conversions, ad budget shifted to highest-performing creatives, Mother's Day execution.</p>
+									</div>
+									<div class="timeline-item">
+										<strong>Phrase 4 — May 10 the event day</strong>
+										<p>Flower Bar event execution, interaction with guests, </p>
 									</div>
 								</div>
 
