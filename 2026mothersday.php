@@ -136,7 +136,7 @@
 
 								<div class="spacer-50"></div>
 
-								<h2>Digital Marketing Tactics</h2>
+								<h2>Digital Marketing & Business Tactics</h2>
 
 								<div class="tactics-grid">
 
@@ -154,44 +154,38 @@
 
 									<div class="tactic-card">
 										<span class="tag">Social Media</span>
-										<h3>Content Calendar</h3>
-										<p>Produced 12 Reels and 1 Carousel post, scheduled from January 26 through February 14. Each piece of content was crafted for platform-native engagement, with hooks tailored for short-form discovery.</p>
+										<h3>Early bird promotions</h3>
+										<p>To encourage early commitment and balance seating across the day, we introduced a tiered incentive: 5% off for reservations made by April 30, and an additional…To encourage early commitment and balance seating across the day, we introduced a tiered incentive: 5% off for reservations made by April 30, and an additional 5% off for afternoon seatings. This gave the kitchen earlier visibility into order volumes and helped distribute covers evenly between shifts, making staffing easier to plan.</p>
 									</div>
 
 									<div class="tactic-card">
-										<span class="tag">Partnerships</span>
-										<h3>Giveaway Campaign</h3>
-										<p>Leveraged the hotel's on-site Spa as a co-sponsor for a Valentine's giveaway — creating a win-win collaboration that expanded reach for both brands while rewarding their shared audience.</p>
+										<span class="tag">Event Marketing</span>
+										<h3>Flower Bar</h3>
+										<p>Set up a dedicated flower bar where customers could purchase arrangements to take home, creating a memorable experience and additional photo check-in opportunities for social media exposure and engagement.</p>
 									</div>
 
 									<div class="tactic-card">
 										<span class="tag">Owned Media</span>
-										<h3>Website Launch: mixtlounge.ca</h3>
-										<p>Launched a brand new website with a full logo rebrand and a friendlier, conversion-optimised interface. Key additions included reservation functionality, Google Analytics integration, and a UX designed to convert social media traffic into confirmed bookings.</p>
+										<h3>Mother's Day Landing Page</h3>
+										<p>Crafted a full page narrative for Mother's Day — from brand storytelling and newly decorated restaurant photos, to food galleries, menu offerings, the Flower Bar and photo contest, and early bird promotions — with a booking call-to-action woven throughout.</p>
 									</div>
 
 									<div class="tactic-card">
 										<span class="tag">Email Marketing</span>
-										<h3>2 Email Blasts</h3>
-										<p>Sent two targeted emails to the restaurant's subscriber list introducing the Valentine's Menu. Each email was timed strategically — one to generate early awareness, one to capture last-minute bookers.</p>
-									</div>
-
-									<div class="tactic-card">
-										<span class="tag">Paid Media</span>
-										<h3>Google Ads</h3>
-										<p>Launched search campaigns to capture high-intent locals actively searching for Valentine's dining options — intercepting demand at the exact moment of decision.</p>
+										<h3>5 Email Blasts</h3>
+										<p>Developed 5 conversion-focused ad hooks backed by data, using a cohesive aesthetic that aligned with the menu design and social media graphics.</p>
 									</div>
 
 									<div class="tactic-card">
 										<span class="tag">Paid Media</span>
 										<h3>Meta Ads</h3>
-										<p>Ran paid campaigns across Instagram, Facebook, Messenger, and Threads — using the original video and photo content to drive awareness and retarget engaged audiences for conversions.</p>
+										<p>Ran paid ads across Instagram and Facebook — using conversion-focused ad hooks backed by data to target specific audiences for conversions.</p>
 									</div>
 
 									<div class="tactic-card">
 										<span class="tag">Platform Presence</span>
 										<h3>OpenTable &amp; Google Business Profile</h3>
-										<p>Added a special Valentine's Experience menu to OpenTable for increased exposure on their dedicated Valentine's Day page and for frictionless booking. Refreshed photo galleries on both OpenTable and Google Business Profile to present the most visually compelling version of the offering.</p>
+										<p>Added a special Mother's Day menu to OpenTable for increased exposure on their dedicated "Experience" page and for frictionless booking. Refreshed photo galleries on both OpenTable and Google Business Profile to present the most visually compelling version of the offering.</p>
 									</div>
 
 								</div>
