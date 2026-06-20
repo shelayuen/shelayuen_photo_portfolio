@@ -395,7 +395,7 @@
 
 								<div class="metrics-strip">
 									<div class="metric">
-										<span class="metric-label">Total META views (Apr 2 - May 10)</span>
+										<span class="metric-label">Total views (Apr 2 - May 10)</span>
 										<span class="metric-value">185,445</span><span class="metric-label">(88% from ads)</span>
 									</div>
 									<div class="metric">
