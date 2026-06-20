@@ -91,7 +91,7 @@
 								<p>Mother's Day buffet is traditionally one of the biggest events of the year for MIXT Lobby Lounge. But this year carried extra weight. Following a major labour strike that forced the restaurant to suspend operations for four months, and with the lounge still running on limited hours since December 2025, the priority was clear: get back on guests' radar and give them a compelling reason to choose us for Mother's Day.</p>
 								
 								<blockquote class="wp-block-quote">
-									<p> "The goal wasn't just about revenue. Beyond the buffet itself, we transformed the entire guest experience so that guests would choose us again in all occasions."</p>
+									<p> "The goal wasn't just about revenue. Beyond the buffet itself, we upgraded the entire guest experience so that guests would choose us again in all occasions."</p>
 									<cite></cite>
 								</blockquote>
 
@@ -101,11 +101,11 @@
 								<div class="timeline">
 									<div class="timeline-item">
 										<strong>Phrase 1 — Mar 20 – Apr 15</strong>
-										<p>Concept development, restaurant decoration & photoshoot, </p>
+										<p>Concept development, restaurant decoration & photoshoot, buffet preview photoshoot & videoshoot, social media content creation, paid-ad, early bird booking promotion.</p>
 									</div>
 									<div class="timeline-item">
 										<strong>Phrase 2 — Apr 16 – April 30</strong>
-										<p>Early bird booking promotions. Email Marketing & Paid Ads. Flower Bar event props procurement, signage production, flower ordering. </p>
+										<p>Flower Bar event props procurement, signage production, flower ordering, photo wall creation, acquiring manpower for event day. Early bird booking promotions. Email Marketing & Paid Ads.</p>
 									</div>
 									<div class="timeline-item">
 										<strong>Phrase 3 — May 1 - May 9</strong>
@@ -113,24 +113,24 @@
 									</div>
 									<div class="timeline-item">
 										<strong>Phrase 4 — May 10 the event day</strong>
-										<p>Flower Bar event execution, interaction with guests, </p>
+										<p>Flower Bar event execution, interaction with guests, social media content shooting, photoshoot for future marketing materials.</p>
 									</div>
 								</div>
 
 								<div class="spacer-50"></div>
 
 								<h2>The Offerings</h2>
-								<p>Two packages, two audiences, one cohesive brand story:</p>
+								<!-- <p>Two packages, two audiences, one cohesive brand story:</p> -->
 								<div class="tactics-grid">
 								<div class="tactic-card">
-									<span class="tag">Hotel</span>
-									<h3>Romance Room Package</h3>
-									<p>A curated overnight stay experience positioned as the perfect Valentine's gift — targeted at couples seeking a meaningful local escape.</p>
+									<span class="tag">Buffet</span>
+									<h3>Mother's Day Buffet</h3>
+									<p>A tradition loved by locals over the year but this year we elevated the experience with event and enhanced ambiance.</p>
 								</div>
 								<div class="tactic-card">
-									<span class="tag">Restaurant</span>
-									<h3>Valentine's Special Menu</h3>
-									<p>A limited-time prix-fixe menu designed to attract both hotel guests and walk-in diners, promoted across all digital touchpoints.</p>
+									<span class="tag">Event</span>
+									<h3>Flower Bar & Photo Contest</h3>
+									<p>Interactive flower bar with photo opportunities and a contest to engage guests and create user-generated content.</p>
 								</div>
 								</div>
 
@@ -143,13 +143,13 @@
 									<div class="tactic-card">
 										<span class="tag">Production</span>
 										<h3>Photo &amp; Video</h3>
-										<p>End-to-end production from planning and styling through on-site shooting and post-production editing. All visual assets were created in-house to ensure brand consistency and emotional resonance.</p>
+										<p>Hiring decor company to enhance the restaurant ambiance with spring garden theme; shooting photos and videos of a preview of the buffet in-house. Customers need to see to believe.</p>
 									</div>
 
 									<div class="tactic-card">
 										<span class="tag">Print &amp; Design</span>
-										<h3>Valentine's Menu Design</h3>
-										<p>Designed the physical Valentine's menu with an embedded Google Review lead magnet — turning a table leave-behind into an ongoing reputation-building tool.</p>
+										<h3>Mother's Day Menu Design</h3>
+										<p>With a concept of pastel pink and marble white, the menu has a sophiscated look and feel through careful attention to typography and layout. Drink menu was also designed to increase the ticket price from guests.</p>
 									</div>
 
 									<div class="tactic-card">
