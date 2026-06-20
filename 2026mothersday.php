@@ -404,7 +404,7 @@
 										<span class="metric-label">(97% Non-followers)</span>
 									</div>
 									<div class="metric">
-										<span class="metric-label">Profile & Landing Page Views</span>
+										<span class="metric-label">Profile, landing page, link clicks</span>
 										<span class="metric-value">6,228</span>
 									</div>
 									<div class="metric">
