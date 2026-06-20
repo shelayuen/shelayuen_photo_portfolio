@@ -192,7 +192,7 @@
 
 								<div class="spacer-50"></div>
 
-								<h2>Overall Results</h2>
+								<h2>Numberical Results</h2>
 								<p>We beated last year's bookings - from 197 - 230 covers (+17%) and intangible benefits of increased guests satisfaction and brand loyalty.</p>
 
 								<!-- KEY METRICS -->
@@ -206,10 +206,6 @@
 										<span class="revenue-label">Bookings</span>
 										<span class="revenue-value">230 covers (+17%)</span>
 									</div>
-									<!-- <div class="revenue-card">
-										<span class="revenue-label">Return on Investment / GRE</span>
-										<span class="revenue-value">17.5x / 16.4:1 </span>
-									</div> -->
 								</div>
 
 								<div class="metrics-strip">
@@ -241,8 +237,8 @@
 										<col style="width: 10%">
 										<col style="width: 10%">
 										<col style="width: 10%">
-										<col style="width: 20%">
-										<col style="width: 10%">
+										<col style="width: 18%">
+										<col style="width: 12%">
 										</colgroup>
 										<thead>
 										<tr>
