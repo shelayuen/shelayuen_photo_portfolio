@@ -196,25 +196,6 @@
 								<p>We beated last year's bookings - from 197 - 230 covers (+17%) and intangible benefits of increased guests satisfaction and brand loyalty.</p>
 
 								<!-- KEY METRICS -->
-								<div class="metrics-strip">
-								<div class="metric">
-									<span class="metric-label">Total META views (Apr 2 - May 10)</span>
-									<span class="metric-value">156,995</span><span class="metric-label">(88.1% from ads)</span>
-								</div>
-								<div class="metric">
-									<span class="metric-label">Accounts Reach</span>
-									<span class="metric-value">75,934 <small>(+ 85%) (97.6% Non-followers)</small></span>
-								</div>
-								<div class="metric">
-									<span class="metric-label">Profile & Landing Page Views</span>
-									<span class="metric-value">5,009</span>
-								</div>
-								<div class="metric">
-									<span class="metric-label">Overall Cost Per Click</span>
-									<span class="metric-value">$0.34</span>
-								</div>
-								</div>
-
 								<!-- REVENUE -->
 								<div class="revenue-row">
 									<div class="revenue-card">
@@ -229,6 +210,26 @@
 										<span class="revenue-label">Return on Investment / GRE</span>
 										<span class="revenue-value">17.5x / 16.4:1 </span>
 									</div> -->
+								</div>
+
+								<div class="metrics-strip">
+									<div class="metric">
+										<span class="metric-label">Total META views (Apr 2 - May 10)</span>
+										<span class="metric-value">156,995</span><span class="metric-label">(88.1% from ads)</span>
+									</div>
+									<div class="metric">
+										<span class="metric-label">Accounts Reach</span>
+										<span class="metric-value">75,934 </span>
+										<span class="metric-label">(+ 85%) (97.6% Non-followers)</span>
+									</div>
+									<div class="metric">
+										<span class="metric-label">Profile & Landing Page Views</span>
+										<span class="metric-value">6,228</span>
+									</div>
+									<div class="metric">
+										<span class="metric-label">Overall Cost Per Click</span>
+										<span class="metric-value">$0.27</span>
+									</div>
 								</div>
 
 								<!-- META AD TABLES -->
@@ -275,7 +276,7 @@
 											<td>Apr 24</td>
 											<td>34,638</td>
 											<td>17,583</td>
-											<td>—</td>
+											<td>1,219 link clicks</td>
 											<td>CA$307.19</td>
 										</tr>
 										<tr>
@@ -331,7 +332,7 @@
 											<td></td>
 											<td>185,445</td>
 											<td>104,194</td>
-											<td>3,190 profile visits · 1,819 landing page views</td>
+											<td>3,190 profile visits · 1,819 landing page views · 1,219 link clicks</td>
 											<td>CA$1,712.66</td>
 										</tr>
 										</tbody>
