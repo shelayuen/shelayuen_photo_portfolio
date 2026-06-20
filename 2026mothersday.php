@@ -368,12 +368,12 @@
 								<div class="metrics-strip">
 									<div class="metric">
 										<span class="metric-label">Total META views (Apr 2 - May 10)</span>
-										<span class="metric-value">156,995</span><span class="metric-label">(88.1% from ads)</span>
+										<span class="metric-value">185,445</span><span class="metric-label">(88% from ads)</span>
 									</div>
 									<div class="metric">
 										<span class="metric-label">Accounts Reach</span>
-										<span class="metric-value">75,934 </span>
-										<span class="metric-label">(+ 85%) (97.6% Non-followers)</span>
+										<span class="metric-value">104,194 </span>
+										<span class="metric-label">(97% Non-followers)</span>
 									</div>
 									<div class="metric">
 										<span class="metric-label">Profile & Landing Page Views</span>
