@@ -225,44 +225,153 @@
 								<!-- REVENUE -->
 								<div class="revenue-row">
 									<div class="revenue-card">
-										<span class="revenue-label">Restaurant Revenue<br><small>Feb 13 – Feb 15</small></span>
-										<span class="revenue-value">$10,212.28</span>
+										<span class="revenue-label">Restaurant Revenue<br><small>May 10 Buffet</small></span>
+										<span class="revenue-value">$14,591.93</span>
 									</div>
 									<div class="revenue-card">
-										<span class="revenue-label">Romance Package Revenue<br><small>Feb 13 – Feb 16 · 6 room nights</small></span>
-										<span class="revenue-value">$1,794</span>
+										<span class="revenue-label">Bookings<br><small>May 10</small></span>
+										<span class="revenue-value">230 covers (+17%)</span>
 									</div>
-									<div class="revenue-card">
+									<!-- <div class="revenue-card">
 										<span class="revenue-label">Return on Investment / GRE</span>
 										<span class="revenue-value">17.5x / 16.4:1 </span>
-									</div>
+									</div> -->
 								</div>
+
+								<!-- META AD TABLES -->
+								<div style="padding: 1rem 0; overflow-x: auto;">
+									<h2 class="sr-only">Meta ads performance table for Mother's Day 2026 campaign</h2>
+									<table style="width: 100%; border-collapse: collapse; font-size: 14px; table-layout: fixed;">
+										<colgroup>
+										<col style="width: 34%">
+										<col style="width: 8%">
+										<col style="width: 10%">
+										<col style="width: 10%">
+										<col style="width: 22%">
+										<col style="width: 16%">
+										</colgroup>
+										<thead>
+										<tr style="border-bottom: 0.5px solid var(--color-border-primary);">
+											<th style="text-align: left; padding: 10px 12px; font-weight: 500; font-size: 12px; color: var(--color-text-secondary); letter-spacing: 0.04em;">Ad</th>
+											<th style="text-align: left; padding: 10px 8px; font-weight: 500; font-size: 12px; color: var(--color-text-secondary); letter-spacing: 0.04em;">Date</th>
+											<th style="text-align: right; padding: 10px 8px; font-weight: 500; font-size: 12px; color: var(--color-text-secondary); letter-spacing: 0.04em;">Views</th>
+											<th style="text-align: right; padding: 10px 8px; font-weight: 500; font-size: 12px; color: var(--color-text-secondary); letter-spacing: 0.04em;">Viewers</th>
+											<th style="text-align: left; padding: 10px 8px; font-weight: 500; font-size: 12px; color: var(--color-text-secondary); letter-spacing: 0.04em;">Results</th>
+											<th style="text-align: right; padding: 10px 8px; font-weight: 500; font-size: 12px; color: var(--color-text-secondary); letter-spacing: 0.04em;">Amount spent</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"My mom always says she d…"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 30</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">4,142</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">2,710</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">111 profile visits</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$95.89</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"We are the largest conferen…"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 28</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">9,369</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">5,642</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">302 landing page views</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$101.98</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"Book your Mother's Day Br…"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 24</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">34,638</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">17,583</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">—</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$307.19</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"Make Mum feel like the mo…"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 23</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">27,042</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">17,841</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">1,280 profile visits</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$311.35</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"Every restaurant says 'spoi…'"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 17</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">22,601</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">13,495</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">551 profile visits</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$209.61</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"The whole family…"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 14</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">6,051</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">3,865</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">210 profile visits</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$63.68</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary); background: var(--color-background-info);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary); font-weight: 500;">"To our regulars who join us…" <span style="font-size: 11px; background: var(--color-background-success); color: var(--color-text-success); border-radius: 4px; padding: 2px 6px; margin-left: 4px; font-weight: 400;">Top performer</span></td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 10</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary); font-weight: 500;">42,519</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary); font-weight: 500;">20,260</td>
+											<td style="padding: 10px 8px; color: var(--color-text-primary); font-weight: 500;">1,517 landing page views</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary); font-weight: 500;">CA$199.72</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"50+ dishes. One very happ…"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 6</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">12,695</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">8,324</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">453 profile visits</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$143.78</td>
+										</tr>
+										<tr style="border-bottom: 0.5px solid var(--color-border-tertiary);">
+											<td style="padding: 10px 12px; color: var(--color-text-primary);">"Mum deserves the world. Y…"</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary); white-space: nowrap;">Apr 2</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">26,388</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">14,474</td>
+											<td style="padding: 10px 8px; color: var(--color-text-secondary);">585 profile visits</td>
+											<td style="padding: 10px 8px; text-align: right; color: var(--color-text-primary);">CA$279.46</td>
+										</tr>
+										<tr style="border-top: 1px solid var(--color-border-primary); background: var(--color-background-secondary);">
+											<td style="padding: 12px 12px; font-weight: 500; color: var(--color-text-primary);">Total</td>
+											<td style="padding: 12px 8px;"></td>
+											<td style="padding: 12px 8px; text-align: right; font-weight: 500; color: var(--color-text-primary);">185,445</td>
+											<td style="padding: 12px 8px; text-align: right; font-weight: 500; color: var(--color-text-primary);">104,194</td>
+											<td style="padding: 12px 8px; color: var(--color-text-secondary); font-size: 13px;">3,190 profile visits · 1,819 landing page views</td>
+											<td style="padding: 12px 8px; text-align: right; font-weight: 500; color: var(--color-text-primary);">CA$1,712.66</td>
+										</tr>
+										</tbody>
+									</table>
+								</div>
+
+
 
 								<!-- INSTAGRAM TABLES -->
 								<div class="ig-grid">
-								<div class="ig-block">
-									<div class="ig-header">
-									<span class="ig-title">Hotel IG Account</span>
-									<span class="ig-note">Last 30 days as at Feb 18</span>
+									<div class="ig-block">
+										<div class="ig-header">
+										<span class="ig-title">Hotel IG Account</span>
+										<span class="ig-note">Last 30 days as at Feb 18</span>
+										</div>
+										<table class="ig-table">
+										<tr><td>Followers (last 30 days)</td><td><strong>47</strong> <em>+2.9%</em></td></tr>
+										<tr><td>Views last 30 days</td><td><strong>23,888</strong> <em>90.9% non-followers</em></td></tr>
+										<tr><td>Accounts reached (Feb 18)</td><td><strong>16,607</strong></td></tr>
+										<tr><td>Accounts reached (Feb 9)</td><td><strong>23,404</strong></td></tr>
+										</table>
 									</div>
-									<table class="ig-table">
-									<tr><td>Followers (last 30 days)</td><td><strong>47</strong> <em>+2.9%</em></td></tr>
-									<tr><td>Views last 30 days</td><td><strong>23,888</strong> <em>90.9% non-followers</em></td></tr>
-									<tr><td>Accounts reached (Feb 18)</td><td><strong>16,607</strong></td></tr>
-									<tr><td>Accounts reached (Feb 9)</td><td><strong>23,404</strong></td></tr>
-									</table>
-								</div>
-								<div class="ig-block">
-									<div class="ig-header">
-									<span class="ig-title">MIXT IG Account</span>
-									<span class="ig-note">Last 30 days as at Feb 18</span>
+									<div class="ig-block">
+										<div class="ig-header">
+										<span class="ig-title">MIXT IG Account</span>
+										<span class="ig-note">Last 30 days as at Feb 18</span>
+										</div>
+										<table class="ig-table">
+										<tr><td>Followers (last 30 days)</td><td><strong>26</strong> <em>+4.5%</em></td></tr>
+										<tr><td>Views last 30 days</td><td><strong>14,995</strong> <em>93.2% non-followers</em></td></tr>
+										<tr><td>Accounts reached</td><td><strong>15,772</strong> <em>+105,046.7%</em></td></tr>
+										</table>
 									</div>
-									<table class="ig-table">
-									<tr><td>Followers (last 30 days)</td><td><strong>26</strong> <em>+4.5%</em></td></tr>
-									<tr><td>Views last 30 days</td><td><strong>14,995</strong> <em>93.2% non-followers</em></td></tr>
-									<tr><td>Accounts reached</td><td><strong>15,772</strong> <em>+105,046.7%</em></td></tr>
-									</table>
-								</div>
 								</div>
 
 								<p style="margin-top: 28px;">For a total ad spend of under $700, the campaign generated over <strong>$12,000 in combined revenue</strong> — a remarkable return driven by the synergy of organic content, paid amplification, and a conversion-optimised owned media ecosystem.</p>
