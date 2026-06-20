@@ -42,7 +42,9 @@
 					<li class="menu-item menu-item-has-children">
 						<a href="success-stories.php">Success Stories</a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="mothersdayreservation.php">Mother's day reservation</a></li>
+							<li class="menu-item"><a href="2026mothersday.php">2026 Mother's Day campaigns</a></li>
+							<li class="menu-item"><a href="2026valentine.php">2026 Valentine's Day campaigns</a></li>
+							<li class="menu-item"><a href="mothersdayreservation.php">2025 Mother's Day campaigns</a></li>
 						</ul>
 					</li>
 					<li class="menu-item">
@@ -114,8 +116,9 @@
 								<li class="menu-item menu-item-has-children">
 									<a href="success-stories.php">Success Stories</a>
 									<ul class="sub-menu">
-										<li class="menu-item"><a href="mothersdayreservation.php">2025 Mother's day</a></li>
-										<li class="menu-item"><a href="2026valentine.php">2026 Valentine's Campaigns</a></li>
+										<li class="menu-item"><a href="2026mothersday.php">2026 Mother's Day campaigns</a></li>
+										<li class="menu-item"><a href="2026valentine.php">2026 Valentine's Day campaigns</a></li>
+										<li class="menu-item"><a href="mothersdayreservation.php">2025 Mother's Day campaigns</a></li>
 									</ul>
 								</li>
 								<li class="menu-item">
