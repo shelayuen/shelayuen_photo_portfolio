@@ -345,7 +345,89 @@
 									</table>
 								</div>
 
+								<div class="spacer-50"></div>
 
+								<!-- paid ad hook thumbstop -->
+								<div class="paid-ad-hook">
+								    <table class="ad-table">
+										<thead>
+											<tr>
+											<th>Creative</th>
+											<th>Spend (CAD)</th>
+											<th>CTR</th>
+											<th>Thumbstop</th>
+											<th>Link Clicks</th>
+											<th>Shares</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr class="highlight">
+											<td>"To our regulars who joined…"</td>
+											<td>$141.02</td>
+											<td><span class="tag-green">10.36%</span></td>
+											<td><span class="tag-green">43.43%</span></td>
+											<td>1,455</td>
+											<td>28</td>
+											</tr>
+											<tr>
+											<td>"Make Mum feel…" (flowers)</td>
+											<td>$132.77</td>
+											<td>3.98%</td>
+											<td>27.49%</td>
+											<td>447</td>
+											<td>6</td>
+											</tr>
+											<tr>
+											<td>"Mum deserves…"</td>
+											<td>$141.70</td>
+											<td>2.51%</td>
+											<td>15.35%</td>
+											<td>314</td>
+											<td>1</td>
+											</tr>
+											<tr>
+											<td>"Every restaurant says…"</td>
+											<td>$117.18</td>
+											<td>2.67%</td>
+											<td>22.29%</td>
+											<td>279</td>
+											<td>6</td>
+											</tr>
+											<tr>
+											<td>Flower Bar carousel</td>
+											<td>$100.34</td>
+											<td>6.95%</td>
+											<td>9.49%</td>
+											<td>443</td>
+											<td>3</td>
+											</tr>
+											<tr>
+											<td>"My mom cried at brunch…"</td>
+											<td>$84.39</td>
+											<td>3.68%</td>
+											<td><span class="tag-green">33.84%</span></td>
+											<td>300</td>
+											<td>2</td>
+											</tr>
+											<tr>
+											<td>"The whole family…" carousel</td>
+											<td>$41.49</td>
+											<td>3.38%</td>
+											<td>–</td>
+											<td>130</td>
+											<td>1</td>
+											</tr>
+											<tr>
+											<td>Ongoing website promotion</td>
+											<td>$4.00</td>
+											<td>4.51%</td>
+											<td><span class="tag-green">33.16%</span></td>
+											<td>18</td>
+											<td>–</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
 
 								<!-- INSTAGRAM TABLES -->
 								<div class="ig-grid">
