@@ -218,7 +218,7 @@
 									<div class="tactic-card">
 										<span class="tag">Email Marketing</span>
 										<h3>5 Email Blasts</h3>
-										<p>Developed 5 conversion-focused ad hooks backed by data, using a cohesive aesthetic that aligned with the menu design and social media graphics.</p>
+										<p>Developed 5 conversion-focused hooks backed by data, using a cohesive aesthetic that aligned with the menu design and social media graphics.</p>
 									</div>
 
 									<div class="tactic-card">
