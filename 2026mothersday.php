@@ -418,12 +418,12 @@
 									<h2 class="sr-only">Meta ads performance table for Mother's Day 2026 campaign</h2>
 									<table style="width: 100%; border-collapse: collapse; font-size: 14px; table-layout: fixed;">
 										<colgroup>
-										<col style="width: 40%">
+										<col style="width: 38%">
 										<col style="width: 10%">
 										<col style="width: 10%">
 										<col style="width: 10%">
-										<col style="width: 18%">
-										<col style="width: 12%">
+										<col style="width: 19%">
+										<col style="width: 13%">
 										</colgroup>
 										<thead>
 										<tr>
@@ -520,16 +520,6 @@
 									</table>
 								</div>
 
-								<div class="spacer-50"></div>
-<!-- 
-								<h2>Intangible Results</h2>
-								<p>We receive increased brand awareness and customer loyalty as a result of our marketing efforts.</p>
-								<blockquote class="wp-block-quote">
-									<p>A group of mother and daughters have been building bouquets happily and taking lots of photos and posting on social media.</p>
-									<cite></cite>
-								</blockquote> -->
-
-
 
 							</div>
 							<div class="tags-single-page"> <a href="#" rel="tag">marketing</a> <a href="#" rel="tag">social media</a> <a href="#" rel="tag">funnels</a></div>
@@ -552,25 +542,6 @@
 									</div>
 								</div>
 							</div>
-							<!-- <section id="comments" class="comm-title">
-								<div class="respond">
-									<div id="comment-form-holder">
-										<div id="respond" class="comment-respond">
-											<h3 id="reply-title" class="comment-reply-title"><span>Leave a Comment</span> </h3>
-											<form action="#" method="post" id="commentform" class="comment-form" novalidate="">
-												<p><textarea name="comment" id="msg-contact" placeholder="Comment" rows="7" tabindex="3"></textarea></p>
-												<div class="row">
-													<div class="col-sm-4 margin-bm32"><input type="text" name="author" id="author" class="comm-field" value="" placeholder="Name" size="22" tabindex="1"></div>
-													<div class="col-sm-4 margin-bm32"><input type="text" name="email" id="email" class="comm-field" value="" placeholder="Email" size="22" tabindex="2"></div>
-													<div class="col-sm-4"><input type="text" name="url" id="url" class="comm-field" value="" placeholder="Website" size="22" tabindex="3"></div>
-												</div>
-												<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"></p>
-											</form>
-										</div>
-										<div id="output-contact"></div>
-									</div>
-								</div>
-							</section> -->
 						</article>
 					</div>
 					<!-- right column - about me & recent articles -->
