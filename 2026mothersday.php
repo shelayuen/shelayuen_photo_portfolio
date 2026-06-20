@@ -197,10 +197,6 @@
 								<p>The strategy was built on a full-funnel philosophy: generate awareness through organic social and paid amplification, capture intent with Google Search ads and OpenTable presence, and convert through a seamless owned-media experience — a new website designed from the ground up with bookings as the primary goal.</p>
 								<p>By integrating a giveaway in partnership with the Spa, we didn't just grow our audience — we grew a <em>relevant</em> audience with genuine hospitality intent. And by embedding a Google Review prompt directly into the physical menu, the campaign extended its value beyond February 14, building long-term social proof that continues to attract future diners.</p>
 
-								<div class="highlight">
-								Three weeks. Two offerings. One cohesive story told across every channel that mattered.
-								</div>
-								
 								<div class="spacer-50"></div>
 
 								<h2>Overall Results</h2>
