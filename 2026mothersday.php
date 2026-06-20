@@ -294,7 +294,7 @@
 											<td>CA$311.35</td>
 										</tr>
 										<tr>
-											<td>"Every restaurant says “spoil Mum” — most mean eggs benny and a mimosa. We mean roasted herb lamb loin with mint chimichurri. A chilled seafood display of snow crab legs, mussels, clams, and poached black tiger prawns. "</td>
+											<td>"Every restaurant says “spoil Mom” — most mean eggs benny and a mimosa. We mean roasted herb lamb loin with mint chimichurri. A chilled seafood display of snow crab legs, mussels, clams, and poached black tiger prawns. "</td>
 											<td>Apr 17</td>
 											<td>22,601</td>
 											<td>13,495</td>
@@ -318,7 +318,7 @@
 											<td>CA$199.72</td>
 										</tr>
 										<tr>
-											<td>"My mmum cried at brunch last year. Not because of us. Because of the oysters."</td>
+											<td>"My mom cried at brunch last year. Not because of us. Because of the oysters."</td>
 											<td>Apr 6</td>
 											<td>12,695</td>
 											<td>8,324</td>
@@ -326,7 +326,7 @@
 											<td>CA$143.78</td>
 										</tr>
 										<tr>
-											<td>"Mum deserves the world. You deserve a discount. 50+ dishes in one buffet price."</td>
+											<td>"Mom deserves the world. You deserve a discount. 50+ dishes in one buffet price."</td>
 											<td>Apr 2</td>
 											<td>26,388</td>
 											<td>14,474</td>
