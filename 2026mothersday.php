@@ -40,6 +40,52 @@
 		<link rel="icon" href="images/icons/favicon-32x32.png" sizes="32x32" />
 		<link rel="icon" href="images/icons/favicon-192x192.png" sizes="192x192" />
 		<link rel="apple-touch-icon-precomposed" href="images/icons/favicon-180x180.png" />
+
+		<!-- swiper -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+			<style>
+					/* 2. Set the size of the slider container */
+					.swiper {
+						width: 80%;
+						max-width: 500px;
+						height: auto;
+						border-radius: 15px;
+						box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+					}
+
+					/* 3. Style the slide content */
+					.swiper-slide {
+						display: flex;
+						justify-content: center;
+						align-items: center;
+						background: #fff;
+					}
+
+					/* Ensure images fill the slide without stretching */
+					.swiper-slide img{
+						display: block;
+						width: 100%;
+						height: 100%;
+						object-fit: cover;
+					}
+					
+					/* Optional: Change navigation arrow colors */
+					.swiper-button-next, .swiper-button-prev {
+						color: #ffffff; 
+						text-shadow: 0 0 5px rgba(0,0,0,0.5);
+					}
+
+					.swiper-pagination{
+						color:aqua;
+					}
+
+					.video{
+						display: block;
+						width: 500px;
+						height: 640px;
+					}
+			</style>
+
 	</head>
 	<body>
 		<div class="menu-mask"></div>
@@ -187,11 +233,122 @@
 										<h3>OpenTable &amp; Google Business Profile</h3>
 										<p>Added a special Mother's Day menu to OpenTable for increased exposure on their dedicated "Experience" page and for frictionless booking. Refreshed photo galleries on both OpenTable and Google Business Profile to present the most visually compelling version of the offering.</p>
 									</div>
-
 								</div>
 
 								<div class="spacer-50"></div>
 
+								<!-- visuals -->
+								<h2>Cohesive Visual Storytelling</h2>
+								<div class="swiper video mySwiper">
+									<div class="swiper-wrapper">
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
+												src="images/blog/mothersday2026/mothersdayelements.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
+												src="images/blog/mothersday2026/bts.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
+												src="images/blog/mothersday2026/restaurantdecor.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+									</div>
+									<div class="swiper-pagination"></div>
+									<div class="swiper-button-next"></div>
+									<div class="swiper-button-prev"></div>
+								</div>
+								<blockquote class="wp-block-quote">
+									<cite>Restaurant Decor, Behind-the-scenes, Mother's Day Elements</cite>
+								</blockquote>
+
+
+								<div class="swiper video mySwiper">
+									<div class="swiper-wrapper">
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
+												src="images/blog/mothersday2026/spoileralert.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
+												src="images/blog/mothersday2026/waitthatsallincluded.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
+												src="images/blog/mothersday2026/apologyad.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+										<div class="swiper-slide">
+											<video
+												width="100%"
+												height="100%"
+												src="images/blog/mothersday2026/earlybird.mp4"
+												controls
+												muted
+												preload="metadata">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+
+									</div>
+									<div class="swiper-pagination"></div>
+									<div class="swiper-button-next"></div>
+									<div class="swiper-button-prev"></div>
+								</div>
+								<blockquote class="wp-block-quote">
+									<cite>Restaurant Decor, Behind-the-scenes, Mother's Day Elements</cite>
+								</blockquote>
+
+								<div class="spacer-50"></div>
 								<h2>Numberical Results</h2>
 								<p>We beated last year's bookings - from 197 - 230 covers (+17%) and intangible benefits of increased guests satisfaction and brand loyalty.</p>
 
@@ -336,6 +493,15 @@
 								</div>
 
 								<div class="spacer-50"></div>
+<!-- 
+								<h2>Intangible Results</h2>
+								<p>We receive increased brand awareness and customer loyalty as a result of our marketing efforts.</p>
+								<blockquote class="wp-block-quote">
+									<p>A group of mother and daughters have been building bouquets happily and taking lots of photos and posting on social media.</p>
+									<cite></cite>
+								</blockquote> -->
+
+
 
 							</div>
 							<div class="tags-single-page"> <a href="#" rel="tag">marketing</a> <a href="#" rel="tag">social media</a> <a href="#" rel="tag">funnels</a></div>

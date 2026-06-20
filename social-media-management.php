@@ -120,11 +120,6 @@
 								<ul>
 									<li>
 										Showcase the warmth, quality, and community values that define our hotel
-										<!-- <ul>
-											<li>Pellentesque porta felis</li>
-											<li>Fermentum mi in</li>
-											<li>In sed neque</li>
-										</ul> -->
 									</li>
 									<li>Drive bookings by highlighting our special events, seasonal offerings, and distinctive amenities</li>
 									<li>Build trust through genuine storytelling and positive guest experiences</li>
@@ -200,15 +195,6 @@
 												preload="metadata">
 												Your browser does not support the video tag.
 											</video>
-											<!-- <iframe 
-												width="100%" 
-												height="100%" 
-												src="images\pages\social\reels\POV.mp4" 
-												title=" video player" 
-												frameborder="0" 
-												allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-												allowfullscreen>
-											</iframe> -->
 										</div>
 
 										<div class="swiper-slide">
@@ -221,15 +207,6 @@
 												preload="metadata">
 												Your browser does not support the video tag.
 											</video>
-											<!-- <iframe 
-												width="100%" 
-												height="100%" 
-												src="images\pages\social\reels\vow.mp4" 
-												title=" video player" 
-												frameborder="0" 
-												allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-												allowfullscreen>
-											</iframe> -->
 										</div>
 
 										<div class="swiper-slide">
@@ -243,15 +220,6 @@
 												preload="metadata">
 												Your browser does not support the video tag.
 											</video>
-											<!-- <iframe 
-												width="100%" 
-												height="100%" 
-												src="images\pages\social\reels\getting.mp4" 
-												title=" video player" 
-												frameborder="0" 
-												allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-												allowfullscreen>
-											</iframe>-->
 										</div>
 
 										<div class="swiper-slide">
@@ -264,15 +232,6 @@
 												preload="metadata">
 												Your browser does not support the video tag.
 											</video>
-											<!-- <iframe 
-												width="100%" 
-												height="100%" 
-												src="images\pages\social\reels\spring.mp4" 
-												title=" video player" 
-												frameborder="0" 
-												allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-												allowfullscreen>
-											</iframe> -->
 										</div>
 									</div>
 									<div class="swiper-pagination"></div>
