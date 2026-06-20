@@ -95,10 +95,9 @@
 			<div class="inner-desc">
 				<div class="container">
 					<h1 class="post-title single-post-title">2026 Mother's Day Campaign</h1>
-					<h5>A full-funnel strategy to drive bookings for a Mother's Day Brunch event</h5>
 					<ul class="post-meta">
 						<li class="meta-date">June 2026</li>
-						<li class="meta-categ"> <a href="#" rel="category tag">Event Marketing </a><a href="#" rel="category tag">Full-Funnel Strategy</a> </li>
+						<li class="meta-categ"> <a href="#" rel="category tag">Full-Funnel Strategy</a> </li>
 					</ul>
 				</div>
 			</div>
