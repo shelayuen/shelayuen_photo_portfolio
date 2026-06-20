@@ -286,7 +286,7 @@
 											<td>CA$307.19</td>
 										</tr>
 										<tr>
-											<td>"Make Mum feel like the mo…"</td>
+											<td>"One of my love languages is making mom feel like the most important person in the room; because one day we will look back at this mother's day,and be so glad we did something worth remembering"</td>
 											<td>Apr 23</td>
 											<td>27,042</td>
 											<td>17,841</td>
@@ -294,7 +294,7 @@
 											<td>CA$311.35</td>
 										</tr>
 										<tr>
-											<td>"Every restaurant says 'spoi…'"</td>
+											<td>"Every restaurant says “spoil Mum” — most mean eggs benny and a mimosa. We mean roasted herb lamb loin with mint chimichurri. A chilled seafood display of snow crab legs, mussels, clams, and poached black tiger prawns. "</td>
 											<td>Apr 17</td>
 											<td>22,601</td>
 											<td>13,495</td>
@@ -302,7 +302,7 @@
 											<td>CA$209.61</td>
 										</tr>
 										<tr>
-											<td>"The whole family…"</td>
+											<td>"The whole family. One table. No compromises."</td>
 											<td>Apr 14</td>
 											<td>6,051</td>
 											<td>3,865</td>
@@ -310,7 +310,7 @@
 											<td>CA$63.68</td>
 										</tr>
 										<tr>
-											<td>"To our regulars who join us…" <span style="font-size: 11px; background: var(--color-background-success); color: var(--color-text-success); border-radius: 4px; padding: 2px 6px; margin-left: 4px; font-weight: 400;">Top performer</span></td>
+											<td>"Spoiler Alert! Mother's Day Brunch Preview "</td>
 											<td>Apr 10</td>
 											<td>42,519</td>
 											<td>20,260</td>
@@ -318,7 +318,7 @@
 											<td>CA$199.72</td>
 										</tr>
 										<tr>
-											<td>"50+ dishes. One very happ…"</td>
+											<td>"My mmum cried at brunch last year. Not because of us. Because of the oysters."</td>
 											<td>Apr 6</td>
 											<td>12,695</td>
 											<td>8,324</td>
@@ -326,7 +326,7 @@
 											<td>CA$143.78</td>
 										</tr>
 										<tr>
-											<td>"Mum deserves the world. Y…"</td>
+											<td>"Mum deserves the world. You deserve a discount. 50+ dishes in one buffet price."</td>
 											<td>Apr 2</td>
 											<td>26,388</td>
 											<td>14,474</td>
