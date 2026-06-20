@@ -178,12 +178,21 @@
 									<h5 class="widgettitle">Recent Articles</h5>
 									<div class="widget-display-posts-img">
 										<ul>
-											<li>
+											<!-- <li>
 												<div class="display-post-holder">
 													<div class="display-post-img"> <a href="mothersdayreservation.php" title="Combining Social Media & Marketing funnels"><img src="images/blog/mothersdayreserve/mothersdayreserve.png" class="img-fluid" alt="Combining Social Media & Marketing funnels" title="Combining Social Media & Marketing funnels"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">December 20, 2025</p>
 														<div class="display-post-title"><a href="mothersdayreservation.php">Combining Social Media & Marketing funnels</a></div>
+													</div>
+												</div>
+											</li> -->
+											<li>
+												<div class="display-post-holder">
+													<div class="display-post-img"> <a href="2026mothersday.php" title="2026 Mother's Day Campaign"><img src="images/blog/mothersday2026/2026mday.png" class="img-fluid" alt="#" title="2026 Mother's Day Campaign"> </a></div>
+													<div class="display-post-text">
+														<p class="display-post-date">June 2026</p>
+														<div class="display-post-title"><a href="2026mothersday.php">Power of Paid-ads & Event Markerting</a></div>
 													</div>
 												</div>
 											</li>
@@ -196,33 +205,7 @@
 													</div>
 												</div>
 											</li>
-											<!-- <li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="New Dress Collection"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="New Dress Collection" title="New Dress Collection"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 18, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">New Dress Collection</a></div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 16, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Family Moments</a></div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Red Project"><img src="images/blog/blog-6-sm.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 14, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Red Project</a></div>
-													</div>
-												</div>
-											</li> -->
+
 										</ul>
 									</div>
 								</li>
