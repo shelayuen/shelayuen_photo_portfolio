@@ -51,7 +51,7 @@
 					<h1 class="post-title single-post-title">From Scroll to Reservation: Valentine's Day 2026</h1>
 					<ul class="post-meta">
 						<li class="meta-date">February 2026</li>
-						<li class="meta-categ"><a href="#" rel="category tag">Full-Funnel Strategy</a><a href="#" rel="category tag">Hotel & Restaurant</a></li>
+						<li class="meta-categ"><a href="#" rel="category tag">Full-Funnel Strategy</a></li>
 					</ul>
 				</div>
 			</div>
