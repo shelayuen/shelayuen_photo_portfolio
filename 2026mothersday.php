@@ -76,7 +76,7 @@
 				</div>
 				<div class="overview-item">
 				<label>Deliverables</label>
-				<p>12 Reels · 1 Carousel · 5 Email Blasts · New landing page</p>
+				<p>17 Reels · 3 Carousel · 5 Email Blasts · New landing page · Flower Bar Event · Social Media Contest</p>
 				</div>
 			</div>
 		</div>
@@ -88,10 +88,10 @@
 					<div class="col-lg-9  posts-holder post-sidebar ">
 						<article class="blog-item-1col single-post-holder single-article-container">
 							<div class="post-content single-post-content single-article-page clearfix">
-								<p>Valentine's Day is one of the most competitive dining and hospitality moments of the year. For 2026, my workplace - a Sheraton hotel with a restaurant managed by Executive chefs from 5-star hotels - wanted to do more than just run a promotion. They wanted to drive qualified traffic and convert that attention into real bookings across two distinct offerings: a Romance Hotel Room Package and a Valentine's Special Menu at the hotel's restaurant. Therefore, I have created a full-funnel marketing strategy to achieve that goal.</p>
+								<p>Mother's Day buffet is traditionally one of the biggest events of the year for MIXT Lobby Lounge. But this year carried extra weight. Following a major labour strike that forced the restaurant to suspend operations for four months, and with the lounge still running on limited hours since December 2025, the priority was clear: get back on guests' radar and give them a compelling reason to choose us for Mother's Day.</p>
 								
 								<blockquote class="wp-block-quote">
-									<p> "The goal wasn't just exposure — it was a seamless journey from the first Instagram reel to a confirmed reservation."</p>
+									<p> "The goal wasn't just about revenue. Beyond the buffet itself, we transformed the entire guest experience so that guests would choose us again in all occasions. "</p>
 									<cite></cite>
 								</blockquote>
 
