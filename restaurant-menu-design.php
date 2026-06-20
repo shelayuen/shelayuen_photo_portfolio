@@ -74,13 +74,13 @@
 								<div class="spacer"></div>
 
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\mixtmenu1.png" class="lightbox" title="Mixt Menu 2026 page1"><img src="images\albums\menu-design\mixtmenu1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\mixtmenu2.png" class="lightbox" title="Mixt Menu 2026 page2"><img src="images\albums\menu-design\mixtmenu2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\PoolMenu2026.png" class="lightbox" title="Pool Menu 2026"><img src="images\albums\menu-design\PoolMenu2026.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
@@ -90,10 +90,10 @@
 
 
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\2026-wine-list-red.png" class="lightbox" title="2026 Wine List Red"><img src="images\albums\menu-design\2026-wine-list-red.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\2026-wine-list-white.png" class="lightbox" title="2026 Wine List White"><img src="images\albums\menu-design\2026-wine-list-white.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
@@ -102,13 +102,13 @@
 								</blockquote>
 
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\kiosk-sandwich1.png" class="lightbox" title="Kiosk Sandwich 1"><img src="images\albums\menu-design\kiosk-sandwich1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\kiosk-sandwich2.png" class="lightbox" title="Kiosk Sandwich 2"><img src="images\albums\menu-design\kiosk-sandwich2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\kiosk-sandwich3.png" class="lightbox" title="Kiosk Sandwich 3"><img src="images\albums\menu-design\kiosk-sandwich3.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
@@ -117,10 +117,10 @@
 								</blockquote>
 
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\brunch1.png" class="lightbox" title="Brunch Menu 1"><img src="images\albums\menu-design\brunch1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\brunch2.png" class="lightbox" title="Brunch Menu 2"><img src="images\albums\menu-design\brunch2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
@@ -129,10 +129,10 @@
 								</blockquote>
 
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\happyhour1.png" class="lightbox" title="Happy Hour Menu 1"><img src="images\albums\menu-design\happyhour1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\happyhour2.png" class="lightbox" title="Happy Hour Menu 2"><img src="images\albums\menu-design\happyhour2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
@@ -149,7 +149,7 @@
 									</div>
 								</div>
 								<blockquote class="wp-block-quote">
-									<cite>Pool Side Menu</cite>
+									<cite>2025 Pool Side Menu</cite>
 								</blockquote>
 
 								<div class="gallery-container">
