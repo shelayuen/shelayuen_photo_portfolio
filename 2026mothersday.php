@@ -252,7 +252,7 @@
 										</colgroup>
 										<thead>
 										<tr>
-											<th>Ad</th>
+											<th>Ad Hook</th>
 											<th>Date</th>
 											<th>Views</th>
 											<th>Viewers</th>
@@ -262,7 +262,7 @@
 										</thead>
 										<tbody>
 										<tr>
-											<td>"My mom always says she d…"</td>
+											<td>"My mom always says she doesn't want anything for Mother's Day. So this year, I stopped listening"</td>
 											<td>Apr 30</td>
 											<td>4,142</td>
 											<td>2,710</td>
