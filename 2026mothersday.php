@@ -13,7 +13,7 @@
 
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Valentine's Day 2026 Campaign – Case Study | Shela Yuen | Markerting Manager & Digital Designer</title>
+		<title>2026 Campaign – Case Study | Shela Yuen | Markerting Manager & Digital Designer</title>
 
 		<!-- Open Graph Metatags -->
 		<meta property="og:title" content="Shela Yuen | Marketing Manager and Digital Designer for Premium Hotels" />
@@ -48,7 +48,8 @@
 		<div class="top-single-bkg single-post-topheader  topsingleimage " style="background-image:url('images/albums/up.jpg');">
 			<div class="inner-desc">
 				<div class="container">
-					<h1 class="post-title single-post-title">From Zero Assets to 230 Covers: Building a Mother's Day Campaign From Scratch</h1>
+					<h1 class="post-title single-post-title">2026 Mother's Day Campaign</h1>
+					<h3>A full-funnel strategy to drive bookings for a Mother's Day Brunch event</h3>
 					<ul class="post-meta">
 						<li class="meta-date">June 2026</li>
 						<li class="meta-categ"><a href="#" rel="category tag">Paid Ads</a><p> | </p><a href="#" rel="category tag">Social Media</a><p> | </p> <a href="#" rel="category tag">Email Marketing</a><p> | </p><a href="#" rel="category tag">Event Marketing</a> <p> | </p><a href="#" rel="category tag">Full-Funnel Strategy</a> </li>
