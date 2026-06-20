@@ -51,7 +51,7 @@
 				<div class="container">
 					<h1 class="post-title single-post-title">Restaurant Menu Design</h1>
 					<ul class="post-meta">
-						<li class="meta-date">December 1, 2025</li>
+						<li class="meta-date">Last updated: June 20, 2026</li>
 						<li class="meta-categ"><a href="#" rel="category tag">Culinary & Dining Showcase</a></li>
 					</ul>
 				</div>
