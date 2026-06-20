@@ -141,10 +141,10 @@
 								</blockquote>
 
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\pool1.png" class="lightbox" title="Pool Side Menu 1"><img src="images\albums\menu-design\pool1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 blog-item-masonry gallery-post">
 										<figure><a href="images\albums\menu-design\pool2.png" class="lightbox" title="Pool Side Menu 2"><img src="images\albums\menu-design\pool2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
