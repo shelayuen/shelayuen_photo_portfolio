@@ -59,14 +59,14 @@
 			<div class="row layout-masonry">
 				<div class="col-md-6 col-lg-4 blog-item-masonry">
 					<article class="blog-item blog-item-3col-grid">
-						<div class="post-image"> <a href="mothersday2026.php"> <img src="images/blog/mothersday2026/2026mday.png" class="img-fluid" alt="Marketing Funnel" title="Marketing funnel"> </a></div>
+						<div class="post-image"> <a href="2026mothersday.php"> <img src="images/blog/mothersday2026/2026mday.png" class="img-fluid" alt="Marketing Funnel" title="Marketing funnel"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="mothersday2026.php">2026 Mother's Day: Paid-ads & Flower Bar</a></h2>
+							<h2 class="article-title"><a href="2026mothersday.php">2026 Mother's Day: Paid-ads & Flower Bar</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">Jun 20, 2026</li>
 							</ul>
 							<div class="article-excerpt">Mother's Day buffet is traditionally one of the biggest events of the year for MIXT Lobby Lounge. But this year carried extra weight...</div>
-							<a class="read-more" href="mothersday2026.php">Read More </a>
+							<a class="read-more" href="2026mothersday.php">Read More </a>
 						</div>
 					</article>
 				</div>
