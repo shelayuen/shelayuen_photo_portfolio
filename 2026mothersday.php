@@ -645,5 +645,26 @@
 		<!-- CONTAT FORM JS -->
 		<script src='js/jquery.form.min.js'></script>
 		<script src='js/contactform.js'></script>
+				<!-- swiper -->
+		<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+		<script>
+			var swiper = new Swiper(".mySwiper", {
+										loop: true,               // Allows infinite looping
+										spaceBetween: 30,         // Space between slides in px
+										effect: 'slide',          // Transition effect
+										
+										// Navigation arrows
+										navigation: {
+											nextEl: ".swiper-button-next",
+											prevEl: ".swiper-button-prev",
+										},
+
+										// Pagination dots
+										pagination: {
+											el: ".swiper-pagination",
+											clickable: true,
+										},
+									});
+		</script>
 	</body>
 </html>
