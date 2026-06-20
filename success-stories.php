@@ -61,7 +61,7 @@
 					<article class="blog-item blog-item-3col-grid">
 						<div class="post-image"> <a href="mothersday2026.php"> <img src="images/blog/mothersday2026/2026mday.png" class="img-fluid" alt="Marketing Funnel" title="Marketing funnel"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="mothersday2026.php">2026 Mother's Day Campaign: Paid-ads & Flower Bar</a></h2>
+							<h2 class="article-title"><a href="mothersday2026.php">2026 Mother's Day: Paid-ads & Flower Bar</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">Jun 20, 2026</li>
 							</ul>
@@ -75,7 +75,7 @@
 					<article class="blog-item blog-item-3col-grid">
 						<div class="post-image"> <a href="2026valentine.php"> <img src="images/blog/valentine2026/vday2026.png" class="img-fluid" alt="Marketing Funnel" title="Marketing funnel"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="2026valentine.php">Marketing funnels for Mother's Day Lunch</a></h2>
+							<h2 class="article-title"><a href="2026valentine.php">Romance Room Package & V-day Menu</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">February 2025</li>
 							</ul>
@@ -89,7 +89,7 @@
 					<article class="blog-item blog-item-3col-grid">
 						<div class="post-image"> <a href="mothersdayreservation.php"> <img src="images\blog\mothersdayreserve\mothersdayreserve.png" class="img-fluid" alt="Marketing Funnel" title="Marketing funnel"> </a></div>
 						<div class="post-holder">
-							<h2 class="article-title"><a href="mothersdayreservation.php">2026 Valentine's Day: Room Package + </a></h2>
+							<h2 class="article-title"><a href="mothersdayreservation.php">Marketing funnels for Mother's Day Lunch</a></h2>
 							<ul class="post-meta">
 								<li class="meta-date">December 20, 2025</li>
 								<!-- <li class="meta-categ"><a href="#" >News</a> <a href="#" >Portraits</a></li> -->
