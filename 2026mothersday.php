@@ -348,6 +348,36 @@
 									<cite>Restaurant Decor, Behind-the-scenes, Mother's Day Elements</cite>
 								</blockquote>
 
+								<div class="row">
+									<div class="col-lg-6">
+										<figure><a href="#"><img src="images/blog/mothersday2026/signage1.png" alt="Dollhouse View" class="img-fluid" ></a></figure>
+									</div>
+									<div class="col-lg-6">
+										<figure><a href="#"><img src="images/blog/mothersday2026/signage2.png" alt="Dimensions" class="img-fluid" ></a></figure>
+									</div>
+								</div>
+								<blockquote class="wp-block-quote">
+									<cite>Flower Bar event signages (arch shaped and on easels)</cite>
+								</blockquote>
+
+
+								<div class="row">
+									<div class="col-lg-6">
+										<figure><a href="#"><img src="images/blog/mothersday2026/drinkmenu1.png" alt="Dollhouse View" class="img-fluid" ></a></figure>
+									</div>
+									<div class="col-lg-6">
+										<figure><a href="#"><img src="images/blog/mothersday2026/drinkmenu2.png" alt="Dimensions" class="img-fluid" ></a></figure>
+									</div>
+								</div>
+								<blockquote class="wp-block-quote">
+									<cite>Drink Menu (increase ticket price)</cite>
+								</blockquote>
+
+
+
+
+
+
 								<div class="spacer-50"></div>
 								<h2>Numberical Results</h2>
 								<p>We beated last year's bookings - from 197 - 230 covers (+17%) and intangible benefits of increased guests satisfaction and brand loyalty.</p>

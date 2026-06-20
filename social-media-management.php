@@ -83,7 +83,6 @@
 					width: 500px;
 					height: 640px;
 				}
-
 		</style>
 		
 	</head>
