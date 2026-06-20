@@ -270,7 +270,7 @@
 											<td>CA$95.89</td>
 										</tr>
 										<tr>
-											<td>"We are the largest conferen…"</td>
+											<td>"If you're still doing flowers and a card, she's been politely pretending that's enough for years. Mom desreves a real apology in the form of a buffet."</td>
 											<td>Apr 28</td>
 											<td>9,369</td>
 											<td>5,642</td>
@@ -278,7 +278,7 @@
 											<td>CA$101.98</td>
 										</tr>
 										<tr>
-											<td>"Book your Mother's Day Br…"</td>
+											<td>"Wait, that's all included? She gets 50+ dishes, A bouquet that she builds herself, And a shot at winning a one night stay at Penthouse suite, and you're still deciding?"</td>
 											<td>Apr 24</td>
 											<td>34,638</td>
 											<td>17,583</td>
