@@ -206,19 +206,19 @@
 								<div class="metrics-strip">
 								<div class="metric">
 									<span class="metric-label">Total META views (Apr 2 - May 10)</span>
-									<span class="metric-value">156,995 (88.1% from ads)</span>
+									<span class="metric-value">156,995 <small>(88.1% from ads)</small></span>
 								</div>
 								<div class="metric">
 									<span class="metric-label">Accounts Reach</span>
-									<span class="metric-value">75,934 (+ 85%) (97.6% Non-followers)</span>
+									<span class="metric-value">75,934 <small>(+ 85%) (97.6% Non-followers)</small></span>
 								</div>
 								<div class="metric">
-									<span class="metric-label">Landing Page Views</span>
-									<span class="metric-value">1,131</span>
+									<span class="metric-label">Profile & Landing Page Views</span>
+									<span class="metric-value">5,009</span>
 								</div>
 								<div class="metric">
 									<span class="metric-label">Overall Cost Per Click</span>
-									<span class="metric-value">$0.61</span>
+									<span class="metric-value">$0.34</span>
 								</div>
 								</div>
 
