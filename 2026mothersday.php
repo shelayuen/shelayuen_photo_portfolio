@@ -205,12 +205,12 @@
 								<!-- KEY METRICS -->
 								<div class="metrics-strip">
 								<div class="metric">
-									<span class="metric-label">Total META Impressions</span>
-									<span class="metric-value">50,650</span>
+									<span class="metric-label">Total META views (Apr 2 - May 10)</span>
+									<span class="metric-value">156,995 (88.1% from ads)</span>
 								</div>
 								<div class="metric">
-									<span class="metric-label">Total Reach</span>
-									<span class="metric-value">31,276</span>
+									<span class="metric-label">Accounts Reach</span>
+									<span class="metric-value">75,934 (+ 85%) (97.6% Non-followers)</span>
 								</div>
 								<div class="metric">
 									<span class="metric-label">Landing Page Views</span>
@@ -243,12 +243,12 @@
 									<h2 class="sr-only">Meta ads performance table for Mother's Day 2026 campaign</h2>
 									<table style="width: 100%; border-collapse: collapse; font-size: 14px; table-layout: fixed;">
 										<colgroup>
-										<col style="width: 34%">
+										<col style="width: 45%">
+										<col style="width: 9%">
+										<col style="width: 8%">
 										<col style="width: 8%">
 										<col style="width: 10%">
-										<col style="width: 10%">
-										<col style="width: 22%">
-										<col style="width: 16%">
+										<col style="width: 20%">
 										</colgroup>
 										<thead>
 										<tr>
