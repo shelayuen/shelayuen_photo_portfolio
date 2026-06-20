@@ -91,7 +91,7 @@
 								<p>Mother's Day buffet is traditionally one of the biggest events of the year for MIXT Lobby Lounge. But this year carried extra weight. Following a major labour strike that forced the restaurant to suspend operations for four months, and with the lounge still running on limited hours since December 2025, the priority was clear: get back on guests' radar and give them a compelling reason to choose us for Mother's Day.</p>
 								
 								<blockquote class="wp-block-quote">
-									<p> "The goal wasn't just about revenue. Beyond the buffet itself, we transformed the entire guest experience so that guests would choose us again in all occasions. "</p>
+									<p> "The goal wasn't just about revenue. Beyond the buffet itself, we transformed the entire guest experience so that guests would choose us again in all occasions."</p>
 									<cite></cite>
 								</blockquote>
 
@@ -341,7 +341,7 @@
 											</li>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="2026valentine.php" title="2026 Valentine's Campaign"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="#" title="2026 Valentine's Campaign"> </a></div>
+													<div class="display-post-img"> <a href="2026valentine.php" title="2026 Valentine's Campaign"><img src="images/blog/valentine2026/vday2026.png" class="img-fluid" alt="#" title="2026 Valentine's Campaign"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">February 2026</p>
 														<div class="display-post-title"><a href="2026valentine.php">Full-funnel: Valentine's Campaign</a></div>

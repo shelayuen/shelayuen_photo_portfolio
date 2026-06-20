@@ -340,7 +340,7 @@
 											</li>
 											<li>
 												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="2026valentine.php" title="2026 Valentine's Campaign"><img src="images/blog/blog-8-sm.jpg" class="img-fluid" alt="#" title="2026 Valentine's Campaign"> </a></div>
+													<div class="display-post-img"> <a href="2026valentine.php" title="2026 Valentine's Campaign"><img src="images/blog/valentine2026/vday2026.png" class="img-fluid" alt="#" title="2026 Valentine's Campaign"> </a></div>
 													<div class="display-post-text">
 														<p class="display-post-date">February 2026</p>
 														<div class="display-post-title"><a href="2026valentine.php">Full-funnel: Valentine's Campaign</a></div>
