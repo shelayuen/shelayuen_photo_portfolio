@@ -243,10 +243,10 @@
 									<h2 class="sr-only">Meta ads performance table for Mother's Day 2026 campaign</h2>
 									<table style="width: 100%; border-collapse: collapse; font-size: 14px; table-layout: fixed;">
 										<colgroup>
-										<col style="width: 45%">
-										<col style="width: 9%">
-										<col style="width: 8%">
-										<col style="width: 8%">
+										<col style="width: 40%">
+										<col style="width: 10%">
+										<col style="width: 10%">
+										<col style="width: 10%">
 										<col style="width: 20%">
 										<col style="width: 10%">
 										</colgroup>
