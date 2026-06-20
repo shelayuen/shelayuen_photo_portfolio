@@ -200,12 +200,12 @@
 								<div class="spacer-50"></div>
 
 								<h2>Overall Results</h2>
-								<p>With a total digital marketing spend of only <strong>$685.90</strong> across all campaigns for the Valentine's Menu and Romance Package, the campaign delivered measurable returns across every channel.</p>
+								<p>We beated last year's bookings - from 197 - 230 covers (+17%) and intangible benefits of increased guests satisfaction and brand loyalty.</p>
 
 								<!-- KEY METRICS -->
 								<div class="metrics-strip">
 								<div class="metric">
-									<span class="metric-label">Total Impressions</span>
+									<span class="metric-label">Total META Impressions</span>
 									<span class="metric-value">50,650</span>
 								</div>
 								<div class="metric">
