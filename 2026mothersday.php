@@ -190,13 +190,6 @@
 
 								</div>
 
-
-								<div class="spacer-50"></div>
-
-								<h2>Why This Approach Worked</h2>
-								<p>The strategy was built on a full-funnel philosophy: generate awareness through organic social and paid amplification, capture intent with Google Search ads and OpenTable presence, and convert through a seamless owned-media experience — a new website designed from the ground up with bookings as the primary goal.</p>
-								<p>By integrating a giveaway in partnership with the Spa, we didn't just grow our audience — we grew a <em>relevant</em> audience with genuine hospitality intent. And by embedding a Google Review prompt directly into the physical menu, the campaign extended its value beyond February 14, building long-term social proof that continues to attract future diners.</p>
-
 								<div class="spacer-50"></div>
 
 								<h2>Overall Results</h2>
@@ -422,24 +415,6 @@
 													</div>
 												</div>
 											</li>
-											<!-- <li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Family Moments"><img src="images/blog/blog-2-sm.jpg" class="img-fluid" alt="Family Moments" title="Family Moments"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 16, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Family Moments</a></div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="display-post-holder">
-													<div class="display-post-img"> <a href="blog-single-post.php" title="Red Project"><img src="images/blog/blog-6-sm.jpg" class="img-fluid" alt="Red Project" title="Red Project"> </a></div>
-													<div class="display-post-text">
-														<p class="display-post-date">August 14, 2021</p>
-														<div class="display-post-title"><a href="blog-single-post.php">Red Project</a></div>
-													</div>
-												</div>
-											</li> -->
 										</ul>
 									</div>
 								</li>
@@ -451,17 +426,9 @@
 										<li class="cat-item cat-item-2"><a href="#">Full-funnel strategy</a></li>
 									</ul>
 								</li>
-								<!-- <li class="widget widget_archive">
-									<h5 class="widgettitle">Archives</h5>
-									<ul>
-										<li><a href="#">December 2025</a></li>
-										<li><a href="#"></a></li>
-									</ul>
-								</li> -->
 								<li class="widget widget_tag_cloud">
 									<h5 class="widgettitle">Tags</h5>
 									<div class="tagcloud"><a href="#">marketing</a> <a href="#">social media</a> <a href="#">funnels</a>  <a href="#">email marketing</a>  <a href="#">OpenTable</a> <a href="#">Google Ads</a> <a href="#">Meta Ads</a>  
-										<!-- <a href="#">family</a> <a href="#">fashion shoot</a> <a href="#">friend</a> <a href="#">hugs</a> <a href="#">light</a> <a href="#">mom</a> <a href="#">nature</a> <a href="#">neon</a> <a href="#">night</a> <a href="#">photo shoot</a> <a href="#">portrait</a> <a href="#">red</a> <a href="#">road</a> <a href="#">seaside</a> <a href="#">summer</a> <a href="#">sun</a> <a href="#">trip</a> <a href="#">vacation</a> <a href="#">wedding</a> <a href="#">woman</a> -->
 									</div>
 								</li>
 							</ul>
