@@ -48,7 +48,7 @@
 		<div class="top-single-bkg topnoimg">
 			<div class="inner-desc">
 				<div class="container">
-					<h1 class="post-title single-post-title">Hotel Insider</h1>
+					<h1 class="post-title single-post-title">Hotel Marketing Insider</h1>
 					<span class="post-subtitle page-subtitle">Marketing Case Studies</span>
 				</div>
 			</div>
