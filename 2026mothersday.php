@@ -200,7 +200,7 @@
 									<div class="tactic-card">
 										<span class="tag">Social Media</span>
 										<h3>Early bird promotions</h3>
-										<p>To encourage early commitment and balance seating across the day, we introduced a tiered incentive: 5% off for reservations made by April 30, and an additional…To encourage early commitment and balance seating across the day, we introduced a tiered incentive: 5% off for reservations made by April 30, and an additional 5% off for afternoon seatings. This gave the kitchen earlier visibility into order volumes and helped distribute covers evenly between shifts, making staffing easier to plan.</p>
+										<p>To encourage early commitment and balance seating across the day, we introduced 5% off for reservations made by April 30, and an additional 5% off for afternoon seatings. This gave the kitchen earlier visibility into order volumes and helped distribute covers evenly between shifts, making staffing easier to plan.</p>
 									</div>
 
 									<div class="tactic-card">
