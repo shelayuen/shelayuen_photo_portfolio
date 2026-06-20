@@ -75,23 +75,53 @@
 
 								<div class="row">
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\2026-wine-list-red.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\mixtmenu1.png" class="lightbox" title="Mixt Menu 2026 page1"><img src="images\albums\menu-design\mixtmenu1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\2026-wine-list-white.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\mixtmenu2.png" class="lightbox" title="Mixt Menu 2026 page2"><img src="images\albums\menu-design\mixtmenu2.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+									<div class="col-lg-6">
+										<figure><a href="images\albums\menu-design\PoolMenu2026.png" class="lightbox" title="Pool Menu 2026"><img src="images\albums\menu-design\PoolMenu2026.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+								</div>
+								<blockquote class="wp-block-quote">
+									<cite>2026 MIXT Spring/Summer Menu with logo rebranded</cite>
+								</blockquote>
+
+
+								<div class="row">
+									<div class="col-lg-6">
+										<figure><a href="images\albums\menu-design\2026-wine-list-red.png" class="lightbox" title="2026 Wine List Red"><img src="images\albums\menu-design\2026-wine-list-red.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+									<div class="col-lg-6">
+										<figure><a href="images\albums\menu-design\2026-wine-list-white.png" class="lightbox" title="2026 Wine List White"><img src="images\albums\menu-design\2026-wine-list-white.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
 								<blockquote class="wp-block-quote">
 									<cite>2026 Wine List with logo rebranded</cite>
 								</blockquote>
 
+								<div class="row">
+									<div class="col-lg-6">
+										<figure><a href="images\albums\menu-design\kiosk-sandwich1.png" class="lightbox" title="Kiosk Sandwich 1"><img src="images\albums\menu-design\kiosk-sandwich1.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+									<div class="col-lg-6">
+										<figure><a href="images\albums\menu-design\kiosk-sandwich2.png" class="lightbox" title="Kiosk Sandwich 2"><img src="images\albums\menu-design\kiosk-sandwich2.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+									<div class="col-lg-6">
+										<figure><a href="images\albums\menu-design\kiosk-sandwich3.png" class="lightbox" title="Kiosk Sandwich 3"><img src="images\albums\menu-design\kiosk-sandwich3.png" alt="" class="img-fluid" ></a></figure>
+									</div>
+								</div>
+								<blockquote class="wp-block-quote">
+									<cite>Kiosk Sandwich Menu</cite>
+								</blockquote>
 
 								<div class="row">
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\brunch1.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\brunch1.png" class="lightbox" title="Brunch Menu 1"><img src="images\albums\menu-design\brunch1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\brunch2.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\brunch2.png" class="lightbox" title="Brunch Menu 2"><img src="images\albums\menu-design\brunch2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
 								<blockquote class="wp-block-quote">
@@ -100,10 +130,10 @@
 
 								<div class="row">
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\happyhour1.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\happyhour1.png" class="lightbox" title="Happy Hour Menu 1"><img src="images\albums\menu-design\happyhour1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\happyhour2.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\happyhour2.png" class="lightbox" title="Happy Hour Menu 2"><img src="images\albums\menu-design\happyhour2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
 								<blockquote class="wp-block-quote">
@@ -112,10 +142,10 @@
 
 								<div class="row">
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\pool1.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\pool1.png" class="lightbox" title="Pool Side Menu 1"><img src="images\albums\menu-design\pool1.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 									<div class="col-lg-6">
-										<figure><a href="#"><img src="images\albums\menu-design\pool2.png" alt="" class="img-fluid" ></a></figure>
+										<figure><a href="images\albums\menu-design\pool2.png" class="lightbox" title="Pool Side Menu 2"><img src="images\albums\menu-design\pool2.png" alt="" class="img-fluid" ></a></figure>
 									</div>
 								</div>
 								<blockquote class="wp-block-quote">
@@ -125,15 +155,18 @@
 								<div class="gallery-container">
 									<div class="fullscreen-container fs-gallery">
 										<div class="row layout-masonry gallery-holder gallery-masonry3cols">
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\BreakfastMenu.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\BreakfastMenu.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-1.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\DinnerMenu-1.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-2.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\DinnerMenu-2.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\smash.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\smash.png" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\kids2.jpg" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\kids2.jpg" alt=""> </a></div>
-											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\weekend-special.png" class="lightbox" title=""> <img class="img-fluid" src="images\albums\menu-design\weekend-special.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\BreakfastMenu.png" class="lightbox" title="Breakfast Menu"><img class="img-fluid" src="images\albums\menu-design\BreakfastMenu.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-1.png" class="lightbox" title="Dinner Menu 1"> <img class="img-fluid" src="images\albums\menu-design\DinnerMenu-1.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\DinnerMenu-2.png" class="lightbox" title="Dinner Menu 2"> <img class="img-fluid" src="images\albums\menu-design\DinnerMenu-2.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\smash.png" class="lightbox" title="Smashburger Menu"> <img class="img-fluid" src="images\albums\menu-design\smash.png" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\kids2.jpg" class="lightbox" title="Kids Menu 2"> <img class="img-fluid" src="images\albums\menu-design\kids2.jpg" alt=""> </a></div>
+											<div class="col-sm-6 col-lg-4 blog-item-masonry gallery-post"> <a href="images\albums\menu-design\weekend-special.png" class="lightbox" title="Weekend Special"> <img class="img-fluid" src="images\albums\menu-design\weekend-special.png" alt=""> </a></div>
 										</div>
 									</div>
 								</div>	
+								<blockquote class="wp-block-quote">
+									<cite>Menus 2025</cite>
+								</blockquote>
 								
 							</div>
 							<div class="tags-single-page"> <a href="#" rel="tag">Print Media</a> <a href="#" rel="tag">Menu Design</a> <a href="#" rel="tag">Branding</a></div>
